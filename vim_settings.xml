@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/dev/prometheus/JobBroker/src/main/java/com/ca/prometheus/jobbroker/JobThread.java" timestamp="1558538789972">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" timestamp="1558710742699">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" timestamp="1558711794355">
+        <mark key="'" line="4" column="109" />
+        <mark key="[" line="4" column="106" />
+        <mark key="]" line="4" column="109" />
+        <mark key="^" line="4" column="109" />
+        <mark key="." line="4" column="109" />
       </file>
     </filemarks>
     <jumps>
@@ -53,44 +53,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/JobBroker/src/main/java/com/ca/prometheus/jobbroker/JobThread.java" />
       <jump line="3" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
       <jump line="5" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
-      <jump line="4" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
+      <jump line="4" column="109" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SUYgT0JKRUNUX0lEKCd0ZW1wZGIuLiNpZHMnKSBJUyBOT1QgTlVMTAogICAgRFJPUCBUQUJMRSAjaWRzCkNSRUFURSBUQUJMRSAjaWRzIChleGVjdXRpb25JZCBCSUdJTlQgUFJJTUFSWSBLRVkpCgo=</text>
+      <register name="&quot;" type="4">
+        <text>exm.ActiveExecutions</text>
       </register>
       <register name="-" type="4">
-        <text>#ids</text>
+        <text>exm.ActiveExecutions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFN0YXJ0XD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SUYgT0JKRUNUX0lEKCd0ZW1wZGIuLiNpZHMnKSBJUyBOT1QgTlVMTAogICAgRFJPUCBUQUJMRSAjaWRzCkNSRUFURSBUQUJMRSAjaWRzIChleGVjdXRpb25JZCBCSUdJTlQgUFJJTUFSWSBLRVkpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgaW5zZXJ0IGludG8gZXhtLkFjdGl2ZUV4ZWN1dGlvbnMgKGV4ZWN1dGlvbklkKQogICAgc2VsZWN0IGV4ZWN1dGlvbklkCiAgICBmcm9tICMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">SUYgT0JKRUNUX0lEKCd0ZW1wZGIuLiNpZHMnKSBJUyBOT1QgTlVMTAogICAgRFJPUCBUQUJMRSAjaWRzCkNSRUFURSBUQUJMRSAjaWRzIChleGVjdXRpb25JZCBCSUdJTlQgUFJJTUFSWSBLRVkpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRydW5jYXRlIHRhYmxlICNpZHMK</text>
+        <text encoding="base64">ICAgIAogICAgaW5zZXJ0IGludG8gZXhtLkFjdGl2ZUV4ZWN1dGlvbnMgKGV4ZWN1dGlvbklkKQogICAgc2VsZWN0IGV4ZWN1dGlvbklkCiAgICBmcm9tICMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRydW5jYXRlIHRhYmxlICNpZHMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
