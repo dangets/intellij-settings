@@ -101,7 +101,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -120,6 +120,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
