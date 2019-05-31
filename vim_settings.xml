@@ -45,6 +45,9 @@
       <file name="$USER_HOME$/dev/prometheus/DataLoader/src/main/java/com/ca/prometheus/dataloader/App.java" timestamp="1559137757582">
         <mark key="." line="52" column="105" />
       </file>
+      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" timestamp="1559340652516">
+        <mark key="'" line="68" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/prometheus/EntityCleaner/src/main/java/com/ca/prometheus/entitycleaner/job/EntityCleanupManagementDelegate.java" timestamp="1559149386674">
         <mark key="'" line="67" column="4" />
         <mark key="[" line="35" column="0" />
@@ -156,6 +159,7 @@
       <jump line="384" column="19" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0-sources.jar!/okhttp3/Response.java" />
       <jump line="149" column="26" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0-sources.jar!/okhttp3/Response.java" />
       <jump line="171" column="3" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0-sources.jar!/okhttp3/Response.java" />
+      <jump line="68" column="16" filename="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -165,7 +169,7 @@
         <text>ZERO</text>
       </register>
       <register name="/" type="4">
-        <text>body(</text>
+        <text>blah</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgRkFJTFVSRV9TVEFUVVMgPSAzCg==</text>
@@ -199,11 +203,11 @@
       </register>
     </registers>
     <search>
-      <last-search>body(</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern>body(</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -218,6 +222,8 @@
         <entry>junit-jupter</entry>
         <entry>setstatus</entry>
         <entry>body(</entry>
+        <entry encoding="base64">XDxGZXRjaGVkUHJvcFw+</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
