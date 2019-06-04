@@ -96,10 +96,10 @@
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" timestamp="1559683230487">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" timestamp="1559685975646">
         <mark key="'" line="36" column="73" />
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="40" column="24" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="33" column="0" />
         <mark key="." line="40" column="24" />
         <mark key="^" line="40" column="24" />
       </file>
@@ -135,11 +135,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" timestamp="1558564242505">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" timestamp="1559686042947">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/job/SecurityAssignmentJobManagementDelegate.java" timestamp="1559139269030">
         <mark key="'" line="24" column="24" />
@@ -204,43 +204,45 @@
       <jump line="14" column="0" filename="$USER_HOME$/dev/external-data-checklist/pom.xml" />
       <jump line="40" column="13" filename="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/ExecutionManager.java" />
       <jump line="14" column="42" filename="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/webapp/swagger-ui/index.html" />
+      <jump line="4" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" />
+      <jump line="37" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>executionmanager.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>executionmanager.</text>
+        <text>sp_addlinkedserver @server=[st-recondb]</text>
       </register>
       <register name="/" type="4">
         <text>openapi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBleG0uQWN0aXZlRXhlY3V0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gam9iLkRhdGFMb2FkQXVkaXRzIGRsYQpqb2luIGpvYi5EYXRhTG9hZERldGFpbHMgZGxkIG9uIGRsYS5Kb2JJZCA9IGRsZC5Kb2JJZAp3aGVyZSAxPTEKLS1hbmQgZGxhLlJlc3VsdCA9IDMKYW5kIGRsZC5SZXF1ZXN0VXNlciA9ICdkYW5ueWdlb3JnZScKb3JkZXIgYnkgZGxkLkpvYklkIGRlc2MK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgRkFJTFVSRV9TVEFUVVMgPSAzCg==</text>
+        <text encoding="base64">CnVzZSBDdXN0b2R5RGF0YTsKCnNlbGVjdCAqCmZyb20gZHJ5ZG9jay4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ZnJvbSBleG0uQWN0aXZlRXhlY3V0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLm1vY2tpdG88L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm1vY2tpdG8tY29yZTwvYXJ0aWZhY3RJZD4KCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gam9iLkRhdGFMb2FkQXVkaXRzIGRsYQpqb2luIGpvYi5EYXRhTG9hZERldGFpbHMgZGxkIG9uIGRsYS5Kb2JJZCA9IGRsZC5Kb2JJZAp3aGVyZSAxPTEKLS1hbmQgZGxhLlJlc3VsdCA9IDMKYW5kIGRsZC5SZXF1ZXN0VXNlciA9ICdkYW5ueWdlb3JnZScKb3JkZXIgYnkgZGxkLkpvYklkIGRlc2MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgRkFJTFVSRV9TVEFUVVMgPSAzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLgo=</text>
+        <text encoding="base64">CQkJPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLm1vY2tpdG88L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm1vY2tpdG8tY29yZTwvYXJ0aWZhY3RJZD4KCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
