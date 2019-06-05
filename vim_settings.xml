@@ -66,13 +66,6 @@
       <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" timestamp="1559340652516">
         <mark key="'" line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaner/src/main/java/com/ca/prometheus/entitycleaner/job/EntityCleanupManagementDelegate.java" timestamp="1559149386674">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="10" />
-        <mark key="." line="36" column="10" />
-        <mark key="^" line="36" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/EntityNotifier/src/test/kotlin/com/ca/prometheus/entitynotifier/scenerio/config/TestConfigSource.kt" timestamp="1559338534254">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="52" />
@@ -98,6 +91,12 @@
         <mark key="[" line="42" column="35" />
         <mark key="]" line="42" column="35" />
         <mark key="." line="42" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/execution-manager/execution-manager-activation/src/main/java/com/ca/executionmanager/activation/dao/perseus/PerseusActivationDao.kt" timestamp="1559750276696">
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="41" column="66" />
+        <mark key="^" line="41" column="66" />
+        <mark key="." line="41" column="66" />
       </file>
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
@@ -149,13 +148,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/job/SecurityAssignmentJobManagementDelegate.java" timestamp="1559139269030">
-        <mark key="'" line="24" column="24" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="109" />
-        <mark key="." line="53" column="4" />
-        <mark key="^" line="53" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/EntityNotifier/src/main/java/com/ca/prometheus/entitynotifier/job/EntityHandoffAction.java" timestamp="1559140139551">
         <mark key="'" line="54" column="53" />
       </file>
@@ -164,13 +156,6 @@
         <mark key="]" line="24" column="7" />
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0-sources.jar!/okhttp3/Response.java" timestamp="1559337679912">
-        <mark key="'" line="171" column="3" />
-        <mark key="[" line="276" column="23" />
-        <mark key="]" line="276" column="22" />
-        <mark key="^" line="276" column="22" />
-        <mark key="." line="276" column="22" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/PrometheusDataDao.java" timestamp="1559576333260">
         <mark key="'" line="58" column="37" />
@@ -218,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>toString</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text>openapi</text>
