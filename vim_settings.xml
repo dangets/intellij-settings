@@ -180,6 +180,12 @@
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/PrometheusDataDao.java" timestamp="1559576333260">
         <mark key="'" line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/execution-manager/pom.xml" timestamp="1559770182230">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="14" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
@@ -241,7 +247,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>blah</text>
+        <text>jackson</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -275,15 +281,14 @@
       </register>
     </registers>
     <search>
-      <last-search>blah</last-search>
+      <last-search>jackson</last-search>
       <last-offset />
-      <last-pattern>blah</last-pattern>
+      <last-pattern>jackson</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>error executing</entry>
         <entry>schedule</entry>
         <entry>active</entry>
         <entry encoding="base64">XDxpZFN0YXJ0XD4=</entry>
@@ -303,6 +308,7 @@
         <entry encoding="base64">XDxsZWFrRGV0ZWN0aW9uVGhyZXNob2xkXD4=</entry>
         <entry>executionforids</entry>
         <entry>blah</entry>
+        <entry>jackson</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
