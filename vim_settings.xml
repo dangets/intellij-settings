@@ -193,6 +193,13 @@
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/PrometheusDataDao.java" timestamp="1559576333260">
         <mark key="'" line="58" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" timestamp="1559842181445">
+        <mark key="'" line="163" column="92" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="163" column="150" />
+        <mark key="." line="164" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/execution-manager/pom.xml" timestamp="1559770182230">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="20" />
@@ -268,59 +275,60 @@
       <jump line="8" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
       <jump line="9" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
       <jump line="465" column="0" filename="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/databaseenums/EntityField.java" />
+      <jump line="147" column="50" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
+      <jump line="162" column="23" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
+      <jump line="163" column="92" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YW5kIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWlmICghc2VjdXJpdHlBc3NpZ25tZW50UmVzdWx0cy5jb250YWluc0tleShlbnRpdHlJZCkpCgkJCQl7CgkJCQkJc2VjdXJpdHlBc3NpZ25tZW50UmVzdWx0cy5wdXQoZW50aXR5SWQsIG5ldyBTZWN1cml0eUFzc2lnbm1lbnRSZXN1bHQoZW50aXR5LCBqb2IpKTsKCQkJCX0KCQkJCVNlY3VyaXR5QXNzaWdubWVudFJlc3VsdCByZXN1bHQgPSBzZWN1cml0eUFzc2lnbm1lbnRSZXN1bHRzLmdldChlbnRpdHlJZCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text>expiration</text>
+        <text encoding="base64">XDxlbnRpdHlJZFw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CglAUHJvdmlkZXMKCUBTaW5nbGV0b24KCUNlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UgcHJvdmlkZUNlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UoQ2VyYmVydXNTZWN1cml0eU1hdGNoaW5nUmV0cm9maXRBcGkgYXBpLAoJCQkJCQkJCQkJCQkJCQkJCQkgICBNZXRyaWNSZWdpc3RyeSBtZXRyaWNSZWdpc3RyeSkgewoJCWJvb2xlYW4gaXNUZXN0ID0gZmFsc2U7CgkJcmV0dXJuIG5ldyBDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdTZXJ2aWNlKGFwaSwgaXNUZXN0LCBtZXRyaWNSZWdpc3RyeSk7Cgl9CgoJQFByb3ZpZGVzCglAU2luZ2xldG9uCglAQ2VyYmVydXNUZXN0CglDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdTZXJ2aWNlIHByb3ZpZGVDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdTZXJ2aWNlVGVzdChDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdSZXRyb2ZpdEFwaSBhcGksCgkJCQkJCQkJCQkJCQkJCQkJCQkgICBNZXRyaWNSZWdpc3RyeSBtZXRyaWNSZWdpc3RyeSkgewoJCWJvb2xlYW4gaXNUZXN0ID0gdHJ1ZTsKCQlyZXR1cm4gbmV3IENlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UoYXBpLCBpc1Rlc3QsIG1ldHJpY1JlZ2lzdHJ5KTsKCX0K</text>
+        <text encoding="base64">CQkJCWlmICghc2VjdXJpdHlBc3NpZ25tZW50UmVzdWx0cy5jb250YWluc0tleShlbnRpdHlJZCkpCgkJCQl7CgkJCQkJc2VjdXJpdHlBc3NpZ25tZW50UmVzdWx0cy5wdXQoZW50aXR5SWQsIG5ldyBTZWN1cml0eUFzc2lnbm1lbnRSZXN1bHQoZW50aXR5LCBqb2IpKTsKCQkJCX0KCQkJCVNlY3VyaXR5QXNzaWdubWVudFJlc3VsdCByZXN1bHQgPSBzZWN1cml0eUFzc2lnbm1lbnRSZXN1bHRzLmdldChlbnRpdHlJZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvL2ZpbmFsIENlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2Ugc21zID0gaW5qZWN0b3IuZ2V0SW5zdGFuY2UoQ2VyYmVydXNTZWN1cml0eU1hdGNoaW5nU2VydmljZS5jbGFzcyk7CgkJZmluYWwgQ2VyYmVydXNTZWN1cml0eU1hdGNoaW5nU2VydmljZSBzbXMgPSBpbmplY3Rvci5nZXRJbnN0YW5jZShLZXkuZ2V0KENlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UuY2xhc3MsIENlcmJlcnVzVGVzdC5jbGFzcykpOwoJCWZpbmFsIExpc3Q8U2VjdXJpdHlNYXRjaFJlc3VsdD4gbWF0Y2hlcyA9IHNtcy5nZXRNYXRjaGVzKHJlcXMpLmpvaW4oKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oInNlY3VyaXR5IG1hdGNoZXMiKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4obWF0Y2hlcyk7Cgo=</text>
+        <text encoding="base64">CglAUHJvdmlkZXMKCUBTaW5nbGV0b24KCUNlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UgcHJvdmlkZUNlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UoQ2VyYmVydXNTZWN1cml0eU1hdGNoaW5nUmV0cm9maXRBcGkgYXBpLAoJCQkJCQkJCQkJCQkJCQkJCQkgICBNZXRyaWNSZWdpc3RyeSBtZXRyaWNSZWdpc3RyeSkgewoJCWJvb2xlYW4gaXNUZXN0ID0gZmFsc2U7CgkJcmV0dXJuIG5ldyBDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdTZXJ2aWNlKGFwaSwgaXNUZXN0LCBtZXRyaWNSZWdpc3RyeSk7Cgl9CgoJQFByb3ZpZGVzCglAU2luZ2xldG9uCglAQ2VyYmVydXNUZXN0CglDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdTZXJ2aWNlIHByb3ZpZGVDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdTZXJ2aWNlVGVzdChDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdSZXRyb2ZpdEFwaSBhcGksCgkJCQkJCQkJCQkJCQkJCQkJCQkgICBNZXRyaWNSZWdpc3RyeSBtZXRyaWNSZWdpc3RyeSkgewoJCWJvb2xlYW4gaXNUZXN0ID0gdHJ1ZTsKCQlyZXR1cm4gbmV3IENlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UoYXBpLCBpc1Rlc3QsIG1ldHJpY1JlZ2lzdHJ5KTsKCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhZG1pblByb2QucmVjb21waWxlLlF1ZXJ5UGxhbiBXSEVSRSBSZXF1ZXN0RGF0ZSA+IERBVEVBREQoTUlOVVRFLCAtMTIwLCBDVVJSRU5UX1RJTUVTVEFNUCkK</text>
+        <text encoding="base64">CQkvL2ZpbmFsIENlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2Ugc21zID0gaW5qZWN0b3IuZ2V0SW5zdGFuY2UoQ2VyYmVydXNTZWN1cml0eU1hdGNoaW5nU2VydmljZS5jbGFzcyk7CgkJZmluYWwgQ2VyYmVydXNTZWN1cml0eU1hdGNoaW5nU2VydmljZSBzbXMgPSBpbmplY3Rvci5nZXRJbnN0YW5jZShLZXkuZ2V0KENlcmJlcnVzU2VjdXJpdHlNYXRjaGluZ1NlcnZpY2UuY2xhc3MsIENlcmJlcnVzVGVzdC5jbGFzcykpOwoJCWZpbmFsIExpc3Q8U2VjdXJpdHlNYXRjaFJlc3VsdD4gbWF0Y2hlcyA9IHNtcy5nZXRNYXRjaGVzKHJlcXMpLmpvaW4oKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oInNlY3VyaXR5IG1hdGNoZXMiKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4obWF0Y2hlcyk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhZG1pblByb2QucmVjb21waWxlLlF1ZXJ5UGxhbiBXSEVSRSBSZXF1ZXN0RGF0ZSA+IERBVEVBREQoTUlOVVRFLCAtMTIwLCBDVVJSRU5UX1RJTUVTVEFNUCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SUYgTk9UIEVYSVNUUyAoU0VMRUNUICogRlJPTSBzeXMuc2NoZW1hcyBXSEVSRSBuYW1lID0gJ2RhdGEnKQogICAgRVhFQyAoJ0NSRUFURSBTQ0hFTUEgZGF0YSBBVVRIT1JJWkFUSU9OIGRibycpCgpJRiBOT1QgRVhJU1RTIChTRUxFQ1QgKiBGUk9NIHN5cy5wcm9jZWR1cmVzIFdIRVJFIG5hbWUgPSAnR2V0RXhlY3V0aW9uRm9ySWRzJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHNjaGVtYV9pZCA9IFNDSEVNQV9JRCgnZGF0YScpKQogICAgRVhFQyAoJ0NSRUFURSBQUk9DRURVUkUgZGF0YS5HZXRFeGVjdXRpb25Gb3JJZHMgQVMgUkVUVVJOJykKR08KQUxURVIgUFJPQ0VEVVJFIGRhdGEuR2V0RXhlY3V0aW9uRm9ySWRzCiAgICBARXhlY3V0aW9uSWRzIFZBUkNIQVIoTUFYKQpBUwogICAgREVDTEFSRSBAZXhlY3V0aW9uSWRUYWJsZSBUQUJMRSAoZXhlY3V0aW9uSWQgQklHSU5UIE5PVCBOVUxMIFBSSU1BUlkgS0VZKQogICAgSU5TRVJUIElOVE8gQGV4ZWN1dGlvbklkVGFibGUKICAgIFNFTEVDVCBUb2tlbiBGUk9NIGRiby5TcGxpdChARXhlY3V0aW9uSWRzLCAnfCcpCgogICAgU0VMRUNUIGV4LioKICAgIEZST00gZGF0YS5Qcm9tZXRoZXVzRXhlY3V0aW9uIGV4CiAgICBKT0lOIEBleGVjdXRpb25JZFRhYmxlIGlkcyBPTiBpZHMuZXhlY3V0aW9uSWQgPSBleC5JRApHTwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">SUYgTk9UIEVYSVNUUyAoU0VMRUNUICogRlJPTSBzeXMuc2NoZW1hcyBXSEVSRSBuYW1lID0gJ2RhdGEnKQogICAgRVhFQyAoJ0NSRUFURSBTQ0hFTUEgZGF0YSBBVVRIT1JJWkFUSU9OIGRibycpCgpJRiBOT1QgRVhJU1RTIChTRUxFQ1QgKiBGUk9NIHN5cy5wcm9jZWR1cmVzIFdIRVJFIG5hbWUgPSAnR2V0RXhlY3V0aW9uRm9ySWRzJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHNjaGVtYV9pZCA9IFNDSEVNQV9JRCgnZGF0YScpKQogICAgRVhFQyAoJ0NSRUFURSBQUk9DRURVUkUgZGF0YS5HZXRFeGVjdXRpb25Gb3JJZHMgQVMgUkVUVVJOJykKR08KQUxURVIgUFJPQ0VEVVJFIGRhdGEuR2V0RXhlY3V0aW9uRm9ySWRzCiAgICBARXhlY3V0aW9uSWRzIFZBUkNIQVIoTUFYKQpBUwogICAgREVDTEFSRSBAZXhlY3V0aW9uSWRUYWJsZSBUQUJMRSAoZXhlY3V0aW9uSWQgQklHSU5UIE5PVCBOVUxMIFBSSU1BUlkgS0VZKQogICAgSU5TRVJUIElOVE8gQGV4ZWN1dGlvbklkVGFibGUKICAgIFNFTEVDVCBUb2tlbiBGUk9NIGRiby5TcGxpdChARXhlY3V0aW9uSWRzLCAnfCcpCgogICAgU0VMRUNUIGV4LioKICAgIEZST00gZGF0YS5Qcm9tZXRoZXVzRXhlY3V0aW9uIGV4CiAgICBKT0lOIEBleGVjdXRpb25JZFRhYmxlIGlkcyBPTiBpZHMuZXhlY3V0aW9uSWQgPSBleC5JRApHTwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICBXSEVSRSAKCQlJRCBJTiAoU0VMRUNUICogRlJPTSBAZXhlY3V0aW9uSWRUYWJsZSkK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICBXSEVSRSAKCQlJRCBJTiAoU0VMRUNUICogRlJPTSBAZXhlY3V0aW9uSWRUYWJsZSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkYXRhU291cmNlVHlwZUlkLAoJCVBhcnRpdGlvbklkLAoJCVJhbkN1c3RvbURhdGEsCgkJRGF0YUZlZWRJZCwKCQlGaWxlRGlzdHJpYnV0aW9uLAoJCXJlY29uRGF0ZSwKCQlSYW5Qb3NpdGlvbnMsCgkJUmFuVGF4TG90cywKCQlSYW5TZWN1cml0eSwKCQlSYW5QbGVkZ2VzLAoJCVJhblByaWNpbmcsCgkJUmFuVHJhbnNhY3Rpb25zLAoJCXRzRXhlY3V0aW9uLAoJCUVudGl0eUhhbmRvZmZJZCwKCQlEYXRhVHJhY2tpbmdJZCwKCQlJRCwKCQlQYXJ0aXRpb25UeXBlLAoJCVBvc2l0aW9uc0NvdW50LAoJCVRyYW5zYWN0aW9uc0NvdW50LAoJCVRheExvdHNDb3VudCwKCQlQcmljaW5nQ291bnQsCgkJUGxlZGdlc0NvdW50LAoJCVNlY3VyaXR5Q291bnQsCgkJQ3VzdG9tRGF0YUNvdW50Cg==</text>
+        <text encoding="base64">ICAgICBXSEVSRSAKCQlJRCBJTiAoU0VMRUNUICogRlJPTSBAZXhlY3V0aW9uSWRUYWJsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>expiration</last-search>
+      <last-search encoding="base64">XDxlbnRpdHlJZFw+</last-search>
       <last-offset />
-      <last-pattern>expiration</last-pattern>
+      <last-pattern encoding="base64">XDxlbnRpdHlJZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jobfailuremeter</entry>
-        <entry>engine</entry>
         <entry>junit-jupter</entry>
         <entry>setstatus</entry>
         <entry>body(</entry>
@@ -339,6 +347,8 @@
         <entry encoding="base64">XDxzbXNcPg==</entry>
         <entry encoding="base64">XDxDZXJiZXJ1c1NlY3VyaXR5TWF0Y2hpbmdSZXRyb2ZpdEFwaVw+</entry>
         <entry>expiration</entry>
+        <entry encoding="base64">XDxtYXBNYXRjaGVzVG9SZXN1bHRNYXBcPg==</entry>
+        <entry encoding="base64">XDxlbnRpdHlJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
