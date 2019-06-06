@@ -166,12 +166,12 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1559753667662">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1559850388671">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="53" column="49" />
-        <mark key="^" line="47" column="17" />
-        <mark key="." line="47" column="17" />
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="70" column="14" />
+        <mark key="^" line="70" column="14" />
+        <mark key="." line="70" column="14" />
       </file>
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
@@ -333,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CS8vIGxpdmUgYW5kIHRlc3Qgc2VydmljZXMgYXJlIHRoZSBzYW1l</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CS8vIGxpdmUgYW5kIHRlc3Qgc2VydmljZXMgYXJlIHRoZSBzYW1l</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaGluZ0ZhaWx1cmVzXD4=</text>
