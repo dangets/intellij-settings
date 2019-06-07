@@ -230,6 +230,12 @@
         <mark key="^" line="49" column="34" />
         <mark key="." line="32" column="78" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1559922208747">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" timestamp="1559747714689">
         <mark key="[" line="37" column="9" />
         <mark key="]" line="39" column="0" />
@@ -357,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlNYXA8SW50ZWdlciwgU2V0PENvbXBsZXRlRGF0YUZlZWQ+PiByZXN1bHRzID0gTWFwcy5uZXdIYXNoTWFwKCk7Cg==</text>
+        <text encoding="base64">U0VMRUNUIFRPUCgxMCkgKgpGUk9NIGFkbWluUHJvZC5yZWNvbXBpbGUuUmVxdWVzdHMKb3JkZXIgYnkgUmVxdWVzdERhdGUgZGVzYwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICBXSEVSRSBSZXF1ZXN0RGF0ZSA+IERBVEVBREQoTUlOVVRFLCAtMTIwLCBDVVJSRU5UX1RJTUVTVEFNUCk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblJvb3REYW9cPg==</text>
@@ -401,7 +407,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx0cmFuc2FjdGlvblJvb3REYW9cPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
