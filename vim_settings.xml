@@ -12,6 +12,13 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" timestamp="1560270880322">
+        <mark key="'" line="184" column="17" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
+        <mark key="^" line="250" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/prometheus/EntityExtractor/src/main/java/com/ca/prometheus/entityextractor/job/IdentifierExtractionManagementDelegate.java" timestamp="1559138662301">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="111" />
@@ -121,6 +128,13 @@
         <mark key="]" line="67" column="106" />
         <mark key="." line="67" column="65" />
         <mark key="^" line="67" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/entities/EntityMapSecurityFuzzyMatchesTest.java" timestamp="1560270673846">
+        <mark key="'" line="89" column="48" />
+        <mark key="[" line="131" column="41" />
+        <mark key="]" line="131" column="49" />
+        <mark key="." line="131" column="49" />
+        <mark key="^" line="131" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5958e235-3ceb-4480-9ce7-f88ab027b5fc/console.sql" timestamp="1559762036496">
         <mark key="[" line="15" column="11" />
@@ -288,11 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="18" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
-      <jump line="27" column="43" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
-      <jump line="6" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
-      <jump line="7" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
-      <jump line="8" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
       <jump line="9" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
       <jump line="465" column="0" filename="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/databaseenums/EntityField.java" />
       <jump line="147" column="50" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
@@ -388,59 +397,62 @@
       <jump line="37" column="35" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" />
       <jump line="89" column="5" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" />
       <jump line="96" column="5" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" />
+      <jump line="183" column="17" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
+      <jump line="217" column="16" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/entities/EntityMapSecurityFuzzyMatchesTest.java" />
+      <jump line="244" column="23" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/entities/EntityMapSecurityFuzzyMatchesTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/entities/EntityMapSecurityFuzzyMatchesTest.java" />
+      <jump line="89" column="48" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/entities/EntityMapSecurityFuzzyMatchesTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YW5kIHQucmUK</text>
+        <text encoding="base64">CQlpZiAoczEgPT0gbnVsbCkKCQkJcmV0dXJuIHMyID09IG51bGw7CgkJcmV0dXJuIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>si</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
-        <text>override</text>
+        <text>sedol</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kIHQucmUK</text>
+        <text encoding="base64">CQlpZiAoczEgPT0gbnVsbCkKCQkJcmV0dXJuIHMyID09IG51bGw7CgkJcmV0dXJuIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JkZXIgYnkgRW50aXR5RXh0cmFjdGlvbklEIGRlc2MK</text>
+        <text encoding="base64">CQkJCQkJc2koKS5hbHRlcm5hdGVJZCgiQWFBYUFhQWFBIiksCgkJCQkJCXNpKCkuYWx0ZXJuYXRlSWQoIkFBQUFBQUFBQSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JkZXIgYnkgZXAuCg==</text>
+        <text encoding="base64">CQkJdHJpbmcuZm9ybWF0KCJleHBlY3RlZCBtYXRjaCBmb3IiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEN1c3RvZHlEYXRhOwo=</text>
+        <text encoding="base64">CQkJCSwgYXJndW1lbnRzKAoJCQkJCQkiY2FzZSBpbnNlbnNpdGl2ZSIsCgkJCQkJCXRydWUsCgkJCQkJCXNpKCkuY3VzaXAoIkNDQ0NDQ0NDQyIpLmlzaW4oIklJSUlJSUlJSSIpLnNlZG9sKCJTU1NTU1NTIikudGlja2VyKCJUVFRUVFRUVFQiKSwKCQkJCQkJc2koKS5jdXNpcCgiQ0NDQ0NDQ0NDIikuaXNpbigiSUlJSUlJSUlJIikuc2Vkb2woIiAgICAgICAiKS50aWNrZXIoIiAgICAgICAgICIpCgkJCQkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9tZXRoZXVzcmF3ZGF0YS5GaWxlTW9kZWxzIGZtCndoZXJlIDE9MQphbmQgZm0uVmVyc2lvbiA9IDI3NjQK</text>
+        <text encoding="base64">YW5kIHQucmUK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">J3wnIEFTICd8fCcsIAonfCcgQVMgJ3x8JywgCid8JyBBUyAnfHwnLCA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">b3JkZXIgYnkgRW50aXR5RXh0cmFjdGlvbklEIGRlc2MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JkZXIgYnkgZXAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlICNmb28gKGlkIElOVCBQUklNQVJZIEtFWSkKaW5zZXJ0IGludG8gI2ZvbyAoaWQpIHZhbHVlcyAoMSkKaW5zZXJ0IGludG8gI2ZvbyAoaWQpIHZhbHVlcyAobnVsbCkKCnNlbGVjdCAqCmZyb20gI2Zvbwo=</text>
+        <text encoding="base64">dXNlIEN1c3RvZHlEYXRhOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlNYXA8SW50ZWdlciwgU2V0PENvbXBsZXRlRGF0YUZlZWQ+PiByZXN1bHRzID0gTWFwcy5uZXdIYXNoTWFwKCk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9tZXRoZXVzcmF3ZGF0YS5GaWxlTW9kZWxzIGZtCndoZXJlIDE9MQphbmQgZm0uVmVyc2lvbiA9IDI3NjQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>override</last-search>
+      <last-search>sedol</last-search>
       <last-offset />
-      <last-pattern>override</last-pattern>
+      <last-pattern>sedol</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGROb3RlXD4=</entry>
-        <entry encoding="base64">XDxzZWNDcmVhdGlvbkZhaWx1cmVNZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxzZWNDcmVhdGlvbkZhaWx1cmVzXD4=</entry>
         <entry encoding="base64">XDxzZWNNYXRjaEZhaWx1cmVzXD4=</entry>
         <entry encoding="base64">XDxzZWNOb01hdGNoRmFpbHVyZXNcPg==</entry>
@@ -459,9 +471,12 @@
         <entry>getprior</entry>
         <entry>createoverride</entry>
         <entry>override</entry>
+        <entry>fuzzymatches</entry>
+        <entry>sedol</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
