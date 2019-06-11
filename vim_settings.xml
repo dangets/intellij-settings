@@ -46,9 +46,6 @@
       <file name="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" timestamp="1559842770197">
         <mark key="'" line="101" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/normalizer/CompleteDataFeed.java" timestamp="1559879100669">
-        <mark key="." line="32" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/partition/PartitionResource.java" timestamp="1559878860623">
         <mark key="'" line="29" column="24" />
       </file>
@@ -104,6 +101,13 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" timestamp="1560275276669">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="419" column="82" />
+        <mark key="]" line="419" column="89" />
+        <mark key="." line="419" column="89" />
+        <mark key="^" line="419" column="89" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/databaseenums/EntityField.java" timestamp="1559836410168">
         <mark key="'" line="465" column="0" />
@@ -191,12 +195,12 @@
         <mark key="]" line="16" column="48" />
         <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" timestamp="1560272402901">
-        <mark key="'" line="170" column="26" />
-        <mark key="[" line="469" column="64" />
-        <mark key="]" line="469" column="64" />
-        <mark key="." line="469" column="64" />
-        <mark key="^" line="469" column="64" />
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" timestamp="1560275785574">
+        <mark key="'" line="477" column="79" />
+        <mark key="[" line="477" column="79" />
+        <mark key="]" line="477" column="80" />
+        <mark key="." line="477" column="79" />
+        <mark key="^" line="477" column="79" />
       </file>
       <file name="/a.sql" timestamp="1560175816039">
         <mark key="[" line="0" column="0" />
@@ -274,12 +278,11 @@
         <mark key="^" line="49" column="34" />
         <mark key="." line="32" column="78" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560271917006">
-        <mark key="'" line="144" column="8" />
-        <mark key="[" line="152" column="57" />
-        <mark key="]" line="152" column="58" />
-        <mark key="." line="152" column="58" />
-        <mark key="^" line="152" column="58" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560274726167">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="163" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" timestamp="1559747714689">
         <mark key="[" line="37" column="9" />
@@ -308,16 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="41" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="53" column="16" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="54" column="16" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="132" column="43" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="133" column="64" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="237" column="65" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="243" column="62" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="188" column="27" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="240" column="62" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="44" column="8" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssignmentResult.java" />
       <jump line="50" column="44" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssignmentResult.java" />
       <jump line="266" column="20" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
       <jump line="253" column="57" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
@@ -408,61 +401,67 @@
       <jump line="52" column="28" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
       <jump line="55" column="20" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
       <jump line="170" column="26" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
+      <jump line="416" column="5" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
+      <jump line="29" column="29" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
+      <jump line="142" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
+      <jump line="159" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
+      <jump line="166" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
+      <jump line="388" column="26" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
+      <jump line="389" column="21" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
+      <jump line="436" column="8" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
+      <jump line="28" column="31" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
+      <jump line="474" column="79" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxhc3NlcnRGYWxzZVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzMSBudWxsYWJsZSBzdHJpbmcxCiAgICAgKiBAcGFyYW0gczIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgYm9vbGVhbiB2YWx1ZXNFcXVhbChDb21wYXJhYmxlIHYxLCBDb21wYXJhYmxlIHYyKQoJewoJCWlmICgodjEgIT0gbnVsbCkgJiYgKHYyICE9IG51bGwpKQoJCQlyZXR1cm4gdjEuZXF1YWxzKHYyKTsKCQllbHNlIGlmICgodjEgPT0gbnVsbCkgJiYgKHYyID09IG51bGwpKQoJCQlyZXR1cm4gdHJ1ZTsKCQllbHNlCgkJCXJldHVybiBmYWxzZTsKCX0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydEZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgkJcmV0dXJuIHZhbHVlc0VxdWFsKGMxLCBjMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQltYXBMaXN0LmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gT2JqZWN0cy5jb20K</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIkhFUkUhIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqCgkgKiBAcGFyYW0gdmFsdWUxCgkgKiBAcGFyYW0gdmFsdWUyCgkgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">CQlNYXA8U3RyaW5nLCBPYmplY3Q+IGNvbnRleHQgPSBNYXBzLm5ld0hhc2hNYXAoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS1hbmQgYWdnUnVsZXMuU2NyaXB0IGxpa2UgJyVjb21wYXJlU2VjdXJpdHlUbyUnCg==</text>
+        <text encoding="base64">CQkJCSJkYXRhLmVhY2h7cm93IC0+IFxyXG4iCgkJCQkJCSsgInJvdy51bml0cyA9IGNvbnRleHQuYVswXSBhcyBEb3VibGUgXHJcbiIKCQkJCQkJKyAiY29udGV4dC5hWzNdLmVhY2h7cyAtPiByb3cuYWdnSW5mb1tzXSA9IHN9OyBcclxuIgoJCQkJCQkrICJyb3cudW5mYWN0b3JpemVkVW5pdHMgPSBjb250ZXh0LmFbMl07IFxyXG4iCgkJCQkJCSsgInJvdy5hbHRlcm5hdGVJZCA9IGNvbnRleHQuYVsxXTsiCgkJCQkJCSsgIn0iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSBlCgkgKiBAcmV0dXJuCgkgKi8K</text>
+        <text encoding="base64">CQllbnRpdGllcy5hZGQodHJhbnMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxhc3NlcnRGYWxzZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NlcnRGYWxzZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>metric</entry>
-        <entry encoding="base64">XDxzZWN1cml0eUFzc2lnbmVyUHJvdmlkZXJcPg==</entry>
-        <entry encoding="base64">XDxtYXRjaGluZ0ZhaWx1cmVzXD4=</entry>
-        <entry encoding="base64">XDxqb2luVG9TdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxjZXJiZXJ1c1w+</entry>
         <entry encoding="base64">XDxkYXRhRmVlZERhb1w+</entry>
@@ -479,6 +478,10 @@
         <entry encoding="base64">XDxzZWN1cml0eUZpZWxkTWF0Y2hlc0FsbENvbW1vblBvcHVsYXRlZFw+</entry>
         <entry encoding="base64">XDx2YWx1ZXNFcXVhbFw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxUZXN0XD4=</entry>
+        <entry encoding="base64">XDx0cmFuc1w+</entry>
+        <entry encoding="base64">XDxdXD4=</entry>
+        <entry encoding="base64">XDxhc3NlcnRGYWxzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
