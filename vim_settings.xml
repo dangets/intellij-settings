@@ -256,16 +256,19 @@
         <mark key="^" line="49" column="34" />
         <mark key="." line="32" column="78" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560264979494">
-        <mark key="[" line="118" column="24" />
-        <mark key="]" line="118" column="25" />
-        <mark key="." line="118" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560267108001">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" timestamp="1559747714689">
         <mark key="[" line="37" column="9" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="35" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" timestamp="1560267148541">
+        <mark key="'" line="96" column="5" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityNotifier/src/main/java/com/ca/prometheus/entitynotifier/job/EntityHandoffAction.java" timestamp="1559140139551">
         <mark key="'" line="54" column="53" />
@@ -285,9 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="48" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/test/java/com/ca/prometheus/securityassignment/cerberus/ManualCerberusSecurityMatchingServiceTest.java" />
-      <jump line="44" column="46" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/test/java/com/ca/prometheus/securityassignment/cerberus/ManualCerberusSecurityMatchingServiceTest.java" />
-      <jump line="45" column="50" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/test/java/com/ca/prometheus/securityassignment/cerberus/ManualCerberusSecurityMatchingServiceTest.java" />
       <jump line="23" column="18" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
       <jump line="27" column="43" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
       <jump line="6" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" />
@@ -385,59 +385,60 @@
       <jump line="16" column="54" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/entityextraction/ExtractedEntityDaoImplTvps.java" />
       <jump line="101" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/EntityDao.java" />
+      <jump line="37" column="35" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" />
+      <jump line="89" column="5" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" />
+      <jump line="96" column="5" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">b3JkZXIgYnkgRW50aXR5RXh0cmFjdGlvbklEIGRlc2MK</text>
+        <text encoding="base64">YW5kIHQucmUK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>si</text>
       </register>
       <register name="/" type="4">
-        <text>getprior</text>
+        <text>override</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JkZXIgYnkgRW50aXR5RXh0cmFjdGlvbklEIGRlc2MK</text>
+        <text encoding="base64">YW5kIHQucmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JkZXIgYnkgZXAuCg==</text>
+        <text encoding="base64">b3JkZXIgYnkgRW50aXR5RXh0cmFjdGlvbklEIGRlc2MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEN1c3RvZHlEYXRhOwo=</text>
+        <text encoding="base64">b3JkZXIgYnkgZXAuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">dXNlIEN1c3RvZHlEYXRhOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9tZXRoZXVzcmF3ZGF0YS5GaWxlTW9kZWxzIGZtCndoZXJlIDE9MQphbmQgZm0uVmVyc2lvbiA9IDI3NjQK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">J3wnIEFTICd8fCcsIAonfCcgQVMgJ3x8JywgCid8JyBBUyAnfHwnLCA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlICNmb28gKGlkIElOVCBQUklNQVJZIEtFWSkKaW5zZXJ0IGludG8gI2ZvbyAoaWQpIHZhbHVlcyAoMSkKaW5zZXJ0IGludG8gI2ZvbyAoaWQpIHZhbHVlcyAobnVsbCkKCnNlbGVjdCAqCmZyb20gI2Zvbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlNYXA8SW50ZWdlciwgU2V0PENvbXBsZXRlRGF0YUZlZWQ+PiByZXN1bHRzID0gTWFwcy5uZXdIYXNoTWFwKCk7Cg==</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlICNmb28gKGlkIElOVCBQUklNQVJZIEtFWSkKaW5zZXJ0IGludG8gI2ZvbyAoaWQpIHZhbHVlcyAoMSkKaW5zZXJ0IGludG8gI2ZvbyAoaWQpIHZhbHVlcyAobnVsbCkKCnNlbGVjdCAqCmZyb20gI2Zvbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlNYXA8SW50ZWdlciwgU2V0PENvbXBsZXRlRGF0YUZlZWQ+PiByZXN1bHRzID0gTWFwcy5uZXdIYXNoTWFwKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getprior</last-search>
+      <last-search>override</last-search>
       <last-offset />
-      <last-pattern>getprior</last-pattern>
+      <last-pattern>override</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbnRpdHlUeXBlXD4=</entry>
-        <entry>blah</entry>
         <entry encoding="base64">XDxhZGROb3RlXD4=</entry>
         <entry encoding="base64">XDxzZWNDcmVhdGlvbkZhaWx1cmVNZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxzZWNDcmVhdGlvbkZhaWx1cmVzXD4=</entry>
@@ -456,6 +457,8 @@
         <entry>getexecutionsforaccount</entry>
         <entry encoding="base64">XDxleHRyYWN0ZWRQb3NpdGlvblR2cFw+</entry>
         <entry>getprior</entry>
+        <entry>createoverride</entry>
+        <entry>override</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
