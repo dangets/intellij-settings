@@ -12,10 +12,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" timestamp="1560271772738">
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="." line="331" column="0" />
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" timestamp="1560272082669">
+        <mark key="'" line="342" column="13" />
+        <mark key="[" line="407" column="0" />
+        <mark key="]" line="407" column="0" />
+        <mark key="." line="407" column="0" />
+        <mark key="^" line="411" column="37" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityExtractor/src/main/java/com/ca/prometheus/entityextractor/job/IdentifierExtractionManagementDelegate.java" timestamp="1559138662301">
         <mark key="[" line="33" column="0" />
@@ -189,8 +191,12 @@
         <mark key="]" line="16" column="48" />
         <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" timestamp="1559878273590">
-        <mark key="'" line="58" column="266" />
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" timestamp="1560272402901">
+        <mark key="'" line="170" column="26" />
+        <mark key="[" line="469" column="64" />
+        <mark key="]" line="469" column="64" />
+        <mark key="." line="469" column="64" />
+        <mark key="^" line="469" column="64" />
       </file>
       <file name="/a.sql" timestamp="1560175816039">
         <mark key="[" line="0" column="0" />
@@ -268,12 +274,12 @@
         <mark key="^" line="49" column="34" />
         <mark key="." line="32" column="78" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560271825231">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560271917006">
         <mark key="'" line="144" column="8" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="150" column="1" />
+        <mark key="[" line="152" column="57" />
+        <mark key="]" line="152" column="58" />
+        <mark key="." line="152" column="58" />
+        <mark key="^" line="152" column="58" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c43170ee-cbef-4795-96c0-74cdec6b875d/console.sql" timestamp="1559747714689">
         <mark key="[" line="37" column="9" />
@@ -302,16 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="23" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="163" column="92" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="44" column="11" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
-      <jump line="56" column="139" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
-      <jump line="58" column="34" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
-      <jump line="62" column="13" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
-      <jump line="63" column="53" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
-      <jump line="74" column="56" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
-      <jump line="86" column="56" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
-      <jump line="101" column="43" filename="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" />
       <jump line="233" column="41" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
       <jump line="53" column="16" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
       <jump line="54" column="16" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
@@ -402,59 +398,67 @@
       <jump line="279" column="20" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
       <jump line="271" column="17" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
       <jump line="144" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
+      <jump line="407" column="20" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
+      <jump line="339" column="13" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
+      <jump line="342" column="13" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
+      <jump line="152" column="23" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
+      <jump line="161" column="27" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
+      <jump line="40" column="156" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
+      <jump line="52" column="28" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
+      <jump line="55" column="20" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
+      <jump line="170" column="26" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWN1cml0eUZpZWxkTWF0Y2hlc0FsbENvbW1vblBvcHVsYXRlZFw+</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS1hbmQgYWdnUnVsZXMuU2NyaXB0IGxpa2UgJyVjb21wYXJlU2VjdXJpdHlUbyUnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSBlCgkgKiBAcmV0dXJuCgkgKi8K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXByaXZhdGUgYm9vbGVhbiB2YWx1ZXNFcXVhbChDb21wYXJhYmxlIHYxLCBDb21wYXJhYmxlIHYyKQoJewoJCWlmICgodjEgIT0gbnVsbCkgJiYgKHYyICE9IG51bGwpKQoJCQlyZXR1cm4gdjEuZXF1YWxzKHYyKTsKCQllbHNlIGlmICgodjEgPT0gbnVsbCkgJiYgKHYyID09IG51bGwpKQoJCQlyZXR1cm4gdHJ1ZTsKCQllbHNlCgkJCXJldHVybiBmYWxzZTsKCX0KCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8qKgoJICogQ2hlY2sgdG8gc2VlIGlmIHR3byBpZGVudGlmaWVycyBtYXRjaCB1c2luZyBzb21lIGZ1enp5IG1hdGNoaW5nIGxvZ2ljIHNvIHRoYXQgYW55IG9mIHRoZSBzZWN1cml0eSBpZGVudGlmaWVyCgkgKiBmaWVsZHMgd2lsbCBtYXRjaCBBbHRlcm5hdGVJRC4KCSAqCgkgKiBUaGlzIHdpbGwgdHJ5IHRvIG1hdGNoIGFsbCBzZWN1cml0eSBpZGVudGlmaWVycyBpbiB0aGlzIEVudGl0eU1hcCBhZ2FpbnN0IEFsdGVybmF0ZUlEIGluIHRoZSBvdGhlciBFbnRpdHlNYXAgYW5kCgkgKiB0cnkgdG8gbWF0Y2ggYWxsIHNlY3VyaXR5IGlkZW50aWZpZXJzIGluIHRoZSBvdGhlciBFbnRpdHlNYXAgYWdhaW5zdCB0aGUgQWx0ZXJuYXRlSUQgaW4gdGhpcyBFbnRpdHlNYXAuIEl0IHdpbGwKCSAqIHJldHVybiB0cnVlIGlmIGEgbWF0Y2ggaXMgZm91bmQsIG90aGVyd2lzZSBpdCB3aWxsIHJldHVybiBmYWxzZS4KCSAqCgkgKiBAcGFyYW0gb3RoZXIgYW5vdGhlciBFbnRpdHlNYXAgdG8gY29tcGFyZQoJICogQHJldHVybiBpZiB0aGUgdHdvIEVudGl0eU1hcHMgcmVmZXIgdG8gdGhlIHNhbWUgaWRlbnRpZmllcnMKCSAqLwoJcHVibGljIGJvb2xlYW4gYWx0ZXJuYXRlSWRNYXRjaGVzT3RoZXJTZWN1cml0eUlkKEVudGl0eU1hcCBvdGhlcikKCXsKCQlPYmplY3QgbXlBbHRlcm5hdGVJZCA9IGdldEF0KEVudGl0eUZpZWxkLmFsdGVybmF0ZUlkKTsKCQlPYmplY3Qgb3RoZXJBbHRlcm5hdGVJZCA9IG90aGVyLmdldEF0KEVudGl0eUZpZWxkLmFsdGVybmF0ZUlkKTsKCgkJLy8gaWYgdGhlIGFsdGVybmF0ZSBpZHMgbWF0Y2ggdGhlbiB0aGUgZW50aXRpZXMgYXJlIHRoZSBzYW1lIHNlY3VyaXR5CgkJaWYgKE9iamVjdHMuZXF1YWxzKG15QWx0ZXJuYXRlSWQsIG90aGVyQWx0ZXJuYXRlSWQpKQoJCXsKCQkJcmV0dXJuIG15QWx0ZXJuYXRlSWQgIT0gbnVsbDsKCQl9CgoJCS8vIGNoZWNrIHRoZSBhbHRlcm5hdGUgaWRzIHdpdGggdGhlIHNlY3VyaXR5IGZpZWxkcyBmb3IgYSBtYXRjaAoJCWZvciAoRW50aXR5RmllbGQ8U3RyaW5nPiBmaWVsZCA6IFNFQ1VSSVRZX0lEX0ZJRUxEUykKCQl7CgkJCWlmIChmaWVsZC5lcXVhbHMoRW50aXR5RmllbGQuYWx0ZXJuYXRlSWQpKQoJCQl7CgkJCQljb250aW51ZTsKCQkJfQoKCQkJT2JqZWN0IG15VmFsdWUgPSBnZXRBdChmaWVsZCk7CgkJCU9iamVjdCBvdGhlclZhbHVlID0gb3RoZXIuZ2V0QXQoZmllbGQpOwoKCQkJaWYgKChteVZhbHVlICE9IG51bGwgJiYgbXlWYWx1ZS5lcXVhbHMob3RoZXJBbHRlcm5hdGVJZCkpCgkJCQkJCXx8IChvdGhlclZhbHVlICE9IG51bGwgJiYgb3RoZXJWYWx1ZS5lcXVhbHMobXlBbHRlcm5hdGVJZCkpKQoJCQl7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCX0KCgkJLy8gbm90aGluZyBtYXRjaGVzCgkJcmV0dXJuIGZhbHNlOwoJfQo=</text>
+        <text encoding="base64">CgkJcmV0dXJuIHZhbHVlc0VxdWFsKGMxLCBjMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qKgoJICogQ2hlY2sgdG8gc2VlIGlmIHR3byBpZGVudGlmaWVycyBtYXRjaCB1c2luZyBzb21lIGZ1enp5IG1hdGNoaW5nIGxvZ2ljIHNvIHRoYXQgYW55IG9mIHRoZSBzZWN1cml0eSBpZGVudGlmaWVyCgkgKiBmaWVsZHMgd2lsbCBtYXRjaCBBbHRlcm5hdGVJRC4KCSAqCgkgKiBUaGlzIHdpbGwgdHJ5IHRvIG1hdGNoIGFsbCBzZWN1cml0eSBpZGVudGlmaWVycyBpbiB0aGlzIEVudGl0eU1hcCBhZ2FpbnN0IEFsdGVybmF0ZUlEIGluIHRoZSBvdGhlciBFbnRpdHlNYXAgYW5kCgkgKiB0cnkgdG8gbWF0Y2ggYWxsIHNlY3VyaXR5IGlkZW50aWZpZXJzIGluIHRoZSBvdGhlciBFbnRpdHlNYXAgYWdhaW5zdCB0aGUgQWx0ZXJuYXRlSUQgaW4gdGhpcyBFbnRpdHlNYXAuIEl0IHdpbGwKCSAqIHJldHVybiB0cnVlIGlmIGEgbWF0Y2ggaXMgZm91bmQsIG90aGVyd2lzZSBpdCB3aWxsIHJldHVybiBmYWxzZS4KCSAqCgkgKiBAcGFyYW0gcG9zc2libGVNYXRjaCBhbm90aGVyIEVudGl0eU1hcCB0byBjb21wYXJlCgkgKiBAcmV0dXJuIGlmIHRoZSB0d28gRW50aXR5TWFwcyByZWZlciB0byB0aGUgc2FtZSBpZGVudGlmaWVycwoJICovCglwdWJsaWMgYm9vbGVhbiBpZGVudGlmaWVyRnV6enlNYXRjaGVzKEVudGl0eU1hcCBwb3NzaWJsZU1hdGNoKQoJewoJCS8vIGlmIGFjdHVhbCBtYXRjaCB0aGVuIGp1c3Qgc3VjY2VlZAoJCWlmIChzZWN1cml0eU1hdGNoZXMocG9zc2libGVNYXRjaCkpCgkJewoJCQlyZXR1cm4gdHJ1ZTsKCQl9CgoJCVN0cmluZyB0aGlzQWx0ZXJuYXRlSWQgPSB0aGlzLmVudGl0eS5nZXRWYWx1ZUFzU3RyaW5nKEVudGl0eUZpZWxkLmFsdGVybmF0ZUlkKTsKCQlTdHJpbmcgb3RoZXJBbHRlcm5hdGVJZCA9IHBvc3NpYmxlTWF0Y2guZW50aXR5LmdldFZhbHVlQXNTdHJpbmcoRW50aXR5RmllbGQuYWx0ZXJuYXRlSWQpOwoJCVN0cmluZyB0aGlzQ3VzaXAgPSB0aGlzLmVudGl0eS5nZXRWYWx1ZUFzU3RyaW5nKEVudGl0eUZpZWxkLmN1c2lwKTsKCQlTdHJpbmcgb3RoZXJDdXNpcCA9IHBvc3NpYmxlTWF0Y2guZW50aXR5LmdldFZhbHVlQXNTdHJpbmcoRW50aXR5RmllbGQuY3VzaXApOwoJCVN0cmluZyB0aGlzSXNpbiA9IHRoaXMuZW50aXR5LmdldFZhbHVlQXNTdHJpbmcoRW50aXR5RmllbGQuaXNpbik7CgkJU3RyaW5nIG90aGVySXNpbiA9IHBvc3NpYmxlTWF0Y2guZW50aXR5LmdldFZhbHVlQXNTdHJpbmcoRW50aXR5RmllbGQuaXNpbik7CgkJU3RyaW5nIHRoaXNTZWRvbCA9IHRoaXMuZW50aXR5LmdldFZhbHVlQXNTdHJpbmcoRW50aXR5RmllbGQuc2Vkb2wpOwoJCVN0cmluZyBvdGhlclNlZG9sID0gcG9zc2libGVNYXRjaC5lbnRpdHkuZ2V0VmFsdWVBc1N0cmluZyhFbnRpdHlGaWVsZC5zZWRvbCk7CgkJU3RyaW5nIHRoaXNUaWNrZXIgPSB0aGlzLmVudGl0eS5nZXRWYWx1ZUFzU3RyaW5nKEVudGl0eUZpZWxkLnRpY2tlcik7CgkJU3RyaW5nIG90aGVyVGlja2VyID0gcG9zc2libGVNYXRjaC5lbnRpdHkuZ2V0VmFsdWVBc1N0cmluZyhFbnRpdHlGaWVsZC50aWNrZXIpOwoKCQkvLyBpZiB0aGUgYWx0ZXJuYXRlIGlkcyBtYXRjaCB0aGVuIHRoZSBlbnRpdGllcyBhcmUgdGhlIHNhbWUgc2VjdXJpdHkKCQlpZiAoKHRoaXNBbHRlcm5hdGVJZCA9PSBudWxsKQoJCQkJCSYmIChvdGhlckFsdGVybmF0ZUlkID09IG51bGwpKQoJCXsKCQkJcmV0dXJuIGZhbHNlOwoJCX0KCQkvLyBjaGVjayB0aGUgYWx0ZXJuYXRlIGlkcyB3aXRoIHRoZSBzZWN1cml0eSBmaWVsZHMgZm9yIGEgbWF0Y2gKCQlpZiAodGhpc0FsdGVybmF0ZUlkICE9IG51bGwKCQkJCQkmJiB0aGlzQWx0ZXJuYXRlSWQuZXF1YWxzKG90aGVyQWx0ZXJuYXRlSWQpKQoJCXsKCQkJcmV0dXJuIHRydWU7CgkJfQoJCWlmICgodGhpc0N1c2lwICE9IG51bGwKCQkJICYmIHRoaXNDdXNpcC5lcXVhbHMob3RoZXJBbHRlcm5hdGVJZCkpCgkJCQkJfHwgKG90aGVyQ3VzaXAgIT0gbnVsbAoJCQkJCQkmJiBvdGhlckN1c2lwLmVxdWFscyh0aGlzQWx0ZXJuYXRlSWQpKSkKCQl7CgkJCXJldHVybiB0cnVlOwoJCX0KCQlpZiAoKHRoaXNJc2luICE9IG51bGwKCQkJICYmIHRoaXNJc2luLmVxdWFscyhvdGhlckFsdGVybmF0ZUlkKSkKCQkJCQl8fCAob3RoZXJJc2luICE9IG51bGwKCQkJCQkJJiYgb3RoZXJJc2luLmVxdWFscyh0aGlzQWx0ZXJuYXRlSWQpKSkKCQl7CgkJCXJldHVybiB0cnVlOwoJCX0KCQlpZiAoKHRoaXNTZWRvbCAhPSBudWxsCgkJCSAmJiB0aGlzU2Vkb2wuZXF1YWxzKG90aGVyQWx0ZXJuYXRlSWQpKQoJCQkJCXx8IChvdGhlclNlZG9sICE9IG51bGwKCQkJCQkJJiYgb3RoZXJTZWRvbC5lcXVhbHModGhpc0FsdGVybmF0ZUlkKSkpCgkJewoJCQlyZXR1cm4gdHJ1ZTsKCQl9CgkJaWYgKCh0aGlzVGlja2VyICE9IG51bGwKCQkJICYmIHRoaXNUaWNrZXIuZXF1YWxzKG90aGVyQWx0ZXJuYXRlSWQpKQoJCQkJCXx8IChvdGhlclRpY2tlciAhPSBudWxsCgkJCQkJCSYmIG90aGVyVGlja2VyLmVxdWFscyh0aGlzQWx0ZXJuYXRlSWQpKSkKCQl7CgkJCXJldHVybiB0cnVlOwoJCX0KCQkvLyBub3RoaW5nIG1hdGNoZXMKCQlyZXR1cm4gZmFsc2U7Cgl9Cgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc2VjdXJpdHlNYXRjaGVzQWxsRXhhY3Qob3RoZXIpOwoJfQoKCXB1YmxpYyBib29sZWFuIHNlY3VyaXR5TWF0Y2hlc0FsbEV4YWN0KEVudGl0eU1hcCBvdGhlcikKCXsK</text>
+        <text encoding="base64">CQlyZXR1cm4gT2JqZWN0cy5jb20K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS1hbmQgYWdnUnVsZXMuU2NyaXB0IGxpa2UgJyVzZWN1cml0eU1hdGNoZXMlJwo=</text>
+        <text encoding="base64">CSAqCgkgKiBAcGFyYW0gdmFsdWUxCgkgKiBAcGFyYW0gdmFsdWUyCgkgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBib29sZWFuIHNlY3VyaXR5TWF0Y2hlc0FsbEV4YWN0KEVudGl0eU1hcCBvdGhlcikKCXsKCQlmb3IgKEVudGl0eUZpZWxkPFN0cmluZz4gZmllbGQgOiBTRUNVUklUWV9JRF9GSUVMRFMpIHsKCQkJU3RyaW5nIG15SWQgPSBnZXRBdChmaWVsZCk7CgkJCVN0cmluZyBvdGhlcklkID0gKFN0cmluZylvdGhlci5nZXRBdChmaWVsZCk7CgkJCWlmICghZXF1YWxzSWdub3JlQ2FzZShteUlkLCBvdGhlcklkKSkKCQkJCXJldHVybiBmYWxzZTsKCQl9CgkJcmV0dXJuIHRydWU7Cgl9Cgo=</text>
+        <text encoding="base64">LS1hbmQgYWdnUnVsZXMuU2NyaXB0IGxpa2UgJyVjb21wYXJlU2VjdXJpdHlUbyUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qKgoJICogQ29tcGFyZSB0aGUgc2VjdXJpdHkgSURzIG9mIHRoaXMgZW50aXR5IG1hcCBhZ2FpbnN0IHRoZSBzZWN1cml0eSBJRHMgb2YgYW5vdGhlciBlbnRpdHkgbWFwLiBUaGUgY29uZGl0aW9uIHRoaXMKCSAqIG1ldGhvZCBpcyBsb29raW5nIGZvciBpcyB0aGF0IGFsbCBzZWN1cml0eSBJRHMgcG9wdWxhdGVkIGluIGJvdGggZW50aXR5IG1hcHMgbWF0Y2guIEFueSBzZWN1cml0eSBJRHMgdGhhdCBhcmVuJ3QKCSAqIHBvcHVsYXRlZCBpbiBlaXRoZXIgb2YgdGhlIGVudGl0eSBtYXBzIGFyZSBpZ25vcmVkLiBUaGVyZSBtdXN0IGJlIGF0IGxlYXN0IG9uZSBtYXRjaCBmb3IgdGhpcyBtZXRob2QgdG8gcmV0dXJuCgkgKiB0cnVlLgoJICoKCSAqIEBwYXJhbSBvdGhlciB0aGUgZW50aXR5IG1hcCB3aGljaCB3ZSBhcmUgY29tcGFyaW5nIHRvIHRoaXMgb25lCgkgKiBAcmV0dXJuIHRydWUgaWYgYWxsIHNlY3VyaXR5IElEcyB0aGF0IGFyZSBwb3B1bGF0ZWQgaW4gYm90aCBlbnRpdHkgbWFwcyBtYXRjaCBhbmQgdGhlcmUgaXMgYXQgbGVhc3Qgb25lIG1hdGNoLgoJICovCglwdWJsaWMgYm9vbGVhbiBzZWN1cml0eU1hdGNoZXNBbGxDb21tb25Qb3B1bGF0ZWQoRW50aXR5TWFwIG90aGVyKQoJewoJCWJvb2xlYW4gYXRMZWFzdE9uZU1hdGNoID0gZmFsc2U7CgkJZm9yIChFbnRpdHlGaWVsZDxTdHJpbmc+IGZpZWxkIDogU0VDVVJJVFlfSURfRklFTERTKQoJCXsKCQkJU3RyaW5nIG15VmFsdWUgPSBnZXRBdChmaWVsZCk7CgkJCVN0cmluZyBvdGhlclZhbHVlID0gKFN0cmluZylvdGhlci5nZXRBdChmaWVsZCk7CgkJCS8vIHJldHVybiBmYWxzZSBvbiBmaXJzdCBvY2N1cnJlbmNlIG9mIGJvdGggZmllbGRzIHBvcHVsYXRlZCBhbmQgdGhleSBtaXNtYXRjaAoJCQlpZiAobXlWYWx1ZSAhPSBudWxsICYmIG90aGVyVmFsdWUgIT0gbnVsbCAmJiAhbXlWYWx1ZS5lcXVhbHNJZ25vcmVDYXNlKG90aGVyVmFsdWUpKQoJCQkJcmV0dXJuIGZhbHNlOwoJCQlhdExlYXN0T25lTWF0Y2ggPSB0cnVlOwoJCX0KCQlyZXR1cm4gYXRMZWFzdE9uZU1hdGNoOwoJfQoK</text>
+        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSBlCgkgKiBAcmV0dXJuCgkgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWN1cml0eUZpZWxkTWF0Y2hlc0FsbENvbW1vblBvcHVsYXRlZFw+</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWN1cml0eUZpZWxkTWF0Y2hlc0FsbENvbW1vblBvcHVsYXRlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWNNYXRjaEZhaWx1cmVzXD4=</entry>
-        <entry encoding="base64">XDxzZWNOb01hdGNoRmFpbHVyZXNcPg==</entry>
         <entry>metric</entry>
         <entry encoding="base64">XDxzZWN1cml0eUFzc2lnbmVyUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxtYXRjaGluZ0ZhaWx1cmVzXD4=</entry>
@@ -473,6 +477,8 @@
         <entry>fuzzymatches</entry>
         <entry>sedol</entry>
         <entry encoding="base64">XDxzZWN1cml0eUZpZWxkTWF0Y2hlc0FsbENvbW1vblBvcHVsYXRlZFw+</entry>
+        <entry encoding="base64">XDx2YWx1ZXNFcXVhbFw+</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
