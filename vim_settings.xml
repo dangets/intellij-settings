@@ -148,6 +148,13 @@
         <mark key="." line="477" column="79" />
         <mark key="^" line="477" column="79" />
       </file>
+      <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" timestamp="1560362437466">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/datafeed/DataFeedResource.java" timestamp="1559878881607">
         <mark key="'" line="36" column="27" />
       </file>
@@ -184,6 +191,13 @@
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/Elasticsearch.kt" timestamp="1560362377480">
+        <mark key="'" line="63" column="107" />
+        <mark key="[" line="63" column="106" />
+        <mark key="]" line="63" column="129" />
+        <mark key="^" line="63" column="129" />
+        <mark key="." line="63" column="129" />
+      </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
       </file>
@@ -206,9 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="64" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="313" column="30" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
-      <jump line="314" column="30" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
       <jump line="280" column="24" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
       <jump line="38" column="56" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="124" column="252" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/rules/EntityRuleProcessor.java" />
@@ -306,58 +317,60 @@
       <jump line="2237" column="20" filename="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="43" column="55" filename="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" />
       <jump line="30" column="31" filename="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/ExecutionService.kt" />
+      <jump line="65" column="104" filename="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/Elasticsearch.kt" />
+      <jump line="62" column="107" filename="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/Elasticsearch.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEJ5QWx0ZXJuYXRlSWRzKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUFsdGVybmF0ZUlkcyI7CgoJCWdpdmVuKCkKCQkJCS5xdWVyeVBhcmFtKCJhbHRlcm5hdGVJZHMiLCAiOTk2MDg2NjA5IikKCQkJCS5xdWVyeVBhcmFtKCJwYXJ0aXRpb25UeXBlIiwgIkFDQ09VTlQiKQoJCQkJLndoZW4oKQoJCQkJLmdldChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQoKCUBUZXN0ICAvLyBQT1NUIGJ5SWQKCXB1YmxpYyB2b2lkIHRlc3RCeUlkKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUlkIjsKCgkJZ2l2ZW4oKQoJCQkJLmNvbnRlbnRUeXBlKENvbnRlbnRUeXBlLkpTT04pCgkJCQkuYm9keSgiMjI0NDUwMCIpCgkJCQkud2hlbigpCgkJCQkucG9zdChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQo=</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW4gcHJvbWV0aGV1c1dzUHJvZEFwYWNoZShhcmdzOiBBcnJheTxTdHJpbmc+KSB7CiAgICAvLyBOT1RFOiBub3Qgc3VyZSBpZiB0aGlzIG9uZSB3b3JrcyBhcyBpcyAuLi4KICAgIHZhbCBxYiA9IFF1ZXJ5QnVpbGRlcnMuYm9vbFF1ZXJ5KCkKICAgICAgICAgICAgLmZpbHRlcihRdWVyeUJ1aWxkZXJzLnJhbmdlUXVlcnkoInRpbWVzdGFtcCIpCiAgICAgICAgICAgICAgICAgICAgLmd0KGVwb2NoTWlsbGlPZkJvaShMb2NhbFRpbWUub2YoNywgMzApKSkKICAgICAgICAgICAgICAgICAgICAubHQoZXBvY2hNaWxsaU9mQm9pKExvY2FsVGltZS5vZigxMSwgMzApKSkpCiAgICAgICAgICAgIC5maWx0ZXIoUXVlcnlCdWlsZGVycy50ZXJtUXVlcnkoImhvc3QiLCAicHJvZC1ib2ktaW50YWtlLWN1c3QtbGIxIikpCgogICAgdmFsIG91dCA9IEZpbGUoIi9ob21lL0FSQkZVTkQvZGFubnlnZW9yZ2UvdG1wLmp1bmsiKS5wcmludFdyaXRlcigpCgogICAgcnVuSW5Qcm9kQXBhY2hlKHFiKSB7CiAgICAgICAgaXQubWFwIHsgaXQuc291cmNlIH0KICAgICAgICAgICAgICAgIC5tYXAgewogICAgICAgICAgICAgICAgICAgIHZhbCBtc2cgPSBpdFsibWVzc2FnZSJdIGFzPyBTdHJpbmcgPzogIiIKICAgICAgICAgICAgICAgICAgICB2YWwgZmllbGRzID0gbXNnLnNwbGl0KCIgIikKCiAgICAgICAgICAgICAgICAgICAgaWYgKGZpZWxkcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uYWwuZW1wdHkoKQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIGFjY291bnRJZCA9IGZpZWxkc1sxXT8udmFsdWUhIS50b0ludCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIGJlZ2luRGF0ZSA9IExvY2FsRGF0ZS5wYXJzZShmaWVsZHNbMl0/LnZhbHVlISEpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIGVuZERhdGUgPSBMb2NhbERhdGUucGFyc2UoZmllbGRzWzNdPy52YWx1ZSEhKQogICAgICAgICAgICAgICAgICAgICAgICAvL3ZhbCBkYXRlUmFuZ2UgPSBDaHJvbm9Vbml0LkRBWVMuYmV0d2VlbihiZWdpbkRhdGUsIGVuZERhdGUpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIHRzTG9nZ2VkID0gSW5zdGFudC5vZkVwb2NoTWlsbGkoaXRbInRpbWVzdGFtcCJdIGFzIExvbmcpCgogICAgICAgICAgICAgICAgICAgICAgICBPcHRpb25hbC5vZihFbmRwb2ludEhpdEluZm8oIlRPRE8iLCAiVE9ETyIsIEluc3RhbnQubm93KCksIGZpZWxkcy5sYXN0KCkpKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdC5pc1ByZXNlbnQgfQogICAgICAgICAgICAgICAgLm1hcCB7IGl0LmdldCgpIH0KICAgICAgICAgICAgICAgIC5tYXAgeyBpdC5kdXJhdGlvbiB9CiAgICAgICAgICAgICAgICAuZG9Pbk5leHQgeyBwcmludGxuKGl0KSB9CiAgICAgICAgICAgICAgICAuYmxvY2tpbmdGb3JFYWNoIHsgb3V0LnByaW50bG4oaXQpIH0KICAgIH0KCiAgICBvdXQuY2xvc2UoKQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>384613</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
-        <text>byid</text>
+        <text encoding="base64">XDxwcm9kQXBhY2hlSW5kZXhQcmVmaXhcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEJ5QWx0ZXJuYXRlSWRzKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUFsdGVybmF0ZUlkcyI7CgoJCWdpdmVuKCkKCQkJCS5xdWVyeVBhcmFtKCJhbHRlcm5hdGVJZHMiLCAiOTk2MDg2NjA5IikKCQkJCS5xdWVyeVBhcmFtKCJwYXJ0aXRpb25UeXBlIiwgIkFDQ09VTlQiKQoJCQkJLndoZW4oKQoJCQkJLmdldChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQoKCUBUZXN0ICAvLyBQT1NUIGJ5SWQKCXB1YmxpYyB2b2lkIHRlc3RCeUlkKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUlkIjsKCgkJZ2l2ZW4oKQoJCQkJLmNvbnRlbnRUeXBlKENvbnRlbnRUeXBlLkpTT04pCgkJCQkuYm9keSgiMjI0NDUwMCIpCgkJCQkud2hlbigpCgkJCQkucG9zdChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eShvcmcuc2xmNGouaW1wbC5TaW1wbGVMb2dnZXIuREVGQVVMVF9MT0dfTEVWRUxfS0VZLCAiREVCVUciKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAR0VUCiAgICBAUGF0aCgiL2JhdGNoL3tiYXRjaElkOiBbXFxkXSt9IikKICAgIGZ1biBnZXRGdW5kRGF0YShAUGF0aFBhcmFtKCJiYXRjaElkIikgYmF0Y2hJZDogTG9uZyk6IEZ1bmREYXRhPyB7CiAgICAgICAgcmV0dXJuIHNlcnZpY2UuZ2V0RnVuZERhdGEoYmF0Y2hJZCkKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2Vkb2w6IFN0cmluZz8sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3QgdmFsIHByb2RBcGFjaGVJbmRleFByZWZpeCA9ICJwcm9kLWFwYWNoZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ZnVuIDxUPiBydW5JblByb2RBcGFjaGUocWI6IFF1ZXJ5QnVpbGRlciwgZjogKEZsb3dhYmxlPFNlYXJjaEhpdD4pIC0+IFQpID0gcnVuSW5Gb28ocHJvZEVzQ2xpZW50KCksIHFiLCBwcm9kQXBhY2hlSW5kZXhQcmVmaXgsIGVtcHR5TGlzdCgpLCBmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRGdW5kRGF0YShiYXRjaElkOiBMb25nKTogRnVuZERhdGE/IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCg==</text>
+        <text encoding="base64">ZnVuIDxUPiBydW5JblByb2RBcGFjaGUocWI6IFF1ZXJ5QnVpbGRlciwgZjogKEZsb3dhYmxlPFNlYXJjaEhpdD4pIC0+IFQpID0gcnVuSW5Gb28ocHJvZEVzQ2xpZW50KCksIHFiLCBwcm9kQXBhY2hlSW5kZXhQcmVmaXgsIGVtcHR5TGlzdCgpLCBmKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgZnVuCg==</text>
+        <text encoding="base64">ZnVuIDxUPiBydW5JblByb2RBcGFjaGUocWI6IFF1ZXJ5QnVpbGRlciwgZjogKEZsb3dhYmxlPFNlYXJjaEhpdD4pIC0+IFQpID0gcnVuSW5Gb28ocHJvZEVzQ2xpZW50KCksIHFiLCBwcm9kQXBhY2hlSW5kZXhQcmVmaXgsIGVtcHR5TGlzdCgpLCBmKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>byid</last-search>
+      <last-search encoding="base64">XDxwcm9kQXBhY2hlSW5kZXhQcmVmaXhcPg==</last-search>
       <last-offset />
-      <last-pattern>byid</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9kQXBhY2hlSW5kZXhQcmVmaXhcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>override</entry>
         <entry>fuzzymatches</entry>
         <entry>sedol</entry>
         <entry encoding="base64">XDxzZWN1cml0eUZpZWxkTWF0Y2hlc0FsbENvbW1vblBvcHVsYXRlZFw+</entry>
@@ -377,6 +390,7 @@
         <entry>getactiveexecutionsbyrecondate</entry>
         <entry encoding="base64">XDxsb2FkRXhlY3V0aW9uc1w+</entry>
         <entry>byid</entry>
+        <entry encoding="base64">XDxwcm9kQXBhY2hlSW5kZXhQcmVmaXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
