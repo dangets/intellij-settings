@@ -13,9 +13,6 @@
         <mark key="." line="407" column="0" />
         <mark key="^" line="411" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/JobBroker/src/main/java/com/ca/prometheus/jobbroker/JobThread.java" timestamp="1558538789972">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundService.kt" timestamp="1560309581824">
         <mark key="[" line="12" column="64" />
         <mark key="]" line="13" column="68" />
@@ -24,12 +21,6 @@
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/EntityDao.java" timestamp="1560265668919">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundModule.kt" timestamp="1560309645094">
-        <mark key="[" line="12" column="87" />
-        <mark key="]" line="12" column="105" />
-        <mark key="^" line="12" column="105" />
-        <mark key="." line="12" column="105" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/PrometheusDataMapper.java" timestamp="1559751793851">
         <mark key="'" line="82" column="33" />
@@ -44,42 +35,17 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/test/java/com/ca/prometheus/dataaccess/config/pooling/proxies/ManualProxyDataSourceProviderTest.java" timestamp="1559848388734">
-        <mark key="'" line="70" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" timestamp="1559833521826">
         <mark key="'" line="9" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" timestamp="1560275785574">
-        <mark key="'" line="477" column="79" />
-        <mark key="[" line="477" column="79" />
-        <mark key="]" line="477" column="80" />
-        <mark key="." line="477" column="79" />
-        <mark key="^" line="477" column="79" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/datafeed/DataFeedResource.java" timestamp="1559878881607">
-        <mark key="'" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" timestamp="1559842770197">
         <mark key="'" line="101" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" timestamp="1559340652516">
-        <mark key="'" line="68" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/ExecutionService.kt" timestamp="1560358679306">
         <mark key="'" line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/CommonTestHelpers.java" timestamp="1560288359204">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/partition/PartitionResource.java" timestamp="1559878860623">
         <mark key="'" line="29" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/rules/EntityRuleProcessor.java" timestamp="1559878178322">
-        <mark key="'" line="95" column="13" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundResource.kt" timestamp="1560309190610">
         <mark key="j" line="15" column="76" />
@@ -90,9 +56,6 @@
       <file name="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" timestamp="1559750687890">
         <mark key="'" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/sql/Prometheus/schemas/data/programmability/data.GetLatestPrometheusCustomData.sql" timestamp="1559576377681">
-        <mark key="'" line="11" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/entityextraction/ExtractedEntityDaoImplTvps.java" timestamp="1560262708037">
         <mark key="'" line="16" column="54" />
       </file>
@@ -102,22 +65,16 @@
         <mark key="^" line="3" column="75" />
         <mark key="." line="3" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/DataResourceTest.java" timestamp="1560356232302">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="53" />
+      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/DataResourceTest.java" timestamp="1560359516814">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="3" />
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/webapp/swagger-ui/index.html" timestamp="1559671628713">
-        <mark key="'" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundData.kt" timestamp="1560309133727">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="27" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1560357946464">
-        <mark key="'" line="2237" column="20" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/EntityProcessor.java" timestamp="1559879835571">
         <mark key="'" line="68" column="34" />
@@ -125,23 +82,20 @@
       <file name="$USER_HOME$/dev/perseus/perseus-external-clients/src/main/java/com/ca/perseus/external/clients/custodydata/executionmanager/PerseusExecutionManagerClient.java" timestamp="1560190339515">
         <mark key="'" line="69" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/prometheus-ws/src/main/java/com/ca/prometheus/ws/rest/AccountResource.java" timestamp="1559878961699">
-        <mark key="'" line="65" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" timestamp="1560357714847">
         <mark key="'" line="49" column="126" />
-      </file>
-      <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
-        <mark key="'" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
-        <mark key="'" line="43" column="55" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/dao/FundDao.kt" timestamp="1560308741696">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="33" />
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/EnumResourceTest.java" timestamp="1560359517749">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" timestamp="1560275276669">
         <mark key="'" line="28" column="31" />
@@ -150,23 +104,17 @@
         <mark key="." line="419" column="89" />
         <mark key="^" line="419" column="89" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560277767786">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="152" column="59" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="162" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/databaseenums/EntityField.java" timestamp="1559836410168">
         <mark key="'" line="465" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" timestamp="1560267148541">
-        <mark key="'" line="96" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityNotifier/src/main/java/com/ca/prometheus/entitynotifier/job/EntityHandoffAction.java" timestamp="1559140139551">
-        <mark key="'" line="54" column="53" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/PrometheusDataDao.java" timestamp="1559576333260">
         <mark key="'" line="58" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus-regression-tester/pom.xml" timestamp="1560359788488">
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="24" />
+        <mark key="^" line="58" column="27" />
+        <mark key="." line="63" column="24" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/entities/EntityMapSecurityFuzzyMatchesTest.java" timestamp="1560270673846">
         <mark key="'" line="89" column="48" />
@@ -180,6 +128,81 @@
         <mark key="]" line="152" column="40" />
         <mark key="^" line="152" column="40" />
         <mark key="." line="152" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/JobBroker/src/main/java/com/ca/prometheus/jobbroker/JobThread.java" timestamp="1558538789972">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundModule.kt" timestamp="1560309645094">
+        <mark key="[" line="12" column="87" />
+        <mark key="]" line="12" column="105" />
+        <mark key="^" line="12" column="105" />
+        <mark key="." line="12" column="105" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/test/java/com/ca/prometheus/dataaccess/config/pooling/proxies/ManualProxyDataSourceProviderTest.java" timestamp="1559848388734">
+        <mark key="'" line="70" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" timestamp="1560275785574">
+        <mark key="'" line="477" column="79" />
+        <mark key="[" line="477" column="79" />
+        <mark key="]" line="477" column="80" />
+        <mark key="." line="477" column="79" />
+        <mark key="^" line="477" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/datafeed/DataFeedResource.java" timestamp="1559878881607">
+        <mark key="'" line="36" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" timestamp="1559340652516">
+        <mark key="'" line="68" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/CommonTestHelpers.java" timestamp="1560288359204">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/rules/EntityRuleProcessor.java" timestamp="1559878178322">
+        <mark key="'" line="95" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/sql/Prometheus/schemas/data/programmability/data.GetLatestPrometheusCustomData.sql" timestamp="1559576377681">
+        <mark key="'" line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/webapp/swagger-ui/index.html" timestamp="1559671628713">
+        <mark key="'" line="14" column="42" />
+      </file>
+      <file name="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1560357946464">
+        <mark key="'" line="2237" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1560360017188">
+        <mark key="[" line="79" column="5" />
+        <mark key="]" line="80" column="15" />
+        <mark key="^" line="80" column="15" />
+        <mark key="." line="80" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/prometheus-ws/src/main/java/com/ca/prometheus/ws/rest/AccountResource.java" timestamp="1559878961699">
+        <mark key="'" line="65" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
+        <mark key="'" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
+        <mark key="'" line="43" column="55" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560277767786">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="152" column="59" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="162" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" timestamp="1560267148541">
+        <mark key="'" line="96" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/EntityNotifier/src/main/java/com/ca/prometheus/entitynotifier/job/EntityHandoffAction.java" timestamp="1559140139551">
+        <mark key="'" line="54" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/SecurityOverrideResourceTest.java" timestamp="1560360143458">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -285,56 +308,55 @@
       <jump line="30" column="31" filename="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/ExecutionService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FundDao</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEJ5QWx0ZXJuYXRlSWRzKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUFsdGVybmF0ZUlkcyI7CgoJCWdpdmVuKCkKCQkJCS5xdWVyeVBhcmFtKCJhbHRlcm5hdGVJZHMiLCAiOTk2MDg2NjA5IikKCQkJCS5xdWVyeVBhcmFtKCJwYXJ0aXRpb25UeXBlIiwgIkFDQ09VTlQiKQoJCQkJLndoZW4oKQoJCQkJLmdldChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQoKCUBUZXN0ICAvLyBQT1NUIGJ5SWQKCXB1YmxpYyB2b2lkIHRlc3RCeUlkKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUlkIjsKCgkJZ2l2ZW4oKQoJCQkJLmNvbnRlbnRUeXBlKENvbnRlbnRUeXBlLkpTT04pCgkJCQkuYm9keSgiMjI0NDUwMCIpCgkJCQkud2hlbigpCgkJCQkucG9zdChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>FundDao</text>
+        <text>384613</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkRXhlY3V0aW9uc1w+</text>
+        <text>byid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEJ5QWx0ZXJuYXRlSWRzKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUFsdGVybmF0ZUlkcyI7CgoJCWdpdmVuKCkKCQkJCS5xdWVyeVBhcmFtKCJhbHRlcm5hdGVJZHMiLCAiOTk2MDg2NjA5IikKCQkJCS5xdWVyeVBhcmFtKCJwYXJ0aXRpb25UeXBlIiwgIkFDQ09VTlQiKQoJCQkJLndoZW4oKQoJCQkJLmdldChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQoKCUBUZXN0ICAvLyBQT1NUIGJ5SWQKCXB1YmxpYyB2b2lkIHRlc3RCeUlkKCkgewoJCVN0cmluZyBwYXRoID0gIi9ieUlkIjsKCgkJZ2l2ZW4oKQoJCQkJLmNvbnRlbnRUeXBlKENvbnRlbnRUeXBlLkpTT04pCgkJCQkuYm9keSgiMjI0NDUwMCIpCgkJCQkud2hlbigpCgkJCQkucG9zdChwYXRoKQoJCQkJLnRoZW4oKQoJCQkJLnN0YXR1c0NvZGUoMjAwKQoJCQkJLmJvZHkoIiIsIG5vdChpcyhlbXB0eSgpKSkpOwoJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBAR0VUCiAgICBAUGF0aCgiL2JhdGNoL3tiYXRjaElkOiBbXFxkXSt9IikKICAgIGZ1biBnZXRGdW5kRGF0YShAUGF0aFBhcmFtKCJiYXRjaElkIikgYmF0Y2hJZDogTG9uZyk6IEZ1bmREYXRhPyB7CiAgICAgICAgcmV0dXJuIHNlcnZpY2UuZ2V0RnVuZERhdGEoYmF0Y2hJZCkKICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2Vkb2w6IFN0cmluZz8sCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBAR0VUCiAgICBAUGF0aCgiL2JhdGNoL3tiYXRjaElkOiBbXFxkXSt9IikKICAgIGZ1biBnZXRGdW5kRGF0YShAUGF0aFBhcmFtKCJiYXRjaElkIikgYmF0Y2hJZDogTG9uZyk6IEZ1bmREYXRhPyB7CiAgICAgICAgcmV0dXJuIHNlcnZpY2UuZ2V0RnVuZERhdGEoYmF0Y2hJZCkKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc2Vkb2w6IFN0cmluZz8sCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRGdW5kRGF0YShiYXRjaElkOiBMb25nKTogRnVuZERhdGE/IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgZnVuCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRGdW5kRGF0YShiYXRjaElkOiBMb25nKTogRnVuZERhdGE/IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBsb29rdXBGdW5kRGF0YShjbGllbnQ6IExvbmcsIGFzT2ZEYXRlOiBMb2NhbERhdGUpOiBMaXN0PEZ1bmREYXRhPiA9IGRhby5sb29rdXBGdW5kRGF0YShjbGllbnQsIGFzT2ZEYXRlKQo=</text>
+        <text encoding="base64">ICAgIAogICAgZnVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkRXhlY3V0aW9uc1w+</last-search>
+      <last-search>byid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkRXhlY3V0aW9uc1w+</last-pattern>
+      <last-pattern>byid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>createoverride</entry>
         <entry>override</entry>
         <entry>fuzzymatches</entry>
         <entry>sedol</entry>
@@ -354,6 +376,7 @@
         <entry encoding="base64">XDxjb21tb25cPg==</entry>
         <entry>getactiveexecutionsbyrecondate</entry>
         <entry encoding="base64">XDxsb2FkRXhlY3V0aW9uc1w+</entry>
+        <entry>byid</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
