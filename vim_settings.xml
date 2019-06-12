@@ -148,11 +148,11 @@
         <mark key="." line="477" column="79" />
         <mark key="^" line="477" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" timestamp="1560362437466">
+      <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" timestamp="1560365941935">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="55" column="1" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
         <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/datafeed/DataFeedResource.java" timestamp="1559878881607">
@@ -322,11 +322,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpdmF0ZSBmdW4gcHJvbWV0aGV1c1dzUHJvZEFwYWNoZShhcmdzOiBBcnJheTxTdHJpbmc+KSB7CiAgICAvLyBOT1RFOiBub3Qgc3VyZSBpZiB0aGlzIG9uZSB3b3JrcyBhcyBpcyAuLi4KICAgIHZhbCBxYiA9IFF1ZXJ5QnVpbGRlcnMuYm9vbFF1ZXJ5KCkKICAgICAgICAgICAgLmZpbHRlcihRdWVyeUJ1aWxkZXJzLnJhbmdlUXVlcnkoInRpbWVzdGFtcCIpCiAgICAgICAgICAgICAgICAgICAgLmd0KGVwb2NoTWlsbGlPZkJvaShMb2NhbFRpbWUub2YoNywgMzApKSkKICAgICAgICAgICAgICAgICAgICAubHQoZXBvY2hNaWxsaU9mQm9pKExvY2FsVGltZS5vZigxMSwgMzApKSkpCiAgICAgICAgICAgIC5maWx0ZXIoUXVlcnlCdWlsZGVycy50ZXJtUXVlcnkoImhvc3QiLCAicHJvZC1ib2ktaW50YWtlLWN1c3QtbGIxIikpCgogICAgdmFsIG91dCA9IEZpbGUoIi9ob21lL0FSQkZVTkQvZGFubnlnZW9yZ2UvdG1wLmp1bmsiKS5wcmludFdyaXRlcigpCgogICAgcnVuSW5Qcm9kQXBhY2hlKHFiKSB7CiAgICAgICAgaXQubWFwIHsgaXQuc291cmNlIH0KICAgICAgICAgICAgICAgIC5tYXAgewogICAgICAgICAgICAgICAgICAgIHZhbCBtc2cgPSBpdFsibWVzc2FnZSJdIGFzPyBTdHJpbmcgPzogIiIKICAgICAgICAgICAgICAgICAgICB2YWwgZmllbGRzID0gbXNnLnNwbGl0KCIgIikKCiAgICAgICAgICAgICAgICAgICAgaWYgKGZpZWxkcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uYWwuZW1wdHkoKQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIGFjY291bnRJZCA9IGZpZWxkc1sxXT8udmFsdWUhIS50b0ludCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIGJlZ2luRGF0ZSA9IExvY2FsRGF0ZS5wYXJzZShmaWVsZHNbMl0/LnZhbHVlISEpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIGVuZERhdGUgPSBMb2NhbERhdGUucGFyc2UoZmllbGRzWzNdPy52YWx1ZSEhKQogICAgICAgICAgICAgICAgICAgICAgICAvL3ZhbCBkYXRlUmFuZ2UgPSBDaHJvbm9Vbml0LkRBWVMuYmV0d2VlbihiZWdpbkRhdGUsIGVuZERhdGUpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vdmFsIHRzTG9nZ2VkID0gSW5zdGFudC5vZkVwb2NoTWlsbGkoaXRbInRpbWVzdGFtcCJdIGFzIExvbmcpCgogICAgICAgICAgICAgICAgICAgICAgICBPcHRpb25hbC5vZihFbmRwb2ludEhpdEluZm8oIlRPRE8iLCAiVE9ETyIsIEluc3RhbnQubm93KCksIGZpZWxkcy5sYXN0KCkpKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdC5pc1ByZXNlbnQgfQogICAgICAgICAgICAgICAgLm1hcCB7IGl0LmdldCgpIH0KICAgICAgICAgICAgICAgIC5tYXAgeyBpdC5kdXJhdGlvbiB9CiAgICAgICAgICAgICAgICAuZG9Pbk5leHQgeyBwcmludGxuKGl0KSB9CiAgICAgICAgICAgICAgICAuYmxvY2tpbmdGb3JFYWNoIHsgb3V0LnByaW50bG4oaXQpIH0KICAgIH0KCiAgICBvdXQuY2xvc2UoKQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>prometheusWsProdApache</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>prometheusWsProdApache</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9kQXBhY2hlSW5kZXhQcmVmaXhcPg==</text>
