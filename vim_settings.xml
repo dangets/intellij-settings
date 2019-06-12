@@ -6,13 +6,6 @@
       <file name="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/job/SecurityAssignmentExecutionDelegate.java" timestamp="1559848489485">
         <mark key="'" line="31" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" timestamp="1560272082669">
-        <mark key="'" line="342" column="13" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="." line="407" column="0" />
-        <mark key="^" line="411" column="37" />
-      </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundService.kt" timestamp="1560309581824">
         <mark key="[" line="12" column="64" />
         <mark key="]" line="13" column="68" />
@@ -27,13 +20,6 @@
       </file>
       <file name="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/service/SecurityCharacteristicsService.java" timestamp="1560189284789">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/dao/TestFundDao.kt" timestamp="1560308848723">
-        <mark key="'" line="14" column="16" />
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/security-assignment-cerberus/src/main/java/com/ca/prometheus/securityassignment/cerberus/CerberusSecurityOverrideService.java" timestamp="1559833521826">
         <mark key="'" line="9" column="53" />
@@ -97,13 +83,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" timestamp="1560275276669">
-        <mark key="'" line="28" column="31" />
-        <mark key="[" line="419" column="82" />
-        <mark key="]" line="419" column="89" />
-        <mark key="." line="419" column="89" />
-        <mark key="^" line="419" column="89" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/databaseenums/EntityField.java" timestamp="1559836410168">
         <mark key="'" line="465" column="0" />
       </file>
@@ -115,13 +94,6 @@
         <mark key="]" line="63" column="24" />
         <mark key="^" line="58" column="27" />
         <mark key="." line="63" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/entities/EntityMapSecurityFuzzyMatchesTest.java" timestamp="1560270673846">
-        <mark key="'" line="89" column="48" />
-        <mark key="[" line="131" column="41" />
-        <mark key="]" line="131" column="49" />
-        <mark key="." line="131" column="49" />
-        <mark key="^" line="131" column="49" />
       </file>
       <file name="$USER_HOME$/dev/cerberus/data-access/src/main/java/com/ca/cerberus/dataaccess/config/DataSourceModule.java" timestamp="1560280612296">
         <mark key="[" line="152" column="22" />
@@ -140,13 +112,6 @@
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/test/java/com/ca/prometheus/dataaccess/config/pooling/proxies/ManualProxyDataSourceProviderTest.java" timestamp="1559848388734">
         <mark key="'" line="70" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" timestamp="1560275785574">
-        <mark key="'" line="477" column="79" />
-        <mark key="[" line="477" column="79" />
-        <mark key="]" line="477" column="80" />
-        <mark key="." line="477" column="79" />
-        <mark key="^" line="477" column="79" />
       </file>
       <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" timestamp="1560367511337">
         <mark key="'" line="19" column="0" />
@@ -179,11 +144,12 @@
       <file name="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1560357946464">
         <mark key="'" line="2237" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1560360017188">
-        <mark key="[" line="79" column="5" />
-        <mark key="]" line="80" column="15" />
-        <mark key="^" line="80" column="15" />
-        <mark key="." line="80" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1560373462842">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="92" column="87" />
+        <mark key="]" line="92" column="87" />
+        <mark key="^" line="92" column="87" />
+        <mark key="." line="92" column="87" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/prometheus-ws/src/main/java/com/ca/prometheus/ws/rest/AccountResource.java" timestamp="1559878961699">
         <mark key="'" line="65" column="30" />
@@ -201,11 +167,11 @@
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560277767786">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="152" column="59" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="162" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560372633549">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="182" column="8" />
+        <mark key="." line="177" column="41" />
+        <mark key="^" line="177" column="41" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/PrometheusTransactionEntity.java" timestamp="1560267148541">
         <mark key="'" line="96" column="5" />
@@ -220,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="24" filename="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/SecurityAssigner.java" />
       <jump line="38" column="56" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="124" column="252" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/rules/EntityRuleProcessor.java" />
       <jump line="51" column="34" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/rules/EntityRuleProcessor.java" />
@@ -320,19 +285,20 @@
       <jump line="65" column="104" filename="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/Elasticsearch.kt" />
       <jump line="62" column="107" filename="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/Elasticsearch.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" />
+      <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>devlogs-ng</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBwZXJjZW50aWxlX2Rpc2MoMC45OSkgd2l0aGluIGdyb3VwIChvcmRlciBieSBxdWV1ZXRpbWUpIG92ZXIgKCkgYXMgcDk5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>devlogs-ng</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9kQXBhY2hlSW5kZXhQcmVmaXhcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,19 +307,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eShvcmcuc2xmNGouaW1wbC5TaW1wbGVMb2dnZXIuREVGQVVMVF9MT0dfTEVWRUxfS0VZLCAiREVCVUciKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eShvcmcuc2xmNGouaW1wbC5TaW1wbGVMb2dnZXIuREVGQVVMVF9MT0dfTEVWRUxfS0VZLCAiREVCVUciKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIHByb2RBcGFjaGVJbmRleFByZWZpeCA9ICJwcm9kLWFwYWNoZSIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIDxUPiBydW5JblByb2RBcGFjaGUocWI6IFF1ZXJ5QnVpbGRlciwgZjogKEZsb3dhYmxlPFNlYXJjaEhpdD4pIC0+IFQpID0gcnVuSW5Gb28ocHJvZEVzQ2xpZW50KCksIHFiLCBwcm9kQXBhY2hlSW5kZXhQcmVmaXgsIGVtcHR5TGlzdCgpLCBmKQo=</text>
+        <text encoding="base64">Y29uc3QgdmFsIHByb2RBcGFjaGVJbmRleFByZWZpeCA9ICJwcm9kLWFwYWNoZSIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZnVuIDxUPiBydW5JblByb2RBcGFjaGUocWI6IFF1ZXJ5QnVpbGRlciwgZjogKEZsb3dhYmxlPFNlYXJjaEhpdD4pIC0+IFQpID0gcnVuSW5Gb28ocHJvZEVzQ2xpZW50KCksIHFiLCBwcm9kQXBhY2hlSW5kZXhQcmVmaXgsIGVtcHR5TGlzdCgpLCBmKQo=</text>
