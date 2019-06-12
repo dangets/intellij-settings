@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/dev/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/job/SecurityAssignmentExecutionDelegate.java" timestamp="1559848489485">
         <mark key="'" line="31" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/execution-manager/execution-manager-activation/src/main/java/com/ca/executionmanager/activation/User.kt" timestamp="1560308194847" />
       <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" timestamp="1560272082669">
         <mark key="'" line="342" column="13" />
         <mark key="[" line="407" column="0" />
@@ -99,6 +98,12 @@
         <mark key="]" line="3" column="75" />
         <mark key="^" line="3" column="75" />
         <mark key="." line="3" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/DataResourceTest.java" timestamp="1560356232302">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="53" />
+        <mark key="^" line="27" column="53" />
+        <mark key="." line="27" column="53" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/webapp/swagger-ui/index.html" timestamp="1559671628713">
         <mark key="'" line="14" column="42" />
@@ -316,7 +321,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxieUlkXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
