@@ -255,12 +255,12 @@
         <mark key="^" line="49" column="94" />
         <mark key="." line="49" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560527879836">
-        <mark key="'" line="57" column="17" />
-        <mark key="[" line="63" column="1" />
-        <mark key="]" line="59" column="17" />
-        <mark key="^" line="59" column="17" />
-        <mark key="." line="59" column="17" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560547029882">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="97" column="20" />
+        <mark key="]" line="97" column="22" />
+        <mark key="." line="97" column="22" />
+        <mark key="^" line="97" column="22" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
@@ -285,9 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="26" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
-      <jump line="416" column="5" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
-      <jump line="29" column="29" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
       <jump line="142" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
       <jump line="159" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
       <jump line="166" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
@@ -385,59 +382,60 @@
       <jump line="40" column="33" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="58" column="22" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="57" column="17" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="77" column="2" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="78" column="14" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="34" column="11" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tru</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>tru</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5kWG1sXD4=</text>
+        <text encoding="base64">XDxTZWN1cml0eUlkZW50aWZpZXJzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5kLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZnVuZFhtbCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGl0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9kZWYgcmVhZFBvcnRmb2xpbyhfcG9ydGZvbGlvKToKLy9fYWdncmVnYXRlZEhvbGRpbmcgPSBzaW5nbGUoX3BvcnRmb2xpby5maW5kX2FsbCgiQWdncmVnYXRlZEhvbGRpbmciKSkKLy9faG9sZGluZ3MgPSBfYWdncmVnYXRlZEhvbGRpbmcuZmluZF9hbGwoIkhvbGRpbmdEZXRhaWwiKQovL3JldCA9IFtdCi8vZm9yIF9oIGluIF9ob2xkaW5nczoKLy9hbHRlcm5hdGVJZCA9IF9oLmF0dHJzLmdldCgnX0V4dGVybmFsSWQnLCBOb25lKQovL2lzaW4gPSBnZXRUZXh0KF9oLCAnSVNJTicpCi8vY3VycmVuY3kgPSBnZXRUZXh0KF9oLCAnQ3VycmVuY3knKQovL21hcmtldFZhbHVlID0gZ2V0VGV4dChfaCwgJ01hcmtldFZhbHVlJykKLy9jaWMgPSBnZXRUZXh0KF9oLCAnQ0lDJykKLy9yZXQuYXBwZW5kKHsKLy8gICAgImRhdGUiOiBkYXRlLAovLyAgICAic2VjdXJpdHlJZGVudGlmaWVycyI6IFNlY3VyaXR5SWRlbnRpZmllcnMoaXNpbj1pc2luLCBhbHRlcm5hdGVJZD1hbHRlcm5hdGVJZCksCi8vICAgICJjdXJyZW5jeSI6IGN1cnJlbmN5LAovLyAgICAibWFya2V0VmFsdWUiOiBtYXJrZXRWYWx1ZSwKLy8gICAgImNpYyI6IGNpYwovL30pCi8vcmV0dXJuIHJldAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRleHQuaHRtbC5wYXJzZXIuUGFyc2VyCg==</text>
+        <text encoding="base64">CiAgICBwcmludGxuKGRhdGUpCiAgICByZXR1cm4gbGlzdE9mKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc291cmNlRmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnVuZE1lbWJlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIiR7Z2V0UmVzb3VyY2VGaWxlcygiIil9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFsdGVybmF0ZUlkID0geEhvbGRpbmdEZXRhaWwuYXR0cigiX0V4dGVybmFsSWQiKQogICAgICAgICAgICB2YWwgaXNpbiA9IHhIb2xkaW5nRGV0YWlsLnNlbGVjdEZpcnN0KCJJU0lOIikudGV4dCgpCiAgICAgICAgICAgIHZhbCBjdXJyZW5jeSA9IHhIb2xkaW5nRGV0YWlsLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5kWG1sXD4=</last-search>
+      <last-search encoding="base64">XDxTZWN1cml0eUlkZW50aWZpZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5kWG1sXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTZWN1cml0eUlkZW50aWZpZXJzXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kapt</entry>
-        <entry>getPricingByPartition</entry>
         <entry>client</entry>
         <entry encoding="base64">XDxwcmljaW5nQnlDbGllbnRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzZWN1cml0eUlkc1w+</entry>
@@ -456,6 +454,8 @@
         <entry>xml</entry>
         <entry encoding="base64">XDxmdW5kc1w+</entry>
         <entry encoding="base64">XDxmdW5kWG1sXD4=</entry>
+        <entry encoding="base64">XDxfYWdncmVnYXRlZEhvbGRpbmdcPg==</entry>
+        <entry encoding="base64">XDxTZWN1cml0eUlkZW50aWZpZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
