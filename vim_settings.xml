@@ -192,12 +192,12 @@
       <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" timestamp="1559340652516">
         <mark key="'" line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" timestamp="1560526913979">
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" timestamp="1560527099780">
         <mark key="'" line="0" column="18" />
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="49" column="42" />
-        <mark key="." line="49" column="42" />
-        <mark key="^" line="49" column="42" />
+        <mark key="[" line="55" column="57" />
+        <mark key="]" line="55" column="58" />
+        <mark key="." line="55" column="58" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/CommonTestHelpers.java" timestamp="1560288359204">
         <mark key="[" line="7" column="29" />
@@ -226,6 +226,9 @@
       <file name="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" timestamp="1560357946464">
         <mark key="'" line="2237" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar!/org/jsoup/Jsoup.java" timestamp="1560527341789">
+        <mark key="'" line="34" column="114" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1560451544370">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="115" column="10" />
@@ -251,6 +254,13 @@
         <mark key="]" line="49" column="94" />
         <mark key="^" line="49" column="94" />
         <mark key="." line="49" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560527879836">
+        <mark key="'" line="57" column="17" />
+        <mark key="[" line="63" column="1" />
+        <mark key="]" line="59" column="17" />
+        <mark key="^" line="59" column="17" />
+        <mark key="." line="59" column="17" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
@@ -278,15 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="20" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
-      <jump line="339" column="13" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
-      <jump line="342" column="13" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/entities/EntityMap.java" />
-      <jump line="152" column="23" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
-      <jump line="161" column="27" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
-      <jump line="40" column="156" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
-      <jump line="52" column="28" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
-      <jump line="55" column="20" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
       <jump line="170" column="26" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/groovy/com/ca/prometheus/entitycleaning/rules/EntityRuleContext.groovy" />
       <jump line="416" column="5" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
       <jump line="29" column="29" filename="$USER_HOME$/dev/prometheus/EntityCleaning/src/test/java/com/ca/prometheus/entitycleaning/rules/ContextTest.java" />
@@ -378,62 +379,66 @@
       <jump line="6" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" />
       <jump line="12" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" />
       <jump line="0" column="18" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="18" column="13" filename="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar!/org/jsoup/Jsoup.java" />
+      <jump line="22" column="5" filename="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar!/org/jsoup/Jsoup.java" />
+      <jump line="34" column="114" filename="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar!/org/jsoup/Jsoup.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="61" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="40" column="33" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="58" column="22" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="57" column="17" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>xportfolio</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>xportfolio</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRSZXNvdXJjZUZpbGVzXD4=</text>
+        <text encoding="base64">XDxmdW5kWG1sXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIoSW5wdXRTdHJlYW1SZWFkZXIoaXQpKS5yZWFkTGluZXMoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZnVuZFhtbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXQgPT0gbnVsbCkKICAgICAgICAgICAgIiIKICAgICAgICBlbHNlCiAgICAgICAgICAgIEJ1ZmZlcmVkUmVhZGVyCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGl0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRleHQuaHRtbC5wYXJzZXIuUGFyc2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuY29udGV4dENsYXNzTG9hZGVyLmdldFJlc291cmNlQXNTdHJlYW0ocmVzb3VyY2UpID86IHJlc291cmNlOjpjbGFzcy5qYXZhLmdldFJlc291cmNlQXNTdHJlYW0ocmVzb3VyY2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc291cmNlRmlsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIiR7Z2V0UmVzb3VyY2VGaWxlcygiIil9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRSZXNvdXJjZUZpbGVzXD4=</last-search>
+      <last-search encoding="base64">XDxmdW5kWG1sXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRSZXNvdXJjZUZpbGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmdW5kWG1sXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9kQXBhY2hlSW5kZXhQcmVmaXhcPg==</entry>
-        <entry encoding="base64">XDxsZWFrRGV0ZWN0aW9uVGhyZXNob2xkXD4=</entry>
-        <entry>leak</entry>
-        <entry>simulate</entry>
-        <entry>source</entry>
         <entry>kapt</entry>
         <entry>getPricingByPartition</entry>
         <entry>client</entry>
@@ -449,6 +454,11 @@
         <entry encoding="base64">XDxnZXRSZXNvdXJjZUFzU3RyZWFtXD4=</entry>
         <entry>blah</entry>
         <entry encoding="base64">XDxnZXRSZXNvdXJjZUZpbGVzXD4=</entry>
+        <entry encoding="base64">XDxQYXJzZXJcPg==</entry>
+        <entry>parse</entry>
+        <entry>xml</entry>
+        <entry encoding="base64">XDxmdW5kc1w+</entry>
+        <entry encoding="base64">XDxmdW5kWG1sXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
