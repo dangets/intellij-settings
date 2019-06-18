@@ -98,6 +98,7 @@
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundData.kt" timestamp="1560887315956" />
       <file name="$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/7.2.1.jre11/mssql-jdbc-7.2.1.jre11-sources.jar!/com/microsoft/sqlserver/jdbc/SQLServerResultSet.java" timestamp="1560449895412">
         <mark key="'" line="39" column="11" />
       </file>
@@ -262,7 +263,7 @@
       <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/resources/formatted.xml" timestamp="1560868880077">
         <mark key="'" line="968" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Fund.kt" timestamp="1560883256680">
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Fund.kt" timestamp="1560887508932">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="26" column="19" />
