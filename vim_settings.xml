@@ -139,11 +139,17 @@
         <mark key="." line="47" column="67" />
         <mark key="^" line="47" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/pom.xml" timestamp="1560826877129">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="41" column="33" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/pom.xml" timestamp="1560829155053">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/SparkXmlDemo.kt" timestamp="1560831016809">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/dao/FundDao.kt" timestamp="1560308741696">
         <mark key="[" line="10" column="33" />
@@ -288,9 +294,10 @@
         <mark key="^" line="49" column="94" />
         <mark key="." line="49" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560827092693">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560829100447">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="70" />
         <mark key="^" line="101" column="8" />
         <mark key="." line="34" column="0" />
       </file>
@@ -330,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="23" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="16" column="28" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="34" column="51" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="40" column="26" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
@@ -421,7 +427,6 @@
       <jump line="91" column="8" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="92" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="54" column="8" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
-      <jump line="46" column="8" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="95" column="21" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="52" column="21" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
@@ -430,58 +435,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/pom.xml" />
       <jump line="75" column="38" filename="$USER_HOME$/dev/prometheus/pom.xml" />
       <jump line="76" column="9" filename="$USER_HOME$/dev/prometheus/pom.xml" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="10" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9kYXRhIGNsYXNzIFNlY3VyaXR5SWRlbnRpZmllcnMoCi8vICAgIHZhbCBhbHRlcm5hdGVJZDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBjdXNpcDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHNlZG9sOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHRpY2tlcjogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAovLyAgICB2YWwgZnhDdXJyZW5jeTogU3RyaW5nPyA9IG51bGwKLy8pCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>whole</text>
       </register>
       <register name="/" type="4">
-        <text>jupiter</text>
+        <text encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9kYXRhIGNsYXNzIFNlY3VyaXR5SWRlbnRpZmllcnMoCi8vICAgIHZhbCBhbHRlcm5hdGVJZDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBjdXNpcDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHNlZG9sOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHRpY2tlcjogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAovLyAgICB2YWwgZnhDdXJyZW5jeTogU3RyaW5nPyA9IG51bGwKLy8pCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwYXJrLnNwYXJrQ29udGV4dCgpLnBhcmFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYmF0Y2hJZGVudGlmaWVyID0gRnVuZEJhdGNoSWRlbnRpZmllcigiZm9vLnR4dCIsIDEyMzQ1LCBMb2NhbERhdGUub2YoMjAxOSwgNiwgMTcpKQo=</text>
+        <text encoding="base64">ICAgIHJlYWRSZXNvdXJjZUFzVGV4dCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VydmljZSA9IEZ1bmRTZXJ2aWNlKGRhbywgbm90aWZpY2F0aW9uU2VydmljZSkK</text>
+        <text encoding="base64">Ly9kYXRhIGNsYXNzIFNlY3VyaXR5SWRlbnRpZmllcnMoCi8vICAgIHZhbCBhbHRlcm5hdGVJZDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBjdXNpcDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHNlZG9sOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHRpY2tlcjogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAovLyAgICB2YWwgZnhDdXJyZW5jeTogU3RyaW5nPyA9IG51bGwKLy8pCgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVyeSB7IGRhby5pbnNlcnRGdW5kRGF0YShhbnkoKSwgYW55KCkpIH0gcmV0dXJucyAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZnVuZAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYmF0Y2hJZGVudGlmaWVyID0gRnVuZEJhdGNoSWRlbnRpZmllcigiZm9vLnR4dCIsIDEyMzQ1LCBMb2NhbERhdGUub2YoMjAxOSwgNiwgMTcpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2VydmljZSA9IEZ1bmRTZXJ2aWNlKGRhbywgbm90aWZpY2F0aW9uU2VydmljZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jupiter</last-search>
+      <last-search encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</last-search>
       <last-offset />
-      <last-pattern>jupiter</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>@Not</entry>
         <entry>loadcolumn</entry>
         <entry encoding="base64">XDxsb2FkRXhlY3V0aW9uc1w+</entry>
         <entry>lookup</entry>
@@ -501,6 +507,7 @@
         <entry encoding="base64">XDxzZWN1cml0eUlkZW50aWZpZXJzXD4=</entry>
         <entry>junit</entry>
         <entry>jupiter</entry>
+        <entry encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
