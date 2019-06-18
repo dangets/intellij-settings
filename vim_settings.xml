@@ -29,9 +29,6 @@
         <mark key="." line="74" column="115" />
         <mark key="^" line="74" column="115" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/pom.xml" timestamp="1560787036454">
-        <mark key="'" line="76" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/fund/FundServiceTest.kt" timestamp="1560808853316">
         <mark key="[" line="24" column="91" />
         <mark key="]" line="24" column="91" />
@@ -58,13 +55,6 @@
       </file>
       <file name="$USER_HOME$/dev/prometheus/security-assignment-api/target/generated-sources/annotations/com/ca/prometheus/securityassignment/ImmutableDefaultSecurityMatchResult.java" timestamp="1559842770197">
         <mark key="'" line="101" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/ExecutionService.kt" timestamp="1560450521492">
-        <mark key="'" line="53" column="16" />
-        <mark key="[" line="35" column="117" />
-        <mark key="]" line="35" column="119" />
-        <mark key="." line="35" column="119" />
-        <mark key="^" line="35" column="119" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/prometheus-ws/pom.xml" timestamp="1560787027355">
         <mark key="'" line="0" column="0" />
@@ -111,6 +101,11 @@
       <file name="$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/7.2.1.jre11/mssql-jdbc-7.2.1.jre11-sources.jar!/com/microsoft/sqlserver/jdbc/SQLServerResultSet.java" timestamp="1560449895412">
         <mark key="'" line="39" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" timestamp="1560872821184">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="39" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/EntityProcessor.java" timestamp="1559879835571">
         <mark key="'" line="68" column="34" />
       </file>
@@ -123,21 +118,14 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560372633549">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="182" column="8" />
-        <mark key="." line="177" column="41" />
-        <mark key="^" line="177" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1560872819901">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="39" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="185" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" timestamp="1560357714847">
         <mark key="'" line="49" column="126" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/prometheus-ws/src/main/java/com/ca/prometheus/ws/rest/PricingResource.java" timestamp="1560441605054">
-        <mark key="'" line="141" column="52" />
-        <mark key="[" line="146" column="38" />
-        <mark key="]" line="142" column="45" />
-        <mark key="^" line="142" column="45" />
-        <mark key="." line="146" column="47" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/test/java/com/ca/executionmanager/execution/ExecutionDaoTest.kt" timestamp="1560450713160">
         <mark key="[" line="47" column="65" />
@@ -205,6 +193,9 @@
         <mark key="^" line="41" column="24" />
         <mark key="." line="41" column="24" />
       </file>
+      <file name="/console" timestamp="1560872411897">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/prometheus/JobBroker/src/main/java/com/ca/prometheus/jobbroker/JobThread.java" timestamp="1558538789972">
         <mark key="'" line="0" column="0" />
       </file>
@@ -229,32 +220,11 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" timestamp="1560367511337">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
-      </file>
       <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/datafeed/DataFeedResource.java" timestamp="1559878881607">
         <mark key="'" line="36" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1560451544370">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="115" column="10" />
-        <mark key="]" line="115" column="40" />
-        <mark key="^" line="115" column="40" />
-        <mark key="." line="115" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" timestamp="1559340652516">
         <mark key="'" line="68" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" timestamp="1560527099780">
-        <mark key="'" line="0" column="18" />
-        <mark key="[" line="55" column="57" />
-        <mark key="]" line="55" column="58" />
-        <mark key="." line="55" column="58" />
-        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/CommonTestHelpers.java" timestamp="1560288359204">
         <mark key="[" line="7" column="29" />
@@ -301,13 +271,6 @@
       </file>
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/Elasticsearch.kt" timestamp="1560374161391">
-        <mark key="'" line="63" column="107" />
-        <mark key="[" line="49" column="83" />
-        <mark key="]" line="49" column="94" />
-        <mark key="^" line="49" column="94" />
-        <mark key="." line="49" column="94" />
       </file>
       <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560870081238">
         <mark key="'" line="10" column="4" />
@@ -449,7 +412,18 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>obj</text>
+        <text>2019-06-18 09:47:06] [S0001] -- permissions
+[2019-06-18 09:47:06] [S0001] IF NOT EXISTS (SELECT * FROM sys.database_principals WHERE name = 'data-team-data-viewer' AND type_desc = 'SQL_USER')
+[2019-06-18 09:47:06] 	CREATE USER [data-team-data-viewer] FOR LOGIN [data-team-data-viewer]
+[2019-06-18 09:47:06] -- REVOKE SELECT ON data.PrometheusTransaction TO [data-team-data-viewer]
+[2019-06-18 09:47:06] IF NOT EXISTS (SELECT * FROM sys.database_permissions
+[2019-06-18 09:47:06] 				WHERE class_desc = 'OBJECT_OR_COLUMN'
+[2019-06-18 09:47:06] 				  AND state_desc = 'GRANT'
+[2019-06-18 09:47:06] 				  AND permission_name = 'SELECT'
+[2019-06-18 09:47:06] 				  AND major_id = OBJECT_ID('data.PrometheusTransaction')
+[2019-06-18 09:47:06] 				  AND minor_id = 0
+[2019-06-18 09:47:06] 				  AND grantee_principal_id = DATABASE_PRINCIPAL_ID('data-team-data-viewer'))
+[2019-06-18 09:47:06] 	GRANT SELECT ON data.PrometheusTransaction TO [data-team-data-viewer]</text>
       </register>
       <register name="-" type="4">
         <text>obj</text>
