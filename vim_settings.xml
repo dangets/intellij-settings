@@ -272,12 +272,12 @@
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560874944473">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="8" />
-        <mark key="^" line="68" column="8" />
-        <mark key="." line="68" column="8" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560880308843">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="64" column="8" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
@@ -412,7 +412,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>normalizeJsonPath</text>
@@ -421,32 +421,31 @@
         <text encoding="base64">XDxQb3J0Zm9saW9cPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc291cmNlSnNvbikK</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW4gU3RyaW5nLnBhcnNlTG9jYWxEYXRlKCk6IExvY2FsRGF0ZSA9IExvY2FsRGF0ZS5wYXJzZSh0aGlzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dC5mb3IK</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlID0geFBvcnRmb2xpby5zZWxlY3RGaXJzdCgiRGF0ZSIpLnRleHQoKS5wYXJzZUxvY2FsRGF0ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEZ1bmQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAvL3ByaW50bG4oanNvbk9iai50b1N0cmluZygyKSkKCiAgICB2YWwgZnVuZE9iaiA9IGpzb25PYmouZ2V0SlNPTk9iamVjdCgiR2lhZERhdGFPdXRwdXRSZXNwb25zZSIpCiAgICAgICAgLmdldEpTT05PYmplY3QoIkdpYWREYXRhT3V0cHV0UmVzdWx0IikKICAgICAgICAuZ2V0SlNPTk9iamVjdCgiRnVuZFNoYXJlQ2xhc3MiKQogICAgICAgIC5nZXRKU09OT2JqZWN0KCJGdW5kIikKICAgIHByaW50bG4oZnVuZE9iai50b1N0cmluZygyKSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oc291cmNlSnNvbikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG91dC5mb3IK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIEZ1bmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIGRmID0gc3BhcmsuY3JlYXRlRGF0YUZyYW1lKGl0Lm1lbWJlcnMsIEZ1bmRNZW1iZXI6OmNsYXNzLmphdmEpCiAgICAgICAgZGYucHJpbnRTY2hlbWEoKQo=</text>
+        <text encoding="base64">CiAgICAvL3ByaW50bG4oanNvbk9iai50b1N0cmluZygyKSkKCiAgICB2YWwgZnVuZE9iaiA9IGpzb25PYmouZ2V0SlNPTk9iamVjdCgiR2lhZERhdGFPdXRwdXRSZXNwb25zZSIpCiAgICAgICAgLmdldEpTT05PYmplY3QoIkdpYWREYXRhT3V0cHV0UmVzdWx0IikKICAgICAgICAuZ2V0SlNPTk9iamVjdCgiRnVuZFNoYXJlQ2xhc3MiKQogICAgICAgIC5nZXRKU09OT2JqZWN0KCJGdW5kIikKICAgIHByaW50bG4oZnVuZE9iai50b1N0cmluZygyKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgibW9ybmluZ3N0YXIiKQogICAgICAgIC5tYXN0ZXIoImxvY2FsIikKICAgICAgICAuZ2V0T3JDcmVhdGUoKQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
