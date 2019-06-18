@@ -223,11 +223,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" timestamp="1560867360598">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" timestamp="1560868554458">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="64" />
+        <mark key="." line="18" column="64" />
+        <mark key="^" line="18" column="64" />
       </file>
       <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" timestamp="1560367511337">
         <mark key="'" line="19" column="0" />
@@ -295,6 +295,9 @@
         <mark key="." line="30" column="62" />
         <mark key="^" line="30" column="62" />
       </file>
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/resources/formatted.xml" timestamp="1560868880077">
+        <mark key="'" line="968" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
       </file>
@@ -342,8 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="28" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
-      <jump line="34" column="51" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="40" column="26" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="46" column="130" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
       <jump line="49" column="126" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
@@ -442,58 +443,59 @@
       <jump line="76" column="9" filename="$USER_HOME$/dev/prometheus/pom.xml" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="10" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
+      <jump line="27" column="11" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/resources/formatted.xml" />
+      <jump line="968" column="12" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/resources/formatted.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</text>
+        <text encoding="base64">XDxQb3J0Zm9saW9cPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB4bWwgPSByZWFkUmVzb3VyY2VBc1RleHQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHNvdXJjZVhtbCA9IHJlYWRSZXNvdXJjZUFzVGV4dCgiLi9FeGFtcGxlTW9ybmluZ3N0YXJGaWxlLnhtbCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwYXJrLnNwYXJrQ29udGV4dCgpLnBhcmFsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlYWRSZXNvdXJjZUFzVGV4dCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9kYXRhIGNsYXNzIFNlY3VyaXR5SWRlbnRpZmllcnMoCi8vICAgIHZhbCBhbHRlcm5hdGVJZDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBjdXNpcDogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHNlZG9sOiBTdHJpbmc/ID0gbnVsbCwKLy8gICAgdmFsIHRpY2tlcjogU3RyaW5nPyA9IG51bGwsCi8vICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAovLyAgICB2YWwgZnhDdXJyZW5jeTogU3RyaW5nPyA9IG51bGwKLy8pCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB4bWwgPSByZWFkUmVzb3VyY2VBc1RleHQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vdmFsIHNvdXJjZVhtbCA9IHJlYWRSZXNvdXJjZUFzVGV4dCgiLi9FeGFtcGxlTW9ybmluZ3N0YXJGaWxlLnhtbCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</last-search>
+      <last-search encoding="base64">XDxQb3J0Zm9saW9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQb3J0Zm9saW9cPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loadcolumn</entry>
         <entry encoding="base64">XDxsb2FkRXhlY3V0aW9uc1w+</entry>
         <entry>lookup</entry>
         <entry>executiondao</entry>
@@ -513,6 +515,7 @@
         <entry>junit</entry>
         <entry>jupiter</entry>
         <entry encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</entry>
+        <entry encoding="base64">XDxQb3J0Zm9saW9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
