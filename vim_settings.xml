@@ -223,11 +223,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" timestamp="1560868554458">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="64" />
-        <mark key="." line="18" column="64" />
-        <mark key="^" line="18" column="64" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" timestamp="1560870420628">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/dev/es-prometheus-digging/src/main/kotlin/com/dangets/PrometheusWsApacheLogs.kt" timestamp="1560367511337">
         <mark key="'" line="19" column="0" />
@@ -268,12 +268,6 @@
       <file name="$USER_HOME$/dev/prometheus/sql/Prometheus/schemas/data/programmability/data.GetLatestPrometheusCustomData.sql" timestamp="1559576377681">
         <mark key="'" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Hello.kt" timestamp="1560526444691">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/webapp/swagger-ui/index.html" timestamp="1559671628713">
         <mark key="'" line="14" column="42" />
       </file>
@@ -298,6 +292,13 @@
       <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/resources/formatted.xml" timestamp="1560868880077">
         <mark key="'" line="968" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Fund.kt" timestamp="1560870061960">
+        <mark key="'" line="20" column="1" />
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
       </file>
@@ -308,12 +309,12 @@
         <mark key="^" line="49" column="94" />
         <mark key="." line="49" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560829100447">
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560870081238">
         <mark key="'" line="10" column="4" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="70" />
-        <mark key="^" line="101" column="8" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="50" column="27" />
+        <mark key="^" line="74" column="8" />
+        <mark key="." line="50" column="27" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
@@ -345,10 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="26" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
-      <jump line="46" column="130" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
-      <jump line="49" column="126" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" />
-      <jump line="1198" column="30" filename="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1201" column="7" filename="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1202" column="12" filename="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
       <jump line="1203" column="7" filename="/usr/lib/jvm/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ForkJoinPool.java" />
@@ -445,43 +442,47 @@
       <jump line="10" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="27" column="11" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/resources/formatted.xml" />
       <jump line="968" column="12" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/resources/formatted.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Fund.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Fund.kt" />
+      <jump line="20" column="1" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Fund.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>obj</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>obj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3J0Zm9saW9cPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0SlNPTk9iamVjdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmRhdGEgY2xhc3MgRnVuZCgKICAgIHZhbCBkZXNjcmlwdGlvbjogU3RyaW5nID0gIiIsCiAgICB2YWwgYWx0ZXJuYXRlSWQ6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGN1c2lwOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBzZWRvbDogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgdGlja2VyOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAogICAgdmFsIGZ4Q3VycmVuY3k6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIG1lbWJlcnM6IExpc3Q8RnVuZE1lbWJlcj4KKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlOiBMb2NhbERhdGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmRhdGEgY2xhc3MgRnVuZE1lbWJlcigKICAgIHZhbCBkYXRlOiBMb2NhbERhdGUsCiAgICB2YWwgYWx0ZXJuYXRlSWQ6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGN1c2lwOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBzZWRvbDogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgdGlja2VyOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAogICAgdmFsIGZ4Q3VycmVuY3k6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGN1cnJlbmN5OiBTdHJpbmc/LAogICAgdmFsIG1hcmtldFZhbHVlOiBTdHJpbmcsCiAgICB2YWwgY2ljOiBTdHJpbmcKKQoKZGF0YSBjbGFzcyBGdW5kKAogICAgdmFsIGRlc2NyaXB0aW9uOiBTdHJpbmcgPSAiIiwKICAgIHZhbCBhbHRlcm5hdGVJZDogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgY3VzaXA6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGlzaW46IFN0cmluZz8gPSBudWxsLAogICAgdmFsIHNlZG9sOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCB0aWNrZXI6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIG1hdHVyaXR5RGF0ZTogTG9jYWxEYXRlPyA9IG51bGwsCiAgICB2YWwgZnhDdXJyZW5jeTogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgbWVtYmVyczogTGlzdDxGdW5kTWVtYmVyPgopCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB4bWwgPSByZWFkUmVzb3VyY2VBc1RleHQoKQo=</text>
+        <text encoding="base64">CmZ1biBKU09OT2JqZWN0LnNlbGVjdEFsbChzZWxlY3RvcjogU3RyaW5nKTogU2VxdWVuY2U8SlNPTk9iamVjdD4gewp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHNvdXJjZVhtbCA9IHJlYWRSZXNvdXJjZUFzVGV4dCgiLi9FeGFtcGxlTW9ybmluZ3N0YXJGaWxlLnhtbCIpCg==</text>
+        <text encoding="base64">CmZ1biBKU09OT2JqZWN0LnNlbGVjdEFsbChzZWxlY3RvcjogU3RyaW5nKTogU2VxdWVuY2U8SlNPTk9iamVjdD4gewp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
