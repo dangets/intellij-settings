@@ -133,11 +133,11 @@
         <mark key="." line="47" column="67" />
         <mark key="^" line="47" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/pom.xml" timestamp="1560866872735">
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="53" column="28" />
-        <mark key="." line="53" column="28" />
-        <mark key="^" line="53" column="28" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/pom.xml" timestamp="1560875826523">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/SparkXmlDemo.kt" timestamp="1560867276054">
         <mark key="[" line="5" column="0" />
@@ -214,11 +214,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" timestamp="1560870420628">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-        <mark key="^" line="8" column="9" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" timestamp="1560876133481">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/PrometheusCurator/src/main/java/com/ca/prometheus/prometheuscurator/rest/datafeed/DataFeedResource.java" timestamp="1559878881607">
         <mark key="'" line="36" column="27" />
@@ -272,12 +272,12 @@
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560870081238">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="50" column="27" />
-        <mark key="^" line="74" column="8" />
-        <mark key="." line="50" column="27" />
+      <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" timestamp="1560874944473">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="8" />
+        <mark key="^" line="68" column="8" />
+        <mark key="." line="68" column="8" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
@@ -411,52 +411,42 @@
       <jump line="20" column="1" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/Fund.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2019-06-18 09:47:06] [S0001] -- permissions
-[2019-06-18 09:47:06] [S0001] IF NOT EXISTS (SELECT * FROM sys.database_principals WHERE name = 'data-team-data-viewer' AND type_desc = 'SQL_USER')
-[2019-06-18 09:47:06] 	CREATE USER [data-team-data-viewer] FOR LOGIN [data-team-data-viewer]
-[2019-06-18 09:47:06] -- REVOKE SELECT ON data.PrometheusTransaction TO [data-team-data-viewer]
-[2019-06-18 09:47:06] IF NOT EXISTS (SELECT * FROM sys.database_permissions
-[2019-06-18 09:47:06] 				WHERE class_desc = 'OBJECT_OR_COLUMN'
-[2019-06-18 09:47:06] 				  AND state_desc = 'GRANT'
-[2019-06-18 09:47:06] 				  AND permission_name = 'SELECT'
-[2019-06-18 09:47:06] 				  AND major_id = OBJECT_ID('data.PrometheusTransaction')
-[2019-06-18 09:47:06] 				  AND minor_id = 0
-[2019-06-18 09:47:06] 				  AND grantee_principal_id = DATABASE_PRINCIPAL_ID('data-team-data-viewer'))
-[2019-06-18 09:47:06] 	GRANT SELECT ON data.PrometheusTransaction TO [data-team-data-viewer]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>normalizeJsonPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3J0Zm9saW9cPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0SlNPTk9iamVjdCgpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oc291cmNlSnNvbikK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dC5mb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRhdGEgY2xhc3MgRnVuZCgKICAgIHZhbCBkZXNjcmlwdGlvbjogU3RyaW5nID0gIiIsCiAgICB2YWwgYWx0ZXJuYXRlSWQ6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGN1c2lwOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBzZWRvbDogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgdGlja2VyOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAogICAgdmFsIGZ4Q3VycmVuY3k6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIG1lbWJlcnM6IExpc3Q8RnVuZE1lbWJlcj4KKQo=</text>
+        <text encoding="base64">ICAgIC8vIEZ1bmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRlOiBMb2NhbERhdGUsCg==</text>
+        <text encoding="base64">CiAgICAvL3ByaW50bG4oanNvbk9iai50b1N0cmluZygyKSkKCiAgICB2YWwgZnVuZE9iaiA9IGpzb25PYmouZ2V0SlNPTk9iamVjdCgiR2lhZERhdGFPdXRwdXRSZXNwb25zZSIpCiAgICAgICAgLmdldEpTT05PYmplY3QoIkdpYWREYXRhT3V0cHV0UmVzdWx0IikKICAgICAgICAuZ2V0SlNPTk9iamVjdCgiRnVuZFNoYXJlQ2xhc3MiKQogICAgICAgIC5nZXRKU09OT2JqZWN0KCJGdW5kIikKICAgIHByaW50bG4oZnVuZE9iai50b1N0cmluZygyKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CmRhdGEgY2xhc3MgRnVuZE1lbWJlcigKICAgIHZhbCBkYXRlOiBMb2NhbERhdGUsCiAgICB2YWwgYWx0ZXJuYXRlSWQ6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGN1c2lwOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBpc2luOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBzZWRvbDogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgdGlja2VyOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCBtYXR1cml0eURhdGU6IExvY2FsRGF0ZT8gPSBudWxsLAogICAgdmFsIGZ4Q3VycmVuY3k6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGN1cnJlbmN5OiBTdHJpbmc/LAogICAgdmFsIG1hcmtldFZhbHVlOiBTdHJpbmcsCiAgICB2YWwgY2ljOiBTdHJpbmcKKQoKZGF0YSBjbGFzcyBGdW5kKAogICAgdmFsIGRlc2NyaXB0aW9uOiBTdHJpbmcgPSAiIiwKICAgIHZhbCBhbHRlcm5hdGVJZDogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgY3VzaXA6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGlzaW46IFN0cmluZz8gPSBudWxsLAogICAgdmFsIHNlZG9sOiBTdHJpbmc/ID0gbnVsbCwKICAgIHZhbCB0aWNrZXI6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIG1hdHVyaXR5RGF0ZTogTG9jYWxEYXRlPyA9IG51bGwsCiAgICB2YWwgZnhDdXJyZW5jeTogU3RyaW5nPyA9IG51bGwsCiAgICB2YWwgbWVtYmVyczogTGlzdDxGdW5kTWVtYmVyPgopCg==</text>
+      <register name="7" type="8">
+        <text>//
+//</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1biBKU09OT2JqZWN0LnNlbGVjdEFsbChzZWxlY3RvcjogU3RyaW5nKTogU2VxdWVuY2U8SlNPTk9iamVjdD4gewp9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIGRmID0gc3BhcmsuY3JlYXRlRGF0YUZyYW1lKGl0Lm1lbWJlcnMsIEZ1bmRNZW1iZXI6OmNsYXNzLmphdmEpCiAgICAgICAgZGYucHJpbnRTY2hlbWEoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmZ1biBKU09OT2JqZWN0LnNlbGVjdEFsbChzZWxlY3RvcjogU3RyaW5nKTogU2VxdWVuY2U8SlNPTk9iamVjdD4gewp9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyKCkKICAgICAgICAuYXBwTmFtZSgibW9ybmluZ3N0YXIiKQogICAgICAgIC5tYXN0ZXIoImxvY2FsIikKICAgICAgICAuZ2V0T3JDcmVhdGUoKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
