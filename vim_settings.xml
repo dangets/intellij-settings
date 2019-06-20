@@ -100,12 +100,12 @@
       <file name="$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/7.2.1.jre11/mssql-jdbc-7.2.1.jre11-sources.jar!/com/microsoft/sqlserver/jdbc/SQLServerResultSet.java" timestamp="1560449895412">
         <mark key="'" line="39" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" timestamp="1561062083220">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="71" column="27" />
-        <mark key="]" line="71" column="36" />
-        <mark key="." line="71" column="27" />
-        <mark key="^" line="71" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" timestamp="1561067055209">
+        <mark key="'" line="139" column="58" />
+        <mark key="[" line="186" column="33" />
+        <mark key="]" line="187" column="0" />
+        <mark key="^" line="187" column="0" />
+        <mark key="." line="187" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityCleaning/src/main/java/com/ca/prometheus/entitycleaning/EntityProcessor.java" timestamp="1559879835571">
         <mark key="'" line="68" column="34" />
@@ -144,6 +144,9 @@
         <mark key="]" line="47" column="21" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/sql/Prometheus/schemas/data/programmability/data.UpdateSecurityInformationForId.sql" timestamp="1561067317846">
+        <mark key="'" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/SparkXmlDemo.kt" timestamp="1560867276054">
         <mark key="[" line="5" column="0" />
@@ -328,10 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="25" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
-      <jump line="210" column="18" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
-      <jump line="212" column="13" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
-      <jump line="217" column="46" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
       <jump line="219" column="36" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
       <jump line="974" column="10" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
       <jump line="975" column="62" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.3.1/HikariCP-3.3.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
@@ -428,25 +427,93 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/sql/Prometheus/scripts/MD-6830_rename_Transaction_columns-rollback.sql" />
       <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
       <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
+      <jump line="105" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
+      <jump line="114" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
+      <jump line="138" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5e88e3a6-bb63-4603-9e11-bb018eac28f5/console.sql" />
+      <jump line="11" column="7" filename="$USER_HOME$/dev/prometheus/sql/Prometheus/schemas/data/programmability/data.UpdateSecurityInformationForId.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EntityHandoffDetails</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RVhFQyBkYXRhLlVwZGF0ZVNlY3VyaXR5SW5mb3JtYXRpb25Gb3JJZCAxMDg0OTk3NDgsNzM0MDgwLDYK</text>
       </register>
       <register name="-" type="4">
-        <text>EntityHandoffDetails</text>
+        <text>, ',', 6)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3JtYWxpemVcPg==</text>
+        <text encoding="base64">XDxJZFw+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fHwiInx8Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -455,32 +522,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvdXQudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSBmdW4gbm9ybWFsaXplKHNvdXJjZUpzb246IFN0cmluZykgewogICAgLy9ub3JtYWxpemVKc29uUGF0aChzb3VyY2VKc29uKQogICAgbm9ybWFsaXplSnEoc291cmNlSnNvbikKfQoK</text>
+        <text encoding="base64">c2VsZWN0IHRvcCgxMCkgKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ob3V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3JtYWxpemVcPg==</last-search>
+      <last-search encoding="base64">XDxJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3JtYWxpemVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSZXNvdXJjZUZpbGVzXD4=</entry>
-        <entry encoding="base64">XDxQYXJzZXJcPg==</entry>
         <entry>parse</entry>
         <entry>xml</entry>
         <entry encoding="base64">XDxmdW5kc1w+</entry>
@@ -499,6 +564,8 @@
         <entry>custodytransactionid</entry>
         <entry encoding="base64">XDxKc29uUGF0aFw+</entry>
         <entry encoding="base64">XDxub3JtYWxpemVcPg==</entry>
+        <entry encoding="base64">XDxzZWN1cml0eUluZm9cPg==</entry>
+        <entry encoding="base64">XDxJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
