@@ -123,11 +123,11 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1561089481826">
-        <mark key="[" line="196" column="16" />
-        <mark key="]" line="196" column="25" />
-        <mark key="." line="196" column="16" />
-        <mark key="^" line="196" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1561501005956">
+        <mark key="[" line="204" column="21" />
+        <mark key="]" line="204" column="31" />
+        <mark key="." line="204" column="31" />
+        <mark key="^" line="204" column="31" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" timestamp="1560357714847">
         <mark key="'" line="49" column="126" />
@@ -219,7 +219,7 @@
         <mark key="^" line="41" column="24" />
         <mark key="." line="41" column="24" />
       </file>
-      <file name="/console" timestamp="1561500735502">
+      <file name="/console" timestamp="1561500784872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/sql/CustodyData_Offline/schemas/data/Tables/data.PrometheusTransaction.sql" timestamp="1560955811592">
@@ -454,11 +454,11 @@
       <jump line="186" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dateadd(day, -200, getdate())</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q3JlYXRlZFRpbWUgPiAnMjAxOS0wNi0yMCAxNDowMCc=</text>
+        <text>dateadd(day, -200, getdate())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
