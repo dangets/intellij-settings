@@ -123,11 +123,11 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1561501005956">
-        <mark key="[" line="204" column="21" />
-        <mark key="]" line="204" column="31" />
-        <mark key="." line="204" column="31" />
-        <mark key="^" line="204" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1561501310331">
+        <mark key="[" line="208" column="28" />
+        <mark key="]" line="208" column="36" />
+        <mark key="." line="208" column="36" />
+        <mark key="^" line="208" column="36" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" timestamp="1560357714847">
         <mark key="'" line="49" column="126" />
@@ -179,7 +179,7 @@
         <mark key="^" line="271" column="23" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/databaseenums/EntityField.java" timestamp="1559836410168">
+      <file name="$USER_HOME$/dev/prometheus/objectmodel/src/main/java/com/ca/prometheus/objectmodel/databaseenums/EntityField.java" timestamp="1561501056507">
         <mark key="'" line="465" column="0" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/dao/InMemoryExecutionDao.kt" timestamp="1560450674650">
@@ -455,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dateadd(day, -200, getdate())</text>
+        <text>.id</text>
       </register>
       <register name="-" type="4">
-        <text>dateadd(day, -200, getdate())</text>
+        <text>.id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
