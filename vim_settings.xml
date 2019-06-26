@@ -123,11 +123,11 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1561501310331">
-        <mark key="[" line="208" column="28" />
-        <mark key="]" line="208" column="36" />
-        <mark key="." line="208" column="36" />
-        <mark key="^" line="208" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1561516237245">
+        <mark key="[" line="210" column="33" />
+        <mark key="]" line="212" column="34" />
+        <mark key="." line="212" column="34" />
+        <mark key="^" line="212" column="34" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/derivedprice/DerivedPriceServiceImpl.java" timestamp="1560357714847">
         <mark key="'" line="49" column="126" />
