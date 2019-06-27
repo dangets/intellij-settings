@@ -251,11 +251,11 @@
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/test/java/com/ca/prometheus/dataaccess/config/pooling/proxies/ManualProxyDataSourceProviderTest.java" timestamp="1559848388734">
         <mark key="'" line="70" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/notification/TestNotificationService.kt" timestamp="1560809238260">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/notification/TestNotificationService.kt" timestamp="1561645004345">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/XmlToJson.kt" timestamp="1560891874828">
         <mark key="[" line="41" column="25" />
@@ -518,7 +518,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxyZWFkVmFsdWVcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
