@@ -338,12 +338,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="64" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" timestamp="1561605878785">
-        <mark key="'" line="16" column="59" />
-        <mark key="[" line="93" column="5" />
-        <mark key="]" line="93" column="15" />
-        <mark key="^" line="93" column="15" />
-        <mark key="." line="93" column="15" />
+      <file name="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" timestamp="1561608140704">
+        <mark key="'" line="3" column="43" />
+        <mark key="[" line="118" column="57" />
+        <mark key="]" line="118" column="57" />
+        <mark key="." line="118" column="57" />
+        <mark key="^" line="88" column="44" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/resources/execution/resource/ExecutionResource.java" timestamp="1560358507425">
         <mark key="'" line="43" column="55" />
@@ -371,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" />
       <jump line="0" column="18" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningStarExample.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="18" column="13" filename="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1-sources.jar!/org/jsoup/Jsoup.java" />
@@ -454,7 +453,6 @@
       <jump line="78" column="4" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
       <jump line="84" column="11" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
       <jump line="98" column="46" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
-      <jump line="3" column="43" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
       <jump line="0" column="0" filename="kotlinDecompiled/ExtensionsKt.decompiled.java" />
       <jump line="27" column="1288" filename="kotlinDecompiled/ExtensionsKt.decompiled.java" />
       <jump line="49" column="31" filename="kotlinDecompiled/ExtensionsKt.decompiled.java" />
@@ -471,62 +469,59 @@
       <jump line="106" column="24" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
       <jump line="16" column="59" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
+      <jump line="93" column="68" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
+      <jump line="3" column="43" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">OWIyZGUxZGYtYTQzMC00NDg4LTg0MDYtNTljZGFiMGUxNmMxCg==</text>
+      <register name="&quot;" type="4">
+        <text>.readAllBytes()</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>.readAllBytes()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWxlSW5zZXJ0TWV0YWRhdGFcPg==</text>
+        <text encoding="base64">XDxyZWFkVmFsdWVcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNwYXJrLmtvdGxpbi5IdHRwCmltcG9ydCBzcGFyay5rb3RsaW4uaWduaXRlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKGYgPT0gbnVsbCkKICAgICAgICAgICAgY3R4LnJlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5nZXRGaWxlKGZpbGVJZCkudG9TdHJpbmcoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlKGNvbnRlbnRUeXBlID0gImFwcGxpY2F0aW9uL2pzb24iKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAogICAgYXAK</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL3ZhbCBmaWxlID0gY3R4LnVwbG9hZGVkRmlsZSgiZmlsZSIpID86IHRocm93IEJhZFJlcXVlc3RSZXNwb25zZSgibXVzdCBwcm92aWRlICdmaWxlJyIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ci8vICAgIGh0dHAucG9zdCgiL2ZpbGUiKSB7Ci8vICAgICAgICB2YWwgbXVsdGlwYXJ0Q29uZmlnRWxlbWVudCA9IE11bHRpcGFydENvbmZpZ0VsZW1lbnQoIi90bXAiKQovLyAgICAgICAgcmVxdWVzdC5yYXcoKS5zZXRBdHRyaWJ1dGUoIm9yZy5lY2xpcHNlLmpldHR5Lm11bHRpcGFydENvbmZpZyIsIG11bHRpcGFydENvbmZpZ0VsZW1lbnQpCi8vICAgICAgICB2YWwgbWV0YWRhdGFQYXJ0OiBQYXJ0ID0gcmVxdWVzdC5yYXcoKS5nZXRQYXJ0KCJtZXRhZGF0YSIpCgovLyAgICAgICAgdmFsIG1ldGFkYXRhOiBGaWxlSW5zZXJ0TWV0YWRhdGEgPSBvbS5yZWFkVmFsdWUobWV0YWRhdGFQYXJ0LmlucHV0U3RyZWFtKQovLyAgICAgICAgcHJpbnRsbihtZXRhZGF0YSkKCi8vICAgICAgICB2YWwgZmlsZTogUGFydCA9IHJlcXVlc3QucmF3KCkuZ2V0UGFydCgiZmlsZSIpCi8vICAgICAgICB2YWwgZmlsZUJ5dGVzID0gZmlsZS5pbnB1dFN0cmVhbS5yZWFkQWxsQnl0ZXMoKQoKLy8gICAgICAgIHZhbCBmaWxlSWQgPSBzdG9yZS5hZGRGaWxlKG1ldGFkYXRhLCBmaWxlQnl0ZXMpCi8vICAgICAgICBmaWxlSWQudG9TdHJpbmcoKQovLyAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIWN0eC5pc011bHRpcGFydCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgaHR0cC5pbnRlcm5hbFNlcnZlckVycm9yIHsKCi8vICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcC5nCg==</text>
+        <text encoding="base64">ICAgIGFwcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWxlSW5zZXJ0TWV0YWRhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxyZWFkVmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWxlSW5zZXJ0TWV0YWRhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkVmFsdWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jupiter</entry>
         <entry encoding="base64">XDxyZWFkUmVzb3VyY2VBc1RleHRcPg==</entry>
         <entry encoding="base64">XDxQb3J0Zm9saW9cPg==</entry>
         <entry encoding="base64">XDxOb3JtYWxpemVkRnVuZEJhdGNoXD4=</entry>
@@ -542,10 +537,11 @@
         <entry encoding="base64">XDxtZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxpZ25pdGVcPg==</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry encoding="base64">XDxyZWFkVmFsdWVcPg==</entry>
         <entry>readvalue</entry>
         <entry>inputstream</entry>
         <entry encoding="base64">XDxGaWxlSW5zZXJ0TWV0YWRhdGFcPg==</entry>
+        <entry>blah</entry>
+        <entry encoding="base64">XDxyZWFkVmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
