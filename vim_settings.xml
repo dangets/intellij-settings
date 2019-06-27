@@ -40,11 +40,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonResource.kt" timestamp="1561648905953">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonResource.kt" timestamp="1561656663950">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="4" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/FundService.kt" timestamp="1560883455297">
         <mark key="[" line="16" column="0" />
@@ -265,11 +265,11 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonService.kt" timestamp="1561652853963">
-        <mark key="[" line="9" column="46" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="48" />
-        <mark key="^" line="9" column="48" />
+      <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonService.kt" timestamp="1561656154455">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="85" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/test/java/com/ca/prometheus/dataaccess/config/pooling/proxies/ManualProxyDataSourceProviderTest.java" timestamp="1559848388734">
         <mark key="'" line="70" column="50" />
@@ -365,10 +365,10 @@
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1559658211418">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" timestamp="1561648173258">
-        <mark key="'" line="3" column="43" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="82" column="0" />
+      <file name="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" timestamp="1561656216719">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="120" column="5" />
         <mark key="." line="118" column="57" />
         <mark key="^" line="88" column="44" />
       </file>
@@ -398,8 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="14" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
-      <jump line="34" column="11" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="91" column="8" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
       <jump line="92" column="4" filename="$USER_HOME$/dev/dannygeorge/kotlin-scraping/src/main/kotlin/com/dangets/MorningstarExample.kt" />
@@ -498,58 +496,59 @@
       <jump line="8" column="4" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/notification/TestNotificationService.kt" />
       <jump line="6" column="72" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonFileStore.kt" />
       <jump line="10" column="16" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonFileStore.kt" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/prom-flt-input-scratch/prom-filestore/src/main/kotlin/com/clearwateranalytics/Hello.kt" />
+      <jump line="11" column="4" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonResource.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>addFile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgYXBwLmdldCgiL2ZpbGUvOmZpbGVJZC9tZXRhZGF0YSIpIHsgY3R4IC0+Ci8vICAgICAgICB2YWwgZmlsZUlkID0gY3R4LnBhdGhQYXJhbTxGaWxlSWQ+KCJmaWxlSWQiKS5nZXQoKQovLyAgICAgICAgdmFsIGYgPSBzdG9yZS5nZXRGaWxlTWV0YWRhdGEoZmlsZUlkKSA/OiB0aHJvdyBOb3RGb3VuZFJlc3BvbnNlKCkKLy8gICAgICAgIGN0eC5qc29uKGYpCi8vICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>addFile</text>
+        <text>ByteArray</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWxlSWRcPg==</text>
+        <text>balh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS4K</text>
+        <text encoding="base64">Ly8gICAgYXBwLmdldCgiL2ZpbGUvOmZpbGVJZC9tZXRhZGF0YSIpIHsgY3R4IC0+Ci8vICAgICAgICB2YWwgZmlsZUlkID0gY3R4LnBhdGhQYXJhbTxGaWxlSWQ+KCJmaWxlSWQiKS5nZXQoKQovLyAgICAgICAgdmFsIGYgPSBzdG9yZS5nZXRGaWxlTWV0YWRhdGEoZmlsZUlkKSA/OiB0aHJvdyBOb3RGb3VuZFJlc3BvbnNlKCkKLy8gICAgICAgIGN0eC5qc29uKGYpCi8vICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgYXBwLmdldCgiL2ZpbGUvOmZpbGVJZCIpIHsgY3R4IC0+Ci8vICAgICAgICB2YWwgZmlsZUlkID0gY3R4LnBhdGhQYXJhbTxGaWxlSWQ+KCJmaWxlSWQiKS5nZXQoKQovLyAgICAgICAgdmFsIGYgPSBzdG9yZS5nZXRGaWxlKGZpbGVJZCkgPzogdGhyb3cgTm90Rm91bmRSZXNwb25zZSgpCi8vICAgICAgICBjdHgucmVzdWx0KGYpCi8vICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIFJhd0ZpbGVJZCA9IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBub3RpZmljYXRpb25DaGFubmVsID0gQ2hhbm5lbDxGaWxlSWQ+KDEwMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIEZpbGVJZCA9IFVVSUQK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBGaWxlSW5zZXJ0TWV0YWRhdGEodmFsIGRhdGFTb3VyY2VJZDogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgdHJhbnNwb3J0SWQ6IEludD8gPSBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZmlsZURpc3RyaWJ1dGlvbjogSW50PyA9IG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByYXdGaWxlSWQ6IEZpbGVJZD8gPSBudWxsKQoKZGF0YSBjbGFzcyBGaWxlTWV0YWRhdGEodmFsIGRhdGFTb3VyY2VJZDogSW50LAogICAgICAgICAgICAgICAgICAgICAgICB2YWwgdHJhbnNwb3J0SWQ6IEludD8sCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBmaWxlRGlzdHJpYnV0aW9uOiBJbnQ/LAogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcmF3RmlsZUlkOiBGaWxlSWQ/LAogICAgICAgICAgICAgICAgICAgICAgICB2YWwgZmlsZUlkOiBGaWxlSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBmaWxlSGFzaDogU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICB2YWwgdHNDcmVhdGVkOiBJbnN0YW50KQoKZGF0YSBjbGFzcyBGaWxlTWV0YWRhdGFRdWVyeSh2YWwgZGF0YVNvdXJjZUlkOiBJbnQpIHsKICAgIGZ1biBtYXRjaGVzKG1ldGFkYXRhOiBGaWxlTWV0YWRhdGEpOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gZGF0YVNvdXJjZUlkID09IG1ldGFkYXRhLmRhdGFTb3VyY2VJZAogICAgfQp9Cgp0eXBlYWxpYXMgRmlsZUlkID0gVVVJRAoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWxlSWRcPg==</last-search>
+      <last-search>balh</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWxlSWRcPg==</last-pattern>
+      <last-pattern>balh</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOb3JtYWxpemVkRnVuZEJhdGNoXD4=</entry>
         <entry encoding="base64">XDxTZWN1cml0eU1hdGNoUmVxdWVzdER0b1w+</entry>
         <entry>executiontypeid</entry>
         <entry>custodytransactionid</entry>
@@ -569,6 +568,7 @@
         <entry>blah</entry>
         <entry encoding="base64">XDxpbnNlcnRSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxGaWxlSWRcPg==</entry>
+        <entry>balh</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
