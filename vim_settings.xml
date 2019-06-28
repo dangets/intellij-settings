@@ -147,11 +147,11 @@
         <mark key="^" line="217" column="40" />
         <mark key="." line="217" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws-scenario-tests/src/test/java/com/ca/prom/flt/scenario/rawjson.feature" timestamp="1561694887647">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
+      <file name="$USER_HOME$/dev/prom-flt-ws-scenario-tests/src/test/java/com/ca/prom/flt/scenario/rawjson.feature" timestamp="1561731518620">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonData.kt" timestamp="1561650380153">
         <mark key="'" line="7" column="0" />
@@ -474,41 +474,41 @@
       <jump line="75" column="73" filename="$USER_HOME$/dev/prometheus/DataLoader/src/main/java/com/ca/prometheus/dataloader/App.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="&quot;" type="4">
+        <text>==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEFuZCBtYXRjaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhd0pzb25TZXJ2aWNlLmFkZEZpbGUocmVxdWVzdC5tZXRhZGF0YSwgcmVxdWVzdC5maWxlLnRvU3RyaW5nKCkuYnl0ZUlucHV0U3RyZWFtKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGEgY2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhd0pzb25TZXJ2aWNlLmFkZEZpbGUocmVxdWVzdC5tZXRhZGF0YSwgcmVxdWVzdC5maWxlLnRvU3RyaW5nKCkuYnl0ZUlucHV0U3RyZWFtKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIAo=</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEdpdmVuIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFuZCBtYXRjaCByZXNwb25zZSA9PSBbXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFuZCBtYXRjaCByZXNwb25zZSA9PSBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhcmFtIGFzT2ZEYXRlID0gJzIwMTQtMDEtMDEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJIRVJFISIpCg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhcmFtIGFzT2ZEYXRlID0gJzIwMTQtMDEtMDEnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
