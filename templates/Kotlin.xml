@@ -1,5 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="log" value="val LOG = LoggingFactory.getLogger($CLASS_NAME$::class.java)" description="define LOG variable" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="val LOG = LoggerFactory.getLogger($CLASS_NAME$::class.java)" description="define LOG variable" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="kotlinClassName()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
