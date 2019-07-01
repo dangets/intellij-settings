@@ -416,8 +416,8 @@
       <jump line="16" column="96" filename="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/ExecutionService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gamFja3Nvbk9iamVjdE1hcHBlcigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Cannot resolve com.fasterxml.jackson.module:jackson-module-kotlin:unknown</text>
       </register>
       <register name="-" type="4">
         <text>jacksonObjectMapper</text>
