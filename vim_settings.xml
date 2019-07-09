@@ -116,11 +116,11 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1562015026483">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="22" />
-        <mark key="^" line="217" column="40" />
-        <mark key="." line="217" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1562704090794">
+        <mark key="[" line="220" column="12" />
+        <mark key="]" line="220" column="29" />
+        <mark key="^" line="220" column="29" />
+        <mark key="." line="220" column="29" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws-scenario-tests/src/test/java/com/ca/prom/flt/scenario/rawjson.feature" timestamp="1561731518620">
         <mark key="[" line="4" column="16" />
@@ -226,7 +226,7 @@
         <mark key="^" line="13" column="86" />
         <mark key="." line="13" column="86" />
       </file>
-      <file name="/console" timestamp="1562011919223">
+      <file name="/console" timestamp="1562704061731">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/SharedExecutionCacheRedis.kt" timestamp="1562001792154">
@@ -449,11 +449,11 @@
       <jump line="43" column="49" filename="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/ExecutionService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgQ3VycmVuY3kgR0JQID0gbmV3IEN1cnJlbmN5KDgyNiwgODI2LCAiR0JQIiwgIlBvdW5kIFN0ZXJsaW5nIiwgNCk7CglwdWJsaWMgc3RhdGljIGZpbmFsIEN1cnJlbmN5IENBRCA9IG5ldyBDdXJyZW5jeSgxMjQsIDEyNCwgIkNBRCIsICJDYW5hZGlhbiBEb2xsYXIiLCA2KTsK</text>
+      <register name="&quot;" type="4">
+        <text>data.PrometheusPricing</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBDb2xsZWN0aW9uPEV4ZWN1dGlvbj4=</text>
+        <text>data.PrometheusPricing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZUV4ZWN1dGlvbnNcPg==</text>
