@@ -122,11 +122,12 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1562869207155">
-        <mark key="[" line="229" column="7" />
-        <mark key="]" line="229" column="7" />
-        <mark key="^" line="229" column="15" />
-        <mark key="." line="229" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1562871501303">
+        <mark key="'" line="228" column="44" />
+        <mark key="[" line="231" column="41" />
+        <mark key="]" line="231" column="44" />
+        <mark key="." line="231" column="44" />
+        <mark key="^" line="231" column="44" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws-scenario-tests/src/test/java/com/ca/prom/flt/scenario/rawjson.feature" timestamp="1561731518620">
         <mark key="[" line="4" column="16" />
@@ -231,7 +232,7 @@
         <mark key="^" line="13" column="86" />
         <mark key="." line="13" column="86" />
       </file>
-      <file name="/console" timestamp="1562868412422">
+      <file name="/console" timestamp="1562870677619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/SharedExecutionCacheRedis.kt" timestamp="1562001792154">
@@ -240,7 +241,7 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="20" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/entity-handoff-data/src/main/kotlin/com/ca/entity/handoff/data/position/PositionDao.kt" timestamp="1562870283509" />
+      <file name="$USER_HOME$/dev/prometheus/entity-handoff-data/src/main/kotlin/com/ca/entity/handoff/data/position/PositionDao.kt" timestamp="1562870301185" />
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-ws/src/main/java/com/ca/executionmanager/ws/ExecutionManagerComponent.java" timestamp="1562017140328">
         <mark key="^" line="26" column="39" />
       </file>
@@ -353,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonFileStore.kt" />
-      <jump line="37" column="16" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonFileStore.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonData.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/rawjson/RawJsonData.kt" />
       <jump line="8" column="4" filename="$USER_HOME$/dev/prom-flt-ws/src/main/kotlin/com/ca/prom/flt/ws/fund/notification/TestNotificationService.kt" />
@@ -453,43 +452,45 @@
       <jump line="108" column="39" filename="$USER_HOME$/dev/prometheus/EntityCleaner/src/main/java/com/ca/prometheus/entitycleaner/job/EntityCleanupManagementDelegate.java" />
       <jump line="61" column="35" filename="$USER_HOME$/dev/prometheus/EntityExtractor/src/main/java/com/ca/prometheus/entityextractor/job/EntityExtractionExecutionDelegate.java" />
       <jump line="149" column="53" filename="$USER_HOME$/dev/prometheus/EntityExtractor/src/main/java/com/ca/prometheus/entityextractor/job/EntityExtractionExecutionDelegate.java" />
+      <jump line="229" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
+      <jump line="228" column="44" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dG9wKDEwKSA=</text>
+        <text>866</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9wKDEwKSA=</text>
+        <text>866</text>
       </register>
       <register name="/" type="4">
         <text>getAccount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBkYXRhLkVudGl0eUZpZWxkcwp3aGVyZSBJRCA9IDk1CgoKU0VMRUNUICogRlJPTSBkYXRhLkVudGl0eUZpZWxkcwpXSEVSRSAxPTEKLS1BTkQgbmFtZSA9ICdleHBpcmF0aW9uRGF0ZScKLS1BTkQgbmFtZSBpbiAoJ2V4cGlyYXRpb25EYXRlJykKLS1BTkQgbmFtZSBsaWtlICdleHBpcmF0aW9uRGF0ZScKQU5EIG5hbWUgaW4gKCdleGNoYW5nZScsICfigItleHBpcmF0aW9uRGF0ZScsICdleGNoYW5nZVJhdGUnLCAnZXhlcmNpc2VUeXBlJywgJ2Zsb2F0aW5nSW5kZXgnLCAnbG9va2JhY2tEYXlzJykK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkYXRhLlBvc2l0aW9ucyBwcAp3aGVyZSAxPTEKYW5kIHBwLlBhcnRpdGlvbklkID0gNTk3NDUgYW5kIHBwLnBhcnRpdGlvbnR5cGUgPSAwCmFuZCBwcC5SZWNvbkRhdGUgPSBkYm8uR2xvYmFsRGF5TnVtYmVyKCcyMDE5LTA3LTEwJykKYW5kIHBwLkFsdGVybmF0ZUlEIGxpa2UgJyVtYXJnaW4lJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS1PUiBQRUdOYW1lIGxpa2UgKCfigItleHBpcmF0aW9uRGF0ZScpCg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBkYXRhLkVudGl0eUZpZWxkcwp3aGVyZSBJRCA9IDk1CgoKU0VMRUNUICogRlJPTSBkYXRhLkVudGl0eUZpZWxkcwpXSEVSRSAxPTEKLS1BTkQgbmFtZSA9ICdleHBpcmF0aW9uRGF0ZScKLS1BTkQgbmFtZSBpbiAoJ2V4cGlyYXRpb25EYXRlJykKLS1BTkQgbmFtZSBsaWtlICdleHBpcmF0aW9uRGF0ZScKQU5EIG5hbWUgaW4gKCdleGNoYW5nZScsICfigItleHBpcmF0aW9uRGF0ZScsICdleGNoYW5nZVJhdGUnLCAnZXhlcmNpc2VUeXBlJywgJ2Zsb2F0aW5nSW5kZXgnLCAnbG9va2JhY2tEYXlzJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS1PUiBQRUdOYW1lIGxpa2UgKCfigItleHBpcmF0aW9uRGF0ZScpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjYWNoZUV4ZWN1dGlvbnMoZXhlY3V0aW9uSWRzOiBTZXQ8U3RyaW5nPikgewogICAgICAgIGxvYWQoZXhlY3V0aW9uSWRzKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjYWNoZUV4ZWN1dGlvbnMoZXhlY3V0aW9uSWRzOiBTZXQ8U3RyaW5nPikgewogICAgICAgIGxvYWQoZXhlY3V0aW9uSWRzKQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0aWxsTmVlZFRvRmV0Y2guaXNOb3RFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBmcm9tRGFvID0gZGFvLmxvYWQoc3RpbGxOZWVkVG9GZXRjaCkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbXBsZXRhYmxlRnV0dXJlLnJ1bkFzeW5jKFJ1bm5hYmxlIHsgc2hhcmVkQ2FjaGUucHV0TWFueShmcm9tRGFvKSB9LCBleGVjdXRvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0aWxsTmVlZFRvRmV0Y2guaXNOb3RFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBmcm9tRGFvID0gZGFvLmxvYWQoc3RpbGxOZWVkVG9GZXRjaCkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtcHR5TGlzdCgpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbXBsZXRhYmxlRnV0dXJlLnJ1bkFzeW5jKFJ1bm5hYmxlIHsgc2hhcmVkQ2FjaGUucHV0TWFueShmcm9tRGFvKSB9LCBleGVjdXRvcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
