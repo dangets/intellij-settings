@@ -31,10 +31,10 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1562881908972">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1562983275825">
         <mark key="'" line="228" column="44" />
-        <mark key="[" line="237" column="124" />
-        <mark key="]" line="237" column="124" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="25" />
         <mark key="." line="237" column="124" />
         <mark key="^" line="237" column="124" />
       </file>
@@ -248,7 +248,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkYXRhLlByb21ldGhldXNFeGVjdXRpb24gZXgKd2hlcmUgMT0xCg==</text>
+        <text encoding="base64">U0VMRUNUIFRPUCgxMCkgKgpGUk9NIGFkbWluUHJvZC5yZWNvbXBpbGUuUmVxdWVzdHMKb3JkZXIgYnkgUmVxdWVzdERhdGUgZGVzYwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
