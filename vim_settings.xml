@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/dev/prometheus/entity-handoff-data/src/main/kotlin/com/ca/entity/handoff/data/position/PositionDao.kt" timestamp="1562875316291">
         <mark key="'" line="248" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" timestamp="1563209629647">
+      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" timestamp="1563214559928">
         <mark key="'" line="964" column="0" />
-        <mark key="[" line="1140" column="0" />
-        <mark key="]" line="1140" column="0" />
+        <mark key="[" line="1358" column="13" />
+        <mark key="]" line="1358" column="13" />
         <mark key="^" line="554" column="18" />
-        <mark key="." line="1140" column="0" />
+        <mark key="." line="1358" column="13" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityExtractor/src/main/java/com/ca/prometheus/entityextractor/job/EntityExtractionExecutionDelegate.java" timestamp="1562774167497">
         <mark key="'" line="149" column="53" />
@@ -79,24 +79,22 @@
       <file name="/Kotlin Class.txt.ft" timestamp="1562010573547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/utils/src/test/java/com/ca/prometheus/utils/json/CurrencySerializationTest.java" timestamp="1562879638836">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/DaoHelper.java" timestamp="1563213760105">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/EntityCleaner/src/main/java/com/ca/prometheus/entitycleaner/job/EntityCleanupManagementDelegate.java" timestamp="1562774042873">
         <mark key="'" line="108" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/SecurityCleanupsDao.java" timestamp="1563214031078">
+        <mark key="'" line="24" column="9" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1562010553530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1562010572427">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/prometheus/entity-handoff-data/src/main/kotlin/com/ca/entity/handoff/data/security/SecurityInfoDao.kt" timestamp="1562869064115">
-        <mark key="[" line="89" column="34" />
-        <mark key="]" line="89" column="34" />
-        <mark key="." line="89" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1562881941574">
         <mark key="[" line="0" column="0" />
@@ -120,11 +118,6 @@
         <mark key="]" line="9" column="22" />
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ec656cb7-0d04-41dc-8fef-67ffd3bc310d/console.sql" timestamp="1562770681014">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1562010574020">
         <mark key="[" line="0" column="0" />
@@ -163,7 +156,8 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" timestamp="1563209152841">
+      <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" timestamp="1563214034571">
+        <mark key="'" line="167" column="0" />
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
@@ -177,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="$USER_HOME$/dev/prometheus/pom.xml" />
-      <jump line="64" column="9" filename="$USER_HOME$/dev/prometheus/pom.xml" />
-      <jump line="73" column="8" filename="$USER_HOME$/dev/prometheus/pom.xml" />
       <jump line="0" column="15" filename="$USER_HOME$/dev/prometheus/RESTUtils/src/main/java/com/ca/prometheus/restutils/security/Permissions.java" />
       <jump line="135" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/DataLoadsMyBatisDao.java" />
       <jump line="280" column="39" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" />
@@ -262,7 +253,6 @@
       <jump line="1127" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="22" column="18" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/JobDao.java" />
       <jump line="157" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" />
-      <jump line="167" column="12" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" />
       <jump line="1288" column="18" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="139" column="25" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityAssignmentsMyBatisDao.java" />
       <jump line="157" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/IdentifierExtractionsMyBatisDao.java" />
@@ -277,60 +267,61 @@
       <jump line="410" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="814" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="964" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/DaoHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/SecurityCleanupsDao.java" />
+      <jump line="24" column="9" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/SecurityCleanupsDao.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0U2VjdXJpdHlBc3NpZ25tZW50SURzQnlOb3JtTW9kZWxWZXJzaW9uXSAje3JlY29uRGF0ZSxqYXZhVHlwZT1HbG9iYWxEYXRlfSwgI3tub3JtTW9kZWxWZXJzaW9ufSB9IikKICAgIEBPcHRpb25zKHN0YXRlbWVudFR5cGUgPSBTdGF0ZW1lbnRUeXBlLkNBTExBQkxFKQogICAgTGlzdDxJbnRlZ2VyPiBnZXRTZWN1cml0eUFzc2lnbm1lbnRJRHNCeU5vcm1Nb2RlbFZlcnNpb24oQFBhcmFtKCJyZWNvbkRhdGUiKSBHbG9iYWxEYXRlIHJlY29uRGF0ZSwgQFBhcmFtKCJub3JtTW9kZWxWZXJzaW9uIikgSW50ZWdlciBub3JtTW9kZWxWZXJzaW9uKTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>normmodelversion</text>
+        <text>manuallycomp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0U2VjdXJpdHlBc3NpZ25tZW50SURzQnlOb3JtTW9kZWxWZXJzaW9uXSAje3JlY29uRGF0ZSxqYXZhVHlwZT1HbG9iYWxEYXRlfSwgI3tub3JtTW9kZWxWZXJzaW9ufSB9IikKICAgIEBPcHRpb25zKHN0YXRlbWVudFR5cGUgPSBTdGF0ZW1lbnRUeXBlLkNBTExBQkxFKQogICAgTGlzdDxJbnRlZ2VyPiBnZXRTZWN1cml0eUFzc2lnbm1lbnRJRHNCeU5vcm1Nb2RlbFZlcnNpb24oQFBhcmFtKCJyZWNvbkRhdGUiKSBHbG9iYWxEYXRlIHJlY29uRGF0ZSwgQFBhcmFtKCJub3JtTW9kZWxWZXJzaW9uIikgSW50ZWdlciBub3JtTW9kZWxWZXJzaW9uKTsKCg==</text>
+        <text encoding="base64">CgkvKioKCSAqIFRoZSBRdWVyeWFibGVKb2JTdGF0dXMgY2xhc3MgYXNzb2NpYXRlcyB0aGUgY29ycmVjdCBjYW5jZWxlZCBzdGF0dXNlcyB3aXRoIHRoZSBqb2Igc3RhdHVzZXMuIEl0IGZpeGVzIHRoZSBkaXNjb25uZWN0CgkgKiB0aGF0IHdhcyBpbnRyb2R1Y2VkIHdoZW4gd2Ugc3BsaXQgdGhlIHN0YXR1c2VzIGludG8gdHdvIERCIGNvbHVtbnMuIEluIHBhcnRpY3VsYXIsIHdoZW4gd2UgZmV0Y2ggcmVjb3JkcyB3ZSBoYXZlCgkgKiAzIHNjZW5hcmlvczogMS4gRmV0Y2ggQWxsIFJlY29yZHM6IGZvciB0aGlzIHdlIHNpbXBseSBwYXNzIG51bGwgZm9yIGJvdGggc3RhdHVzZXMuIDIuIEZldGNoIE9ubHkgQ2FuY2VsZWQgSm9iczoKCSAqIEZvciB0aGlzLCB3ZSBuZWVkIHRvIHBhc3MgYSBsaXN0IG9mIHZhbGlkIGNhbmNlbCBzdGF0dXNlcywgYnV0IHdlIG5lZWQgdG8gcGFzcyBudWxsIGZvciB0aGUgam9iIHN0YXR1cy4gMy4gRmV0Y2gKCSAqIGEgc2luZ2xlIGpvYiBzdGF0dXM6IFRoaXMgZXhjbHVkZXMgY2FuY2VsZWQgcmVjb3JkcyAoQ2FuY2VsZWQ9MCkgYW5kIGluY2x1ZGVzIHRoZSBkZXNpcmVkIGpvYiBzdGF0dXMuCgkgKi8KCXB1YmxpYyBzdGF0aWMgY2xhc3MgUXVlcnlhYmxlSm9iU3RhdHVzCgl7CgkJcHJpdmF0ZSBmaW5hbCBKb2IuU3RhdHVzIHN0YXR1czsKCQlwcml2YXRlIGZpbmFsIEJvb2xlYW4gY2FuY2VsZWQ7CgoJCXByaXZhdGUgUXVlcnlhYmxlSm9iU3RhdHVzKEpvYi5TdGF0dXMgc3RhdHVzKSB7CgkJCWlmIChzdGF0dXMgPT0gbnVsbCkgewoJCQkJdGhpcy5zdGF0dXMgPSBudWxsOwoJCQkJdGhpcy5jYW5jZWxlZCA9IG51bGw7CgkJCX0gZWxzZSBpZiAoc3RhdHVzID09IEpvYi5TdGF0dXMuQ0FOQ0VMRUQpIHsKCQkJCXRoaXMuc3RhdHVzID0gbnVsbDsKCQkJCXRoaXMuY2FuY2VsZWQgPSB0cnVlOyAgLy9UT0RPOiBVc2UgbmV3IGNhbmNlbGVkIGVudW0gKHZhbHVlcygpIG1ldGhvZCkgd2hlbiBpdCBleGlzdHMuCgkJCX0gZWxzZSB7CgkJCQl0aGlzLnN0YXR1cyA9IHN0YXR1czsKCQkJCXRoaXMuY2FuY2VsZWQgPSBmYWxzZTsgIC8vVE9ETzogVXNlIG5ldyBjYW5jZWxlZCBlbnVtIHdoZW4gaXQgZXhpc3RzLgoJCQl9CgkJfQoKCQlwcml2YXRlIHN0YXRpYyBmaW5hbCBRdWVyeWFibGVKb2JTdGF0dXMgTUFUQ0hfQUxMID0gbmV3IFF1ZXJ5YWJsZUpvYlN0YXR1cyhudWxsKTsKCQlwdWJsaWMgc3RhdGljIFF1ZXJ5YWJsZUpvYlN0YXR1cyBtYXRjaEFsbCgpIHsgcmV0dXJuIE1BVENIX0FMTDsgfQoKCQlwdWJsaWMgc3RhdGljIFF1ZXJ5YWJsZUpvYlN0YXR1cyBmb3JKb2JTdGF0dXMoQE5vbm51bGwgSm9iLlN0YXR1cyBzdGF0dXMpIHsKCQkJUHJlY29uZGl0aW9ucy5jaGVja0FyZ3VtZW50KHN0YXR1cyAhPSBudWxsLCAiJ3N0YXR1cycgY2Fubm90IGJlIG51bGwiKTsKCQkJcmV0dXJuIG5ldyBRdWVyeWFibGVKb2JTdGF0dXMoc3RhdHVzKTsKCQl9CgoJCXB1YmxpYyBCb29sZWFuIGdldENhbmNlbGVkKCkgeyByZXR1cm4gY2FuY2VsZWQ7IH0KCQlwdWJsaWMgSm9iLlN0YXR1cyBnZXRTdGF0dXMoKSB7IHJldHVybiBzdGF0dXM7IH0KCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RW50aXR5SGFuZG9mZklEc0J5Tm9ybU1vZGVsVmVyc2lvbl0gI3tyZWNvbkRhdGUsamF2YVR5cGU9R2xvYmFsRGF0ZX0sICN7bm9ybU1vZGVsVmVyc2lvbn0gfSIpCiAgICBAT3B0aW9ucyhzdGF0ZW1lbnRUeXBlID0gU3RhdGVtZW50VHlwZS5DQUxMQUJMRSkKICAgIExpc3Q8SW50ZWdlcj4gZ2V0RW50aXR5SGFuZG9mZklEc0J5Tm9ybU1vZGVsVmVyc2lvbihAUGFyYW0oInJlY29uRGF0ZSIpIEdsb2JhbERhdGUgcmVjb25EYXRlLCBAUGFyYW0oIm5vcm1Nb2RlbFZlcnNpb24iKSBJbnRlZ2VyIG5vcm1Nb2RlbFZlcnNpb24pOwoK</text>
+        <text encoding="base64">CglwdWJsaWMgc3RhdGljIEltbXV0YWJsZVNldDxRdWVyeWFibGVKb2JTdGF0dXM+IHF1ZXJ5YWJsZUpvYlN0YXR1c2VzKENvbGxlY3Rpb248Sm9iLlN0YXR1cz4gc3RhdHVzZXMpIHsKCQlpZiAoc3RhdHVzZXMgPT0gbnVsbCB8fCBzdGF0dXNlcy5pc0VtcHR5KCkpCgkJCXJldHVybiBJbW11dGFibGVTZXQub2YoUXVlcnlhYmxlSm9iU3RhdHVzLm1hdGNoQWxsKCkpOwoJCXJldHVybiBJbW11dGFibGVTZXQuY29weU9mKHN0YXR1c2VzLnN0cmVhbSgpCgkJCQkubWFwKFF1ZXJ5YWJsZUpvYlN0YXR1czo6Zm9ySm9iU3RhdHVzKQoJCQkJLml0ZXJhdG9yKCkpOwoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RW50aXR5Q2xlYW51cElEc0J5Tm9ybU1vZGVsVmVyc2lvbl0gI3tyZWNvbkRhdGUsamF2YVR5cGU9R2xvYmFsRGF0ZX0sICN7bm9ybU1vZGVsVmVyc2lvbn0gfSIpCiAgICBAT3B0aW9ucyhzdGF0ZW1lbnRUeXBlID0gU3RhdGVtZW50VHlwZS5DQUxMQUJMRSkKICAgIExpc3Q8SW50ZWdlcj4gZ2V0RW50aXR5Q2xlYW51cElEc0J5Tm9ybU1vZGVsVmVyc2lvbihAUGFyYW0oInJlY29uRGF0ZSIpIEdsb2JhbERhdGUgcmVjb25EYXRlLCBAUGFyYW0oIm5vcm1Nb2RlbFZlcnNpb24iKSBJbnRlZ2VyIG5vcm1Nb2RlbFZlcnNpb24pOwoK</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0U2VjdXJpdHlBc3NpZ25tZW50SURzQnlOb3JtTW9kZWxWZXJzaW9uXSAje3JlY29uRGF0ZSxqYXZhVHlwZT1HbG9iYWxEYXRlfSwgI3tub3JtTW9kZWxWZXJzaW9ufSB9IikKICAgIEBPcHRpb25zKHN0YXRlbWVudFR5cGUgPSBTdGF0ZW1lbnRUeXBlLkNBTExBQkxFKQogICAgTGlzdDxJbnRlZ2VyPiBnZXRTZWN1cml0eUFzc2lnbm1lbnRJRHNCeU5vcm1Nb2RlbFZlcnNpb24oQFBhcmFtKCJyZWNvbkRhdGUiKSBHbG9iYWxEYXRlIHJlY29uRGF0ZSwgQFBhcmFtKCJub3JtTW9kZWxWZXJzaW9uIikgSW50ZWdlciBub3JtTW9kZWxWZXJzaW9uKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RW50aXR5RXh0cmFjdGlvbklEc0J5Tm9ybU1vZGVsVmVyc2lvbl0gI3tyZWNvbkRhdGUsamF2YVR5cGU9R2xvYmFsRGF0ZX0sICN7bm9ybU1vZGVsVmVyc2lvbn0gfSIpCiAgICBAT3B0aW9ucyhzdGF0ZW1lbnRUeXBlID0gU3RhdGVtZW50VHlwZS5DQUxMQUJMRSkKICAgIExpc3Q8SW50ZWdlcj4gZ2V0RW50aXR5RXh0cmFjdGlvbklEc0J5Tm9ybU1vZGVsVmVyc2lvbihAUGFyYW0oInJlY29uRGF0ZSIpIEdsb2JhbERhdGUgcmVjb25EYXRlLCBAUGFyYW0oIm5vcm1Nb2RlbFZlcnNpb24iKSBJbnRlZ2VyIG5vcm1Nb2RlbFZlcnNpb24pOwoK</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RW50aXR5SGFuZG9mZklEc0J5Tm9ybU1vZGVsVmVyc2lvbl0gI3tyZWNvbkRhdGUsamF2YVR5cGU9R2xvYmFsRGF0ZX0sICN7bm9ybU1vZGVsVmVyc2lvbn0gfSIpCiAgICBAT3B0aW9ucyhzdGF0ZW1lbnRUeXBlID0gU3RhdGVtZW50VHlwZS5DQUxMQUJMRSkKICAgIExpc3Q8SW50ZWdlcj4gZ2V0RW50aXR5SGFuZG9mZklEc0J5Tm9ybU1vZGVsVmVyc2lvbihAUGFyYW0oInJlY29uRGF0ZSIpIEdsb2JhbERhdGUgcmVjb25EYXRlLCBAUGFyYW0oIm5vcm1Nb2RlbFZlcnNpb24iKSBJbnRlZ2VyIG5vcm1Nb2RlbFZlcnNpb24pOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0SWRlbnRpZmllckV4dHJhY3Rpb25JRHNCeU5vcm1Nb2RlbFZlcnNpb25dICN7cmVjb25EYXRlLGphdmFUeXBlPUdsb2JhbERhdGV9LCAje25vcm1Nb2RlbFZlcnNpb259IH0iKQogICAgQE9wdGlvbnMoc3RhdGVtZW50VHlwZSA9IFN0YXRlbWVudFR5cGUuQ0FMTEFCTEUpCiAgICBMaXN0PEludGVnZXI+IGdldElkZW50aWZpZXJFeHRyYWN0aW9uSURzQnlOb3JtTW9kZWxWZXJzaW9uKEBQYXJhbSgicmVjb25EYXRlIikgR2xvYmFsRGF0ZSByZWNvbkRhdGUsIEBQYXJhbSgibm9ybU1vZGVsVmVyc2lvbiIpIEludGVnZXIgbm9ybU1vZGVsVmVyc2lvbik7Cgo=</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RW50aXR5Q2xlYW51cElEc0J5Tm9ybU1vZGVsVmVyc2lvbl0gI3tyZWNvbkRhdGUsamF2YVR5cGU9R2xvYmFsRGF0ZX0sICN7bm9ybU1vZGVsVmVyc2lvbn0gfSIpCiAgICBAT3B0aW9ucyhzdGF0ZW1lbnRUeXBlID0gU3RhdGVtZW50VHlwZS5DQUxMQUJMRSkKICAgIExpc3Q8SW50ZWdlcj4gZ2V0RW50aXR5Q2xlYW51cElEc0J5Tm9ybU1vZGVsVmVyc2lvbihAUGFyYW0oInJlY29uRGF0ZSIpIEdsb2JhbERhdGUgcmVjb25EYXRlLCBAUGFyYW0oIm5vcm1Nb2RlbFZlcnNpb24iKSBJbnRlZ2VyIG5vcm1Nb2RlbFZlcnNpb24pOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RGF0YUxvYWRJRHNCeU5vcm1Nb2RlbFZlcnNpb25dICN7cmVjb25EYXRlLGphdmFUeXBlPUdsb2JhbERhdGV9LCAje25vcm1Nb2RlbFZlcnNpb259IH0iKQogICAgQE9wdGlvbnMoc3RhdGVtZW50VHlwZSA9IFN0YXRlbWVudFR5cGUuQ0FMTEFCTEUpCiAgICBMaXN0PEludGVnZXI+IGdldERhdGFMb2FkSURzQnlOb3JtTW9kZWxWZXJzaW9uKEBQYXJhbSgicmVjb25EYXRlIikgR2xvYmFsRGF0ZSByZWNvbkRhdGUsIEBQYXJhbSgibm9ybU1vZGVsVmVyc2lvbiIpIEludGVnZXIgbm9ybU1vZGVsVmVyc2lvbik7Cgo=</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RW50aXR5RXh0cmFjdGlvbklEc0J5Tm9ybU1vZGVsVmVyc2lvbl0gI3tyZWNvbkRhdGUsamF2YVR5cGU9R2xvYmFsRGF0ZX0sICN7bm9ybU1vZGVsVmVyc2lvbn0gfSIpCiAgICBAT3B0aW9ucyhzdGF0ZW1lbnRUeXBlID0gU3RhdGVtZW50VHlwZS5DQUxMQUJMRSkKICAgIExpc3Q8SW50ZWdlcj4gZ2V0RW50aXR5RXh0cmFjdGlvbklEc0J5Tm9ybU1vZGVsVmVyc2lvbihAUGFyYW0oInJlY29uRGF0ZSIpIEdsb2JhbERhdGUgcmVjb25EYXRlLCBAUGFyYW0oIm5vcm1Nb2RlbFZlcnNpb24iKSBJbnRlZ2VyIG5vcm1Nb2RlbFZlcnNpb24pOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0U2VjdXJpdHlDbGVhbnVwSURzQnlOb3JtTW9kZWxWZXJzaW9uXSAje3JlY29uRGF0ZSxqYXZhVHlwZT1HbG9iYWxEYXRlfSwgI3tub3JtTW9kZWxWZXJzaW9ufSB9IikKICAgIEBPcHRpb25zKHN0YXRlbWVudFR5cGUgPSBTdGF0ZW1lbnRUeXBlLkNBTExBQkxFKQogICAgTGlzdDxJbnRlZ2VyPiBnZXRTZWN1cml0eUNsZWFudXBJRHNCeU5vcm1Nb2RlbFZlcnNpb24oQFBhcmFtKCJyZWNvbkRhdGUiKSBHbG9iYWxEYXRlIHJlY29uRGF0ZSwgQFBhcmFtKCJub3JtTW9kZWxWZXJzaW9uIikgSW50ZWdlciBub3JtTW9kZWxWZXJzaW9uKTsKCg==</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0SWRlbnRpZmllckV4dHJhY3Rpb25JRHNCeU5vcm1Nb2RlbFZlcnNpb25dICN7cmVjb25EYXRlLGphdmFUeXBlPUdsb2JhbERhdGV9LCAje25vcm1Nb2RlbFZlcnNpb259IH0iKQogICAgQE9wdGlvbnMoc3RhdGVtZW50VHlwZSA9IFN0YXRlbWVudFR5cGUuQ0FMTEFCTEUpCiAgICBMaXN0PEludGVnZXI+IGdldElkZW50aWZpZXJFeHRyYWN0aW9uSURzQnlOb3JtTW9kZWxWZXJzaW9uKEBQYXJhbSgicmVjb25EYXRlIikgR2xvYmFsRGF0ZSByZWNvbkRhdGUsIEBQYXJhbSgibm9ybU1vZGVsVmVyc2lvbiIpIEludGVnZXIgbm9ybU1vZGVsVmVyc2lvbik7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIExpc3Q8SW50ZWdlcj4gZ2V0SWRzQnlOb3JtTW9kZWxWZXJzaW9uKEdsb2JhbERhdGUgcmVjb25EYXRlLCBJbnRlZ2VyIG5vcm1Nb2RlbFZlcnNpb24pIHRocm93cyBEYXRhQWNjZXNzRXhjZXB0aW9uCgl7CgkJcmV0dXJuIGRlYWRsb2NrSGFuZGxlci5leGVjdXRlKHRoaXMsICgpIC0+IG1hcHBlci5nZXRTZWN1cml0eUFzc2lnbm1lbnRJRHNCeU5vcm1Nb2RlbFZlcnNpb24ocmVjb25EYXRlLCBub3JtTW9kZWxWZXJzaW9uKSk7Cgl9Cgo=</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0RGF0YUxvYWRJRHNCeU5vcm1Nb2RlbFZlcnNpb25dICN7cmVjb25EYXRlLGphdmFUeXBlPUdsb2JhbERhdGV9LCAje25vcm1Nb2RlbFZlcnNpb259IH0iKQogICAgQE9wdGlvbnMoc3RhdGVtZW50VHlwZSA9IFN0YXRlbWVudFR5cGUuQ0FMTEFCTEUpCiAgICBMaXN0PEludGVnZXI+IGdldERhdGFMb2FkSURzQnlOb3JtTW9kZWxWZXJzaW9uKEBQYXJhbSgicmVjb25EYXRlIikgR2xvYmFsRGF0ZSByZWNvbkRhdGUsIEBQYXJhbSgibm9ybU1vZGVsVmVyc2lvbiIpIEludGVnZXIgbm9ybU1vZGVsVmVyc2lvbik7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInsgY2FsbCBbam9iXS5bR2V0U2VjdXJpdHlDbGVhbnVwSURzQnlOb3JtTW9kZWxWZXJzaW9uXSAje3JlY29uRGF0ZSxqYXZhVHlwZT1HbG9iYWxEYXRlfSwgI3tub3JtTW9kZWxWZXJzaW9ufSB9IikKICAgIEBPcHRpb25zKHN0YXRlbWVudFR5cGUgPSBTdGF0ZW1lbnRUeXBlLkNBTExBQkxFKQogICAgTGlzdDxJbnRlZ2VyPiBnZXRTZWN1cml0eUNsZWFudXBJRHNCeU5vcm1Nb2RlbFZlcnNpb24oQFBhcmFtKCJyZWNvbkRhdGUiKSBHbG9iYWxEYXRlIHJlY29uRGF0ZSwgQFBhcmFtKCJub3JtTW9kZWxWZXJzaW9uIikgSW50ZWdlciBub3JtTW9kZWxWZXJzaW9uKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>normmodelversion</last-search>
+      <last-search>manuallycomp</last-search>
       <last-offset />
-      <last-pattern>normmodelversion</last-pattern>
+      <last-pattern>manuallycomp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVKb2JQcmlvcml0aWVzXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVKb2JQcmlvcml0eVw+</entry>
-        <entry>relaunchjobsallow</entry>
         <entry encoding="base64">XDxnZXRTdGF0c1w+</entry>
         <entry>stats</entry>
         <entry>appendsecurityassign</entry>
@@ -348,6 +339,9 @@
         <entry encoding="base64">XDxnZXRTZWN1cml0eUNsZWFudXBJRHNCeU5vcm1Nb2RlbFZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDxnZXRJZHNCeU5vcm1Nb2RlbFZlcnNpb25cPg==</entry>
         <entry>normmodelversion</entry>
+        <entry>manuall</entry>
+        <entry encoding="base64">XDxtYW51YWxseUNvbXBsZXRlQ2hlY2tMaXN0XD4=</entry>
+        <entry>manuallycomp</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
