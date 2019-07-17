@@ -29,10 +29,10 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/fund/FundServiceScenarioTest.kt" timestamp="1563387906777">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/fund/FundServiceScenarioTest.kt" timestamp="1563392176265">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" timestamp="1563214559928">
         <mark key="'" line="964" column="0" />
@@ -71,6 +71,18 @@
         <mark key="]" line="62" column="57" />
         <mark key="." line="62" column="57" />
         <mark key="^" line="62" column="57" />
+      </file>
+      <file name="$USER_HOME$/dev/junitscratch/pom.xml" timestamp="1563392811344">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/junitscratch/src/main/java/com/dangets/Hello.java" timestamp="1563392639288">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/ExecutionService.kt" timestamp="1562020566608">
         <mark key="'" line="43" column="49" />
@@ -163,10 +175,6 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.12.1/okhttp-3.12.1-sources.jar!/okhttp3/internal/Util.java" timestamp="1563224224042">
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="387" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-activation/src/main/java/com/ca/executionmanager/activation/ActivationService.kt" timestamp="1561992381340">
         <mark key="'" line="275" column="0" />
         <mark key="[" line="287" column="65" />
@@ -174,12 +182,14 @@
         <mark key="." line="288" column="7" />
         <mark key="^" line="288" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/prom-flt-ws/pom.xml" timestamp="1563389371548">
+      <file name="$USER_HOME$/dev/prom-flt-ws/pom.xml" timestamp="1563392134186">
         <mark key="'" line="22" column="37" />
-        <mark key="[" line="162" column="23" />
-        <mark key="]" line="162" column="24" />
-        <mark key="." line="162" column="24" />
-        <mark key="^" line="162" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/junitscratch/src/test/java/com/dangets/HelloTest.java" timestamp="1563392739768">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
       </file>
       <file name="$USER_HOME$/dev/execution-manager/execution-manager-execution/src/main/java/com/ca/executionmanager/execution/sharedcache/SharedExecutionCacheRedis.kt" timestamp="1562017075036">
         <mark key="'" line="38" column="16" />
@@ -212,7 +222,7 @@
         <mark key="." line="22" column="29" />
         <mark key="^" line="64" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1563391699915">
+      <file name="/fragment.java" timestamp="1563392703584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/QuotePreservingCookieJar.java" timestamp="1563224308255">
@@ -326,56 +336,55 @@
       <jump line="22" column="37" filename="$USER_HOME$/dev/prom-flt-ws/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>source</text>
       </register>
       <register name="-" type="4">
         <text>source</text>
       </register>
       <register name="/" type="4">
-        <text>java.version</text>
+        <text>blah</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgb3JnLmp1bml0Lmp1cGl0ZXIuYXBpLlRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0Lmp1cGl0ZXI8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0LWp1cGl0ZXItZW5naW5lPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj41LjUuMDwvdmVyc2lvbj4KCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0LnZpbnRhZ2U8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0LXZpbnRhZ2UtZW5naW5lPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj41LjUuMDwvdmVyc2lvbj4KCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0LnBsYXRmb3JtPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qdW5pdC1wbGF0Zm9ybS1sYXVuY2hlcjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS41LjA8L3ZlcnNpb24+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qdW5pdDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkZXAK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkFzc2VydGlvbnMuYXNzZXJ0VGhhdAo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qdW5pdDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbEZ1bmREYXRhKS5pc0VxdWFsVG8oZXhwZWN0ZWRGdW5kRGF0YSkK</text>
+        <text encoding="base64">CQlkZXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>java.version</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern>java.version</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYW51YWxseUNvbXBsZXRlQ2hlY2tMaXN0XD4=</entry>
         <entry>manuallycomp</entry>
         <entry encoding="base64">XDxnZXRFeHRyYWN0aW9uQ3VzdG9tRGF0YUZvckVudGl0eUNsZWFudXBcPg==</entry>
         <entry encoding="base64">XDxwYWlyRW5kXD4=</entry>
@@ -395,6 +404,7 @@
         <entry>junit</entry>
         <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
         <entry>java.version</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
