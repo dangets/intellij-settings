@@ -72,11 +72,12 @@
         <mark key="." line="62" column="57" />
         <mark key="^" line="62" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/junitscratch/pom.xml" timestamp="1563393303998">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="62" column="21" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/dev/junitscratch/pom.xml" timestamp="1563393596638">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/dev/junitscratch/src/main/java/com/dangets/Hello.java" timestamp="1563392639288">
         <mark key="[" line="3" column="11" />
@@ -240,10 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="9" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
-      <jump line="455" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
-      <jump line="874" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
-      <jump line="1039" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="123" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" />
       <jump line="158" column="16" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" />
       <jump line="94" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityAssignmentsMyBatisDao.java" />
@@ -340,6 +337,10 @@
       <jump line="3" column="39" filename="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/fund/FundServiceScenarioTest.kt" />
       <jump line="21" column="26" filename="$USER_HOME$/dev/prom-flt-ws/pom.xml" />
       <jump line="22" column="37" filename="$USER_HOME$/dev/prom-flt-ws/pom.xml" />
+      <jump line="59" column="12" filename="$USER_HOME$/dev/junitscratch/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/junitscratch/pom.xml" />
+      <jump line="11" column="32" filename="$USER_HOME$/dev/junitscratch/pom.xml" />
+      <jump line="12" column="31" filename="$USER_HOME$/dev/junitscratch/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -349,7 +350,7 @@
         <text encoding="base64">aW50ZXJuYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>blah</text>
+        <text>12</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -383,15 +384,14 @@
       </register>
     </registers>
     <search>
-      <last-search>blah</last-search>
+      <last-search>12</last-search>
       <last-offset />
-      <last-pattern>blah</last-pattern>
+      <last-pattern>12</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>manuallycomp</entry>
         <entry encoding="base64">XDxnZXRFeHRyYWN0aW9uQ3VzdG9tRGF0YUZvckVudGl0eUNsZWFudXBcPg==</entry>
         <entry encoding="base64">XDxwYWlyRW5kXD4=</entry>
         <entry encoding="base64">XDxkZWNvZGVIZWFkZXJBc0phdmFOZXRDb29raWVzXD4=</entry>
@@ -411,6 +411,7 @@
         <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
         <entry>java.version</entry>
         <entry>blah</entry>
+        <entry>12</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
