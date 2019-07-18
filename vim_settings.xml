@@ -28,6 +28,12 @@
         <mark key="^" line="70" column="35" />
         <mark key="." line="942" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/prom-flt-ws-scenario-tests/src/test/java/com/ca/prom/flt/scenario/fund.feature" timestamp="1563480415350">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="42" />
+        <mark key="^" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/fund/FundServiceTest.kt" timestamp="1563376969289">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="37" column="24" />
@@ -373,11 +379,11 @@
       <jump line="30" column="3" filename="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/TestModule.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKiogZXhwb3NlIFRlc3ROb3RpZmljYXRpb25TZXJ2aWNlIGZvciBpbnNwZWN0aW9uIGludG8gdXNhZ2UgKi8KICAgIGZ1biB0ZXN0Tm90aWZpY2F0aW9uU2VydmljZSgpOiBUZXN0Tm90aWZpY2F0aW9uU2VydmljZQo=</text>
+      <register name="&quot;" type="4">
+        <text>clientId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>clientId</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
