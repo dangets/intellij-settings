@@ -9,6 +9,13 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/cerberus/object-model/src/main/java/com/ca/cerberus/objectmodel/SecurityOverride.java" timestamp="1563808255752">
+        <mark key="'" line="44" column="23" />
+        <mark key="[" line="173" column="87" />
+        <mark key="]" line="173" column="113" />
+        <mark key="^" line="173" column="113" />
+        <mark key="." line="173" column="113" />
+      </file>
       <file name="$USER_HOME$/dev/prometheus/pom.xml" timestamp="1563201508919">
         <mark key="'" line="73" column="8" />
         <mark key="[" line="942" column="0" />
@@ -29,6 +36,13 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" timestamp="1563808523481">
+        <mark key="'" line="254" column="22" />
+        <mark key="[" line="182" column="57" />
+        <mark key="]" line="182" column="62" />
+        <mark key="." line="182" column="62" />
+        <mark key="^" line="182" column="62" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" timestamp="1563214559928">
         <mark key="'" line="964" column="0" />
@@ -121,6 +135,12 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus/data-access/src/main/java/com/ca/cerberus/dataaccess/mybatis/SecurityOverrideMyBatisDao.java" timestamp="1563808295008">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="44" column="46" />
+        <mark key="." line="44" column="46" />
+        <mark key="^" line="44" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1563208283240">
         <mark key="[" line="222" column="16" />
@@ -245,6 +265,19 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/utils/SecurityOverrideUtils.java" timestamp="1563808607264">
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
+        <mark key="^" line="62" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus/pom.xml" timestamp="1563817393453">
+        <mark key="'" line="52" column="19" />
+        <mark key="[" line="96" column="28" />
+        <mark key="]" line="96" column="29" />
+        <mark key="." line="96" column="29" />
+        <mark key="^" line="36" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/pom.xml" timestamp="1563559576309">
         <mark key="'" line="252" column="49" />
       </file>
@@ -291,19 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityCleanupsMyBatisDao.java" />
-      <jump line="1288" column="18" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
-      <jump line="139" column="25" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/SecurityAssignmentsMyBatisDao.java" />
-      <jump line="157" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/IdentifierExtractionsMyBatisDao.java" />
-      <jump line="166" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/EntityHandoffsMyBatisDao.java" />
-      <jump line="178" column="83" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/EntityHandoffsMyBatisDao.java" />
-      <jump line="190" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/EntityExtractionsMyBatisDao.java" />
-      <jump line="141" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/EntityCleanupsMyBatisDao.java" />
-      <jump line="154" column="4" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/DataLoadsMyBatisDao.java" />
-      <jump line="1286" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
-      <jump line="274" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
-      <jump line="410" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="814" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="964" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/DaoHelper.java" />
@@ -391,62 +411,74 @@
       <jump line="17" column="21" filename="$USER_HOME$/dev/prom-flt-ws/integration-test/docker-compose.yml" />
       <jump line="32" column="21" filename="$USER_HOME$/dev/prom-flt-ws/integration-test/docker-compose.yml" />
       <jump line="45" column="21" filename="$USER_HOME$/dev/prom-flt-ws/integration-test/docker-compose.yml" />
+      <jump line="13" column="16" filename="$USER_HOME$/dev/cerberus/object-model/src/main/java/com/ca/cerberus/objectmodel/SecurityOverride.java" />
+      <jump line="67" column="13" filename="$USER_HOME$/dev/cerberus/object-model/src/main/java/com/ca/cerberus/objectmodel/SecurityOverride.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/cerberus/object-model/src/main/java/com/ca/cerberus/objectmodel/SecurityOverride.java" />
+      <jump line="27" column="16" filename="$USER_HOME$/dev/cerberus/object-model/src/main/java/com/ca/cerberus/objectmodel/SecurityOverride.java" />
+      <jump line="32" column="178" filename="$USER_HOME$/dev/cerberus/object-model/src/main/java/com/ca/cerberus/objectmodel/SecurityOverride.java" />
+      <jump line="43" column="23" filename="$USER_HOME$/dev/cerberus/object-model/src/main/java/com/ca/cerberus/objectmodel/SecurityOverride.java" />
+      <jump line="198" column="8" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="246" column="17" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="177" column="8" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="104" column="8" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="182" column="22" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="254" column="22" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="52" column="19" filename="$USER_HOME$/dev/cerberus/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGRlZmF1bHROZXR3b3JrCgpuZXR3b3JrczoKICBkZWZhdWx0TmV0d29yazoK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>mountebank</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXREZmx0XD4=</text>
+        <text>ca-common</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGRlZmF1bHROZXR3b3JrCgpuZXR3b3JrczoKICBkZWZhdWx0TmV0d29yazoK</text>
+        <text encoding="base64">CQkJCQkJLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGRlZmF1bHROZXR3b3JrCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGRlZmF1bHROZXR3b3JrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGRlZmF1bHROZXR3b3JrCg==</text>
+      <register name="4" type="8">
+        <text>securityOverride.
+securityOverride.
+securityOverride.
+securityOverride.
+securityOverride.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICBkZWZhdWx0TmV0d29yazoKICAgICAgICBhbGlhc2VzOgogICAgICAgICAgLSBpc3N1ZS1zdG9yZS13cwo=</text>
+        <text encoding="base64">CQkvLyBUT0RPOiB0aGVzZSByZXF1aXJlbWVudHMgcmVhbGx5IHNob3VsZCBiZWxvbmcgaW4gdGhlIFNlY3VyaXR5T3ZlcnJpZGUgY2xhc3MgaXRzZWxmIC4uLgoJCS8vICB0aGV5IGFyZSBpbXBsaWNpdGx5IGVuZm9yY2VkIHdoZW4gd2UgY2FsbCBjZXJiZXJ1cy5BZGRTZWN1cml0eU92ZXJyaWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsaWFzCg==</text>
+        <text encoding="base64">CQkvLyBUT0RPOiB0aGVzZSByZXF1aXJlbWVudHMgcmVhbGx5IHNob3VsZCBiZWxvbmcgaW4gdGhlIFNlY3VyaXR5T3ZlcnJpZGUgY2xhc3MgaXRzZWxmIC4uLgoJCS8vICB0aGV5IGFyZSBpbXBsaWNpdGx5IGVuZm9yY2VkIHdoZW4gd2UgY2FsbCBjZXJiZXJ1cy5BZGRTZWN1cml0eU92ZXJyaWRlCgkJdmFsaWRhdGVOdWxsT3JNYXhMZW5ndGgoc2VjdXJpdHlPdmVycmlkZS5nZXRBbHRlcm5hdGVJRCgpLCAyNSwgImFsdGVybmF0ZUlkIik7CgkJdmFsaWRhdGVOdWxsT3JNYXhMZW5ndGgoc2VjdXJpdHlPdmVycmlkZS5nZXRDdXNpcCgpLCA5LCAiY3VzaXAiKTsKCQl2YWxpZGF0ZU51bGxPck1heExlbmd0aChzZWN1cml0eU92ZXJyaWRlLmdldElzaW4oKSwgMTIsICJpc2luIik7CgkJdmFsaWRhdGVOdWxsT3JNYXhMZW5ndGgoc2VjdXJpdHlPdmVycmlkZS5nZXRTZWRvbCgpLCA3LCAic2Vkb2wiKTsKCQl2YWxpZGF0ZU51bGxPck1heExlbmd0aChzZWN1cml0eU92ZXJyaWRlLmdldFRpY2tlcigpLCAxMCwgInRpY2tlciIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFuZCBtYXRjaCByZXNwb25zZSBjb250YWlucyB7ImJhdGNoSWQiOiAjKGluc2VydGVkQmF0Y2hJZCksICJjbGllbnRJZCI6ICMoY2xpZW50SWQpLCAiYXNPZkRhdGUiOiAjKGFzT2ZEYXRlKX0K</text>
+        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyB2b2lkIHZhbGlkYXRlTnVsbE9yTWF4TGVuZ3RoKFN0cmluZyB2YWx1ZSwgaW50IG1heExlbiwgU3RyaW5nIG5hbWUpIHsKCQlpZiAodmFsdWUgPT0gbnVsbCB8fCB2YWx1ZS5sZW5ndGgoKSA8PSBtYXhMZW4pCgkJCXJldHVybjsKCQl0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJpbnZhbGlkIGFyZ3VtZW50IGZvciAnIiArIG5hbWUgKyAiJyAtIG11c3QgYmUgbnVsbCBvciBoYXZlIG1heCBsZW5ndGggb2YgIiArIG1heExlbiArICI6ICciICsgdmFsdWUgKyAiJyIpOwoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFuZCBtYXRjaCByZXNwb25zZS5jbGllbnRJZCA9PSBjbGllbnRJZAogICAgQW5kIG1hdGNoIHJlc3BvbnNlLmFzT2ZEYXRlID09IGFzT2ZEYXRlCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFuZCBtYXRjaCByZXNwb25zZS5iYXRjaElkID09IGluc2VydGVkQmF0Y2hJZAo=</text>
+        <text encoding="base64">CQlQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoc2VjdXJpdHlPdmVycmlkZS5nZXRRdWFsaXR5KCkgIT0gbnVsbCwgIm92ZXJyaWRlIHF1YWxpdHkgY2Fubm90IGJlIG51bGwiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXREZmx0XD4=</last-search>
+      <last-search>ca-common</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXREZmx0XD4=</last-pattern>
+      <last-pattern>ca-common</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxpbWl0ZXJPZmZzZXRcPg==</entry>
-        <entry encoding="base64">XDxsb29rdXBGdW5kRGF0YUJ5QmF0Y2hJZHNcPg==</entry>
-        <entry encoding="base64">XDxiYXRjaFw+</entry>
-        <entry encoding="base64">XDxkYW9cPg==</entry>
-        <entry encoding="base64">XDxtZW1iZXJzSW5GdW5kXD4=</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxhc3NlcnRFcXVhbHNcPg==</entry>
         <entry encoding="base64">XDxpZFRvQmF0Y2hJZGVudGlmaWVyXD4=</entry>
@@ -456,12 +488,17 @@
         <entry encoding="base64">XDxNb2R1bGVcPg==</entry>
         <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
         <entry>java.version</entry>
-        <entry>blah</entry>
         <entry>12</entry>
         <entry>junit</entry>
         <entry>caffeine</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxuZXREZmx0XD4=</entry>
+        <entry encoding="base64">XDxzZWN1cml0eUlEXD4=</entry>
+        <entry>quality</entry>
+        <entry encoding="base64">XDxjaGVja1VzZXJJZFw+</entry>
+        <entry encoding="base64">XDxCYWRSZXF1ZXN0RXhjZXB0aW9uXD4=</entry>
+        <entry>blah</entry>
+        <entry>ca-common</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
