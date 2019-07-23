@@ -37,12 +37,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" timestamp="1563808523481">
-        <mark key="'" line="254" column="22" />
-        <mark key="[" line="182" column="57" />
-        <mark key="]" line="182" column="62" />
-        <mark key="." line="182" column="62" />
-        <mark key="^" line="182" column="62" />
+      <file name="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" timestamp="1563834645563">
+        <mark key="'" line="106" column="8" />
+        <mark key="[" line="203" column="87" />
+        <mark key="]" line="203" column="94" />
+        <mark key="." line="203" column="94" />
+        <mark key="^" line="203" column="94" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/JobMapper.java" timestamp="1563214559928">
         <mark key="'" line="964" column="0" />
@@ -132,6 +132,11 @@
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/cerberus/data-access/pom.xml" timestamp="1563833850677">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e69b8b9-e5e5-4bd1-9422-93bcea667cfb/console.sql" timestamp="1563208283240">
         <mark key="[" line="222" column="16" />
         <mark key="]" line="222" column="38" />
@@ -160,6 +165,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/cerberus/data-access/src/main/java/com/ca/cerberus/dataaccess/mybatis/SecurityOverrideMapper.java" timestamp="1563834311524">
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="4" />
+        <mark key="." line="66" column="4" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/fund/ScenarioTestComponent.kt" timestamp="1563479673686">
         <mark key="[" line="12" column="0" />
@@ -275,12 +285,12 @@
         <mark key="." line="62" column="35" />
         <mark key="^" line="62" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/cerberus/pom.xml" timestamp="1563817455898">
+      <file name="$USER_HOME$/dev/cerberus/pom.xml" timestamp="1563834039715">
         <mark key="'" line="75" column="24" />
-        <mark key="[" line="96" column="28" />
-        <mark key="]" line="96" column="29" />
-        <mark key="." line="96" column="29" />
-        <mark key="^" line="36" column="29" />
+        <mark key="[" line="114" column="27" />
+        <mark key="]" line="114" column="29" />
+        <mark key="." line="114" column="29" />
+        <mark key="^" line="114" column="29" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/pom.xml" timestamp="1563828955655">
         <mark key="'" line="252" column="49" />
@@ -335,10 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="29" filename="$USER_HOME$/dev/prometheus/GWTUtils/src/main/java/com/ca/prometheus/gwtutils/client/gui/autorefresh/AutoRefresh.java" />
-      <jump line="32" column="6" filename="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/Hello.kt" />
-      <jump line="31" column="36" filename="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/QuotePreservingCookieJar.java" />
-      <jump line="101" column="58" filename="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/QuotePreservingCookieJar.java" />
       <jump line="107" column="60" filename="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/QuotePreservingCookieJar.java" />
       <jump line="99" column="79" filename="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/QuotePreservingCookieJar.java" />
       <jump line="97" column="25" filename="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/QuotePreservingCookieJar.java" />
@@ -435,54 +441,57 @@
       <jump line="82" column="12" filename="$USER_HOME$/dev/config1/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/config1/config1-feature-flags-ws/pom.xml" />
       <jump line="20" column="34" filename="$USER_HOME$/dev/config1/config1-feature-flags-ws/pom.xml" />
+      <jump line="105" column="8" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="178" column="8" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
+      <jump line="106" column="8" filename="$USER_HOME$/dev/cerberus/cerberus-ws/src/main/java/com/ca/cerberus/ws/resource/security/SecurityOverrideResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>.8
-.8</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>okhttp</text>
+        <text encoding="base64">XDxjaGVja1VzZXJJZFw+</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jb20uY2xlYXJ3YXRlcmFuYWx5dGljczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPmZlYXR1cmUtZmxhZ3MtY2xpZW50PC9hcnRpZmFjdElkPgoJCQkJPHZlcnNpb24+MS4yNDwvdmVyc2lvbj4KCQkJPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmNsZWFyd2F0ZXJhbmFseXRpY3M8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmZlYXR1cmUtZmxhZ3MtY2xpZW50PC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="3" type="8">
         <text>.8
 .8</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQk8Y2xlYXJ3YXRlci5zY20uYnJhbmNoPnRydW5rPC9jbGVhcndhdGVyLnNjbS5icmFuY2g+Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQk8ZGVwZW5kZW5jeT4KCQkJCQkJPGdyb3VwSWQ+b3JnLmp1bml0Lmp1cGl0ZXI8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPmp1bml0LWp1cGl0ZXItZW5naW5lPC9hcnRpZmFjdElkPgoJCQkJCQk8dmVyc2lvbj4ke2p1bml0NS52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQk8c2xmNGoudmVyc2lvbj4xLjcuMjU8L3NsZjRqLnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4ke3NsZjRqLnZlcnNpb259PC92ZXJzaW9uPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQk8c2xmNGoudmVyc2lvbj4xLjcuMjU8L3NsZjRqLnZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4ke3NsZjRqLnZlcnNpb259PC92ZXJzaW9uPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4ke3NsZjRqLnZlcnNpb259PC92ZXJzaW9uPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTx2ZXJzaW9uPjIuMjEuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4ke3NsZjRqLnZlcnNpb259PC92ZXJzaW9uPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>okhttp</last-search>
+      <last-search encoding="base64">XDxjaGVja1VzZXJJZFw+</last-search>
       <last-offset />
-      <last-pattern>okhttp</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja1VzZXJJZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -501,13 +510,13 @@
         <entry encoding="base64">XDxuZXREZmx0XD4=</entry>
         <entry encoding="base64">XDxzZWN1cml0eUlEXD4=</entry>
         <entry>quality</entry>
-        <entry encoding="base64">XDxjaGVja1VzZXJJZFw+</entry>
         <entry encoding="base64">XDxCYWRSZXF1ZXN0RXhjZXB0aW9uXD4=</entry>
         <entry>blah</entry>
         <entry>ca-common</entry>
         <entry>guava</entry>
         <entry encoding="base64">XDxqYXZhVmVyc2lvblw+</entry>
         <entry>okhttp</entry>
+        <entry encoding="base64">XDxjaGVja1VzZXJJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
