@@ -171,6 +171,12 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/prometheus/security-information-dataaccess-api/src/main/kotlin/com/ca/security/information/dataaccess/api/transaction/PrometheusTransactionService.kt" timestamp="1563983253724">
+        <mark key="[" line="43" column="118" />
+        <mark key="]" line="43" column="119" />
+        <mark key="^" line="43" column="119" />
+        <mark key="." line="43" column="119" />
+      </file>
       <file name="$USER_HOME$/dev/prom-flt-ws-scenario-tests/src/test/java/com/ca/prom/flt/scenario/NotificationTest.java" timestamp="1563571933205">
         <mark key="[" line="23" column="6" />
       </file>
@@ -393,7 +399,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxzZWN1cml0eUlkXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
