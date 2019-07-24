@@ -164,8 +164,12 @@
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/DBPrometheusTransaction.java" timestamp="1563910214462">
         <mark key="'" line="13" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1563991535409">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1563993479079">
         <mark key="'" line="122" column="0" />
+        <mark key="[" line="182" column="14" />
+        <mark key="]" line="187" column="18" />
+        <mark key="^" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SingleColumnValues.groovy" timestamp="1563914175088">
         <mark key="[" line="40" column="0" />
