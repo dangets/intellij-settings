@@ -158,17 +158,14 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="/a.sql" timestamp="1563850329908">
+      <file name="/a.sql" timestamp="1563991563925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/prometheus/dataaccess/src/main/java/com/ca/prometheus/dataaccess/mybatis/entity/DBPrometheusTransaction.java" timestamp="1563910214462">
         <mark key="'" line="13" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1563987039198">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3bd5672-60f8-4b16-ab85-ea815b53834c/console.sql" timestamp="1563991535409">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SingleColumnValues.groovy" timestamp="1563914175088">
         <mark key="[" line="40" column="0" />
@@ -200,7 +197,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563850329925">
+      <file name="/Dummy.txt" timestamp="1563991563936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/config1/pom.xml" timestamp="1563832288246">
