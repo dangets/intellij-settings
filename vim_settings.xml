@@ -204,6 +204,11 @@
       <file name="/Dummy.txt" timestamp="1563991563936">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/flt-morningstar-ondemand-client/src/main/java/com/clearwateranalytics/Hello.kt" timestamp="1564003059259">
+        <mark key="[" line="127" column="4" />
+        <mark key="]" line="127" column="4" />
+        <mark key="." line="127" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/config1/pom.xml" timestamp="1563832288246">
         <mark key="[" line="77" column="29" />
         <mark key="]" line="77" column="29" />
@@ -372,11 +377,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/dev/prometheus/security-information-dataaccess-api/src/main/kotlin/com/ca/security/information/dataaccess/api/PrometheusSecurityInfoService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICB2YWwgTE9HID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUHJvbWV0aGV1c1NlY3VyaXR5SW5mb1NlcnZpY2U6OmNsYXNzLmphdmEpISEKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERUZBVUxUX0RFU0NSSVBUSU9OXD4=</text>
