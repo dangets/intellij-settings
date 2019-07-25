@@ -157,11 +157,11 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/CommonTestHelpers.java" timestamp="1564085841944">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-        <mark key="^" line="8" column="9" />
+      <file name="$USER_HOME$/dev/cerberus-regression-tester/src/test/java/com/ca/dangets/cerberus/regressiontester/CommonTestHelpers.java" timestamp="1564092146563">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/dev/prom-flt-ws/src/test/kotlin/com/ca/prom/flt/ws/TestComponent.kt" timestamp="1563479677859">
         <mark key="[" line="14" column="0" />
@@ -365,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>app1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>app1</text>
       </register>
       <register name="/" type="4">
         <text>jersey-bean</text>
