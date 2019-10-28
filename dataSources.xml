@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="CustodyData@boi-mssql-db4" uuid="c175ea6f-63ad-474d-89cd-3add48f7929e">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://boi-mssql-db4;database=CustodyData;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
+  </component>
+</application>
