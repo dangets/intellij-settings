@@ -12,5 +12,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://BOI-RECONDB;database=perseus;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="CustodyData@dev-cust-db" uuid="0e50294e-4abb-4834-900d-5185ad5fc97b">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dev-cust-db;database=CustodyData;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
   </component>
 </application>
