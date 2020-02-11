@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581445969295" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
           <value>
             <ActionSummary>
@@ -18,10 +26,26 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581445964737" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
               <option name="last" value="1581445562367" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581445966168" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
