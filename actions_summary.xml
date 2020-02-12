@@ -213,8 +213,8 @@
         <entry key="NextTemplateVariable">
           <value>
             <ActionSummary>
-              <option name="last" value="1581483737960" />
-              <option name="times" value="7" />
+              <option name="last" value="1581522317030" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -237,8 +237,8 @@
         <entry key="RenameElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1581483736367" />
-              <option name="times" value="10" />
+              <option name="last" value="1581522313207" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581486242873" />
-              <option name="times" value="2458" />
+              <option name="last" value="1581522399523" />
+              <option name="times" value="2461" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +381,8 @@
         <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581486198697" />
-              <option name="times" value="328" />
+              <option name="last" value="1581522401518" />
+              <option name="times" value="331" />
             </ActionSummary>
           </value>
         </entry>
