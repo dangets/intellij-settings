@@ -42,10 +42,50 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Console.Jdbc.Execute">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581631028611" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Console.Jdbc.Terminate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581631033328" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ContextHelp">
           <value>
             <ActionSummary>
               <option name="last" value="1581484780566" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="DatabaseView.CopyAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581630755610" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="DatabaseView.PropertiesAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581631036664" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditSource">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581630811774" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -306,6 +346,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581630722988" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
           <value>
             <ActionSummary>
@@ -317,8 +365,8 @@
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581522399523" />
-              <option name="times" value="2461" />
+              <option name="last" value="1581630834790" />
+              <option name="times" value="2464" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +397,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581445562367" />
-              <option name="times" value="1" />
+              <option name="last" value="1581630698420" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
