@@ -45,8 +45,8 @@
         <entry key="CloseEditor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581978129480" />
-              <option name="times" value="41" />
+              <option name="last" value="1581980990308" />
+              <option name="times" value="43" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581979404441" />
-              <option name="times" value="870" />
+              <option name="last" value="1581981060979" />
+              <option name="times" value="872" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581979983079" />
-              <option name="times" value="121" />
+              <option name="last" value="1581981090529" />
+              <option name="times" value="126" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1581979171367" />
-              <option name="times" value="293" />
+              <option name="last" value="1581981046908" />
+              <option name="times" value="296" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581977992719" />
-              <option name="times" value="16" />
+              <option name="last" value="1581981009442" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,8 @@
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581979981748" />
-              <option name="times" value="5002" />
+              <option name="last" value="1581981057107" />
+              <option name="times" value="5009" />
             </ActionSummary>
           </value>
         </entry>
@@ -637,8 +637,8 @@
         <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581979176376" />
-              <option name="times" value="671" />
+              <option name="last" value="1581981002595" />
+              <option name="times" value="672" />
             </ActionSummary>
           </value>
         </entry>
