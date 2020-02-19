@@ -581,8 +581,8 @@
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582143226102" />
-              <option name="times" value="6931" />
+              <option name="last" value="1582143992717" />
+              <option name="times" value="6933" />
             </ActionSummary>
           </value>
         </entry>
@@ -629,8 +629,8 @@
         <entry key="com.intellij.openapi.vcs.ex.LocalLineStatusTracker$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582143043530" />
-              <option name="times" value="2" />
+              <option name="last" value="1582143951100" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582143251663" />
-              <option name="times" value="913" />
+              <option name="last" value="1582143993453" />
+              <option name="times" value="914" />
             </ActionSummary>
           </value>
         </entry>
