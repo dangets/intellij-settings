@@ -117,8 +117,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581978501261" />
-              <option name="times" value="75" />
+              <option name="last" value="1582133871256" />
+              <option name="times" value="76" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581978493632" />
-              <option name="times" value="10" />
+              <option name="last" value="1582133763569" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582038674955" />
-              <option name="times" value="5029" />
+              <option name="last" value="1582134270681" />
+              <option name="times" value="5915" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +661,8 @@
         <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582038945981" />
-              <option name="times" value="682" />
+              <option name="last" value="1582134271288" />
+              <option name="times" value="788" />
             </ActionSummary>
           </value>
         </entry>
