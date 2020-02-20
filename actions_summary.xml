@@ -338,6 +338,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="InspectCode">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582239720103" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="InvalidateCaches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582239756117" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="MakeModule">
           <value>
             <ActionSummary>
@@ -359,6 +375,14 @@
             <ActionSummary>
               <option name="last" value="1582227673570" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Maven.ReimportProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582239690867" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -530,6 +554,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Synchronize">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582239638533" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
@@ -621,8 +653,8 @@
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582239379140" />
-              <option name="times" value="9376" />
+              <option name="last" value="1582239791167" />
+              <option name="times" value="9379" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +693,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1582128642745" />
-              <option name="times" value="6" />
+              <option name="last" value="1582239860261" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
