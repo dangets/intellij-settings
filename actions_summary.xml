@@ -45,8 +45,8 @@
         <entry key="CloseEditor">
           <value>
             <ActionSummary>
-              <option name="last" value="1582228445367" />
-              <option name="times" value="72" />
+              <option name="last" value="1582228561906" />
+              <option name="times" value="73" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="Compile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582227713423" />
-              <option name="times" value="8" />
+              <option name="last" value="1582228630832" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,16 +117,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582218810833" />
-              <option name="times" value="86" />
+              <option name="last" value="1582228746372" />
+              <option name="times" value="90" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1582228469070" />
-              <option name="times" value="1379" />
+              <option name="last" value="1582228833894" />
+              <option name="times" value="1396" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1582228334774" />
-              <option name="times" value="512" />
+              <option name="last" value="1582228827671" />
+              <option name="times" value="520" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +301,8 @@
         <entry key="GotoNextError">
           <value>
             <ActionSummary>
-              <option name="last" value="1582227649829" />
-              <option name="times" value="50" />
+              <option name="last" value="1582228560126" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="NewClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582227815624" />
-              <option name="times" value="27" />
+              <option name="last" value="1582228735228" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +493,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1582221285684" />
-              <option name="times" value="127" />
+              <option name="last" value="1582228763120" />
+              <option name="times" value="128" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582228500955" />
-              <option name="times" value="9047" />
+              <option name="last" value="1582228834076" />
+              <option name="times" value="9096" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +717,8 @@
         <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582228501830" />
-              <option name="times" value="1173" />
+              <option name="last" value="1582228835789" />
+              <option name="times" value="1186" />
             </ActionSummary>
           </value>
         </entry>
