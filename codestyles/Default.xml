@@ -25,9 +25,6 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
   </JetCodeStyleSettings>
-  <ScalaCodeStyleSettings>
-    <option name="MULTILINE_STRING_SUPPORT" value="-1" />
-  </ScalaCodeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
