@@ -30,5 +30,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://prod-reportdb;database=hermes;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="indexdata@test-recondb" uuid="5d78a061-4999-4835-bf92-3ff8b606b36f">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://test-recondb;database=indexdata;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
   </component>
 </application>
