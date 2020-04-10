@@ -24,12 +24,6 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://dev-custqa-db1;database=CustodyData;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="hermes@prod-reportdb" uuid="1dee1405-f369-4b59-9554-6f3626af9205">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://prod-reportdb;database=hermes;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="indexdata@test-recondb" uuid="5d78a061-4999-4835-bf92-3ff8b606b36f">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
