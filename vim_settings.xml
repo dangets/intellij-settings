@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>(</entry>
         <entry encoding="base64">XDxERUZBVUxUX0JFTkNITUFSS1w+</entry>
         <entry>getsimplebenchmarks</entry>
         <entry encoding="base64">XDxiZW5jaG1hcmtzQnlJZFw+</entry>
@@ -23,8 +22,9 @@
         <entry encoding="base64">XDxkYXRhU291cmNlXD4=</entry>
         <entry>user-service</entry>
         <entry>laa</entry>
-        <entry>blah</entry>
         <entry>assetclasstype</entry>
+        <entry encoding="base64">XDxkYlw+</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -141,17 +141,19 @@
       <file name="/a.sql" timestamp="1586383469730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/pom.xml" timestamp="1586403394009">
+      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/pom.xml" timestamp="1586550940280">
         <mark key="'" line="61" column="3" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="75" column="23" />
-        <mark key="." line="75" column="23" />
-        <mark key="^" line="75" column="23" />
+        <mark key="[" line="85" column="24" />
+        <mark key="]" line="85" column="27" />
+        <mark key="." line="85" column="26" />
+        <mark key="^" line="85" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" timestamp="1586405981496">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" timestamp="1586551213562">
+        <mark key="'" line="8" column="34" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" timestamp="1586405345005">
         <mark key="'" line="5" column="60" />
@@ -190,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="10" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="112" column="10" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="113" column="10" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="114" column="10" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="115" column="10" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
@@ -290,45 +290,47 @@
       <jump line="9" column="76" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="17" column="4" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="7" column="21" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
+      <jump line="12" column="17" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" />
+      <jump line="8" column="34" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2hhdCBpcyB3YW0/IA==</text>
+        <text>db</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmtldENhcCA8PSAxMF8wMDBfMDAwXzAwMCAtPiBNSURDQVAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2hhdCBpcyB3YW0/IA==</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
-        <text>assetclasstype</text>
+        <text>blah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1zU3FsRGIgZGI7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIEBCZWZvcmVBbGwKICAgIHN0YXRpYyB2b2lkIGJlZm9yZUFsbCgpIHsKICAgICAgICBkYiA9IG5ldyBNc1NxbERiKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBhc3NldENsYXNzVHlwZTogQXNzZXRDbGFzc1R5cGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBhc3NldENsYXNzVHlwZTogQXNzZXRDbGFzc1R5cGUsCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBhc3NldENsYXNzVHlwZTogQXNzZXRDbGFzc1R5cGUsCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IHZhbCBhc3NldENsYXNzVHlwZTogQXNzZXRDbGFzc1R5cGUgICAgIC8vIFRPRE86IGNhbiB0aGlzIGJlIHJlbW92ZWQ/IChpZiBvbmx5IHBvc3NpYmlsaXRpZXMgYXJlIEVxdWl0eSBvciBGaXhlZEluY29tZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2976,10 +2978,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBBc3NldENsYXNzVHlwZSB7IEZJWEVEX0lOQ09NRSwgRVFVSVRZLCBPVEhFUiB9ICAvLyBUT0RPOiBjYW4gdGhpcyBiZSBnb3R0ZW4gcmlkIG9mPwoK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBhc3NldENsYXNzVHlwZTogQXNzZXRDbGFzc1R5cGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBhc3NldENsYXNzVHlwZTogQXNzZXRDbGFzc1R5cGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2988,9 +2990,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>assetclasstype</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern>assetclasstype</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
