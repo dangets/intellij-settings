@@ -155,12 +155,12 @@
         <mark key="." line="85" column="26" />
         <mark key="^" line="85" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" timestamp="1586557239768">
+      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" timestamp="1586560813228">
         <mark key="'" line="36" column="18" />
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="58" />
-        <mark key="." line="36" column="57" />
-        <mark key="^" line="36" column="58" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="2" />
       </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" timestamp="1586556042756">
         <mark key="'" line="5" column="60" />
@@ -295,13 +295,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>containsExactlyInAnyOrder</text>
+        <text>/</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyRGFvLmFkZE5ld1VzZXIodGVzdFVzZXIyMDIwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>containsExactlyInAnyOrder</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>blah</text>
