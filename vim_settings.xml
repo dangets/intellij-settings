@@ -95,14 +95,14 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/App.java" timestamp="1586786551973">
-        <mark key="[" line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/resources/UserResource.java" timestamp="1586798857921">
         <mark key="'" line="23" column="39" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/console" timestamp="1586897038408">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/aig-hack-scripts/src/main/kotlin/com/clearwateranalytics/dg/db/DataSources.kt" timestamp="1586792024592">
         <mark key="'" line="36" column="4" />
@@ -130,14 +130,16 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/deadline/deadline-prototype/src/main/java/com/ca/deadline/jersey/json/JsonModule.java" timestamp="1586787707678">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="79" />
-      </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/main/java/com/ca/example/users/UserDao.java" timestamp="1586891394428">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e50294e-4abb-4834-900d-5185ad5fc97b/console.sql" timestamp="1586897057516">
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="90" column="10" />
+        <mark key="^" line="90" column="10" />
+        <mark key="." line="90" column="9" />
       </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1586801761316">
         <mark key="'" line="80" column="22" />
@@ -303,14 +305,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+      <register name="&quot;" type="4">
+        <text>reportingLM</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGpkYmNVcmwgPSBnZXRDb25maWcoImpkYmMudXJsIik7CiAgICAgICAgICAgIHZhciB1c2VybmFtZSA9IGdldENvbmZpZygiamRiYy51c2VybmFtZSIpOwogICAgICAgICAgICB2YXIgcGFzc3dvcmQgPSBnZXRDb25maWcoImpkYmMucGFzc3dvcmQiKTsKCiAgICAgICAgICAgIHZhciBjb25maWcgPSBuZXcgSGlrYXJpQ29uZmlnKCk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRKZGJjVXJsKGpkYmNVcmwpOwogICAgICAgICAgICBjb25maWcuc2V0VXNlcm5hbWUodXNlcm5hbWUpOwogICAgICAgICAgICBjb25maWcuc2V0UGFzc3dvcmQocGFzc3dvcmQpOwoKICAgICAgICAgICAgdmFyIGRhdGFTb3VyY2UgPSBuZXcgSGlrYXJpRGF0YVNvdXJjZShjb25maWcpOwogICAgICAgICAgICAvL2JpbmQoZGF0YVNvdXJjZSkudG8oRGF0YVNvdXJjZS5jbGFzcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text>reportingLM</text>
       </register>
       <register name="/" type="4">
         <text>getjdbc</text>
