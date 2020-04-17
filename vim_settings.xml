@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxleGVjdXRlU3RhdGVtZW50XD4=</entry>
-        <entry encoding="base64">XDxkYXRhYmFzZVw+</entry>
         <entry encoding="base64">XDxkYXRhU291cmNlXD4=</entry>
         <entry>user-service</entry>
         <entry>laa</entry>
@@ -25,6 +23,8 @@
         <entry>testcont</entry>
         <entry>mssql</entry>
         <entry>getjdbc</entry>
+        <entry>ensurestatus</entry>
+        <entry encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -89,6 +89,12 @@
       <file name="/Dummy.txt" timestamp="1586789413353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ca-wsclient-util3/src/main/java/com/ca/wsclient3/request/WsResponse.java" timestamp="1587135764194">
+        <mark key="'" line="113" column="32" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/UserService.java" timestamp="1586791209648">
         <mark key="[" line="27" column="10" />
         <mark key="]" line="27" column="41" />
@@ -117,12 +123,6 @@
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="16" />
         <mark key="^" line="27" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/ObjectMapperContextResolver.java" timestamp="1586787903763">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/jersey/KarateIT.java" timestamp="1586811528794">
         <mark key="[" line="4" column="15" />
@@ -201,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="62" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="68" column="13" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="69" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="70" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="72" column="7" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="73" column="64" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
@@ -301,12 +298,15 @@
       <jump line="1" column="2" filename="$USER_HOME$/dev/integration-test-layout/example-maven/pom.xml" />
       <jump line="50" column="24" filename="$USER_HOME$/dev/integration-test-layout/example-maven/pom.xml" />
       <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/org/testcontainers/mssqlserver/1.13.0/mssqlserver-1.13.0.jar!/org/testcontainers/containers/MSSQLServerContainer.class" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/ca-wsclient-util3/src/main/java/com/ca/wsclient3/request/WsResponse.java" />
+      <jump line="63" column="8" filename="$USER_HOME$/dev/ca-wsclient-util3/src/main/java/com/ca/wsclient3/request/WsResponse.java" />
+      <jump line="112" column="32" filename="$USER_HOME$/dev/ca-wsclient-util3/src/main/java/com/ca/wsclient3/request/WsResponse.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>reportingLM</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgcwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGpkYmNVcmwgPSBnZXRDb25maWcoImpkYmMudXJsIik7CiAgICAgICAgICAgIHZhciB1c2VybmFtZSA9IGdldENvbmZpZygiamRiYy51c2VybmFtZSIpOwogICAgICAgICAgICB2YXIgcGFzc3dvcmQgPSBnZXRDb25maWcoImpkYmMucGFzc3dvcmQiKTsKCiAgICAgICAgICAgIHZhciBjb25maWcgPSBuZXcgSGlrYXJpQ29uZmlnKCk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRKZGJjVXJsKGpkYmNVcmwpOwogICAgICAgICAgICBjb25maWcuc2V0VXNlcm5hbWUodXNlcm5hbWUpOwogICAgICAgICAgICBjb25maWcuc2V0UGFzc3dvcmQocGFzc3dvcmQpOwoKICAgICAgICAgICAgdmFyIGRhdGFTb3VyY2UgPSBuZXcgSGlrYXJpRGF0YVNvdXJjZShjb25maWcpOwogICAgICAgICAgICAvL2JpbmQoZGF0YVNvdXJjZSkudG8oRGF0YVNvdXJjZS5jbGFzcyk7Cg==</text>
@@ -315,31 +315,31 @@
         <text>reportingLM</text>
       </register>
       <register name="/" type="4">
-        <text>getjdbc</text>
+        <text encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoKICogSXQgbWF5IGJlIHdvcnRod2hpbGUgdG8gc2VwYXJhdGUgbGlxdWliYXNlIG9wZXJhdGlvbnMgb3V0IGZyb20gY29udGFpbmVyIGNyZWF0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMy4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMy4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMy4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICoKICogSXQgbWF5IGJlIHdvcnRod2hpbGUgdG8gc2VwYXJhdGUgbGlxdWliYXNlIG9wZXJhdGlvbnMgb3V0IGZyb20gY29udGFpbmVyIGNyZWF0aW9uLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwYWNrYWdpbmc+d2FyPC9wYWNrYWdpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMy4wPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjIuMzwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxmYWlsT25NaXNzaW5nV2ViWG1sPmZhbHNlPC9mYWlsT25NaXNzaW5nV2ViWG1sPgogICAgICAgICAgICAgICAgICAgIDxhcmNoaXZlPgogICAgICAgICAgICAgICAgICAgICAgICA8bWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YWRkRGVmYXVsdEltcGxlbWVudGF0aW9uRW50cmllcz50cnVlPC9hZGREZWZhdWx0SW1wbGVtZW50YXRpb25FbnRyaWVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFkZERlZmF1bHRTcGVjaWZpY2F0aW9uRW50cmllcz50cnVlPC9hZGREZWZhdWx0U3BlY2lmaWNhdGlvbkVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgICAgIDxtYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8R3JvdXAtSWQ+JHtwcm9qZWN0Lmdyb3VwSWR9PC9Hcm91cC1JZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxBcnRpZmFjdC1JZD4ke3Byb2plY3QuYXJ0aWZhY3RJZH08L0FydGlmYWN0LUlkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC9WZXJzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L21hbmlmZXN0RW50cmllcz4KICAgICAgICAgICAgICAgICAgICA8L2FyY2hpdmU+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMy4wPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2987,10 +2987,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMy4wPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tanNvbi0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uZmFzdGVyeG1sLmphY2tzb24uY29yZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhYmluZDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDwhLS13ZWJzZXJ2aWNlLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmphdmF4LnNlcnZsZXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphdmF4LnNlcnZsZXQtYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjAuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5zdW4ueG1sLmJpbmQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmpheGItaW1wbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4zLjI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5qYXZheC54bWwuYmluZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF4Yi1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmdsYXNzZmlzaC5qZXJzZXkuY29yZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amVyc2V5LXNlcnZlcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5nbGFzc2Zpc2guamVyc2V5LmNvbnRhaW5lcnM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmplcnNleS1jb250YWluZXItc2VydmxldDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5nbGFzc2Zpc2guamVyc2V5LmluamVjdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amVyc2V5LWhrMjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5nbGFzc2Zpc2guaGsyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5oazItYXBpPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmdsYXNzZmlzaC5oazI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmhrMi1sb2NhdG9yPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmdsYXNzZmlzaC5qZXJzZXkubWVkaWE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmplcnNleS1tZWRpYS1qc29uLWphY2tzb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIDxwYWNrYWdpbmc+d2FyPC9wYWNrYWdpbmc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2999,9 +2999,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getjdbc</last-search>
+      <last-search encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</last-search>
       <last-offset />
-      <last-pattern>getjdbc</last-pattern>
+      <last-pattern encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
