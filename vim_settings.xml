@@ -92,6 +92,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/resources/UserResource.java" timestamp="1586798857921">
+        <mark key="'" line="23" column="39" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/console" timestamp="1586897038408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,6 +120,13 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/UserServiceApplication.java" timestamp="1586808103083">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="27" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/jersey/KarateIT.java" timestamp="1586811528794">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="34" />
@@ -126,43 +139,17 @@
         <mark key="^" line="90" column="10" />
         <mark key="." line="90" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/main/java/com/ca/example/users/UserDao.java" timestamp="1586891394428">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1586801761316">
         <mark key="'" line="80" column="22" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="98" column="44" />
         <mark key="." line="82" column="82" />
         <mark key="^" line="93" column="93" />
-      </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" timestamp="1586796960146">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="36" />
-        <mark key="^" line="10" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/Dockerfile" timestamp="1587421731122">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/resources/UserResource.java" timestamp="1586798857921">
-        <mark key="'" line="23" column="39" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/UserServiceApplication.java" timestamp="1586808103083">
-        <mark key="'" line="65" column="17" />
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="27" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/main/java/com/ca/example/users/UserDao.java" timestamp="1586891394428">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" timestamp="1587420942174">
         <mark key="'" line="24" column="0" />
@@ -177,11 +164,24 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="108" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" timestamp="1586796960146">
+        <mark key="'" line="34" column="18" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="10" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1586878430928">
         <mark key="[" line="18" column="71" />
         <mark key="]" line="18" column="71" />
         <mark key="." line="18" column="71" />
         <mark key="^" line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/Dockerfile" timestamp="1587421731122">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/testcontainers/mssqlserver/1.13.0/mssqlserver-1.13.0.jar!/org/testcontainers/containers/MSSQLServerContainer.class" timestamp="1586878348872">
         <mark key="'" line="11" column="13" />
@@ -3001,7 +3001,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
