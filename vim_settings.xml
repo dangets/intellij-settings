@@ -92,6 +92,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" timestamp="1587502515127">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/resources/UserResource.java" timestamp="1586798857921">
         <mark key="'" line="23" column="39" />
         <mark key="[" line="16" column="0" />
@@ -101,16 +107,9 @@
       <file name="/console" timestamp="1586897038408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/aig-hack-scripts/src/main/kotlin/com/clearwateranalytics/dg/db/DataSources.kt" timestamp="1586792024592">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="44" />
-        <mark key="^" line="25" column="44" />
-        <mark key="." line="25" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/src/main/kotlin/org/example/Main.kt" timestamp="1587418730749">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/src/main/kotlin/org/example/Main.kt" timestamp="1587500846659">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="5" />
         <mark key="^" line="7" column="34" />
         <mark key="." line="9" column="0" />
       </file>
@@ -151,11 +150,22 @@
         <mark key="." line="82" column="82" />
         <mark key="^" line="93" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" timestamp="1587420942174">
+      <file name="$USER_HOME$/dev/gradle/demo-java-app/src/test/kotlin/com/dangets/AppTest.kt" timestamp="1587499858307">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" timestamp="1587500760889">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="51" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gradle/demo-java-app/src/main/kotlin/com/dangets/App.kt" timestamp="1587500849543">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/pom.xml" timestamp="1586874118213">
         <mark key="'" line="50" column="24" />
@@ -164,12 +174,11 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="108" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserDaoMsSqlTestIT.java" timestamp="1586796960146">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="36" />
-        <mark key="^" line="10" column="2" />
+      <file name="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" timestamp="1587502679844">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1586878430928">
         <mark key="[" line="18" column="71" />
@@ -189,15 +198,8 @@
       <file name="/fragment.java" timestamp="1586808193604">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/resources/HelloResource.java" timestamp="1586796675377">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="40" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="10" column="39" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="62" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="78" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="79" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="80" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
@@ -297,18 +299,19 @@
       <jump line="12" column="13" filename="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" />
+      <jump line="20" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpkYmNVcmwgPSBnZXRDb25maWcoImpkYmMudXJsIik7CiAgICAgICAgICAgIHZhciB1c2VybmFtZSA9IGdldENvbmZpZygiamRiYy51c2VybmFtZSIpOwogICAgICAgICAgICB2YXIgcGFzc3dvcmQgPSBnZXRDb25maWcoImpkYmMucGFzc3dvcmQiKTsKCiAgICAgICAgICAgIHZhciBjb25maWcgPSBuZXcgSGlrYXJpQ29uZmlnKCk7CiAgICAgICAgICAgIGNvbmZpZy5zZXRKZGJjVXJsKGpkYmNVcmwpOwogICAgICAgICAgICBjb25maWcuc2V0VXNlcm5hbWUodXNlcm5hbWUpOwogICAgICAgICAgICBjb25maWcuc2V0UGFzc3dvcmQocGFzc3dvcmQpOwoKICAgICAgICAgICAgdmFyIGRhdGFTb3VyY2UgPSBuZXcgSGlrYXJpRGF0YVNvdXJjZShjb25maWcpOwogICAgICAgICAgICAvL2JpbmQoZGF0YVNvdXJjZSkudG8oRGF0YVNvdXJjZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIG1hdmVuKCJodHRwOi8vYXJ0aWZhY3RvcnkuYXJiZnVuZC5jb20vcmVsZWFzZXMtZ3JvdXAiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>spring-boot-application</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</text>
@@ -323,19 +326,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RVhQT1NFIDcwMDAK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKHBsYXRmb3JtKCJjb20uc3F1YXJldXAub2todHRwMzpva2h0dHAtYm9tOjQuNS4wIikpCiAgICBpbXBsZW1lbnRhdGlvbigiY29tLnNxdWFyZXVwLm9raHR0cDM6b2todHRwIikKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImphdmEiLCAiIl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text>COPY --chown=gradl</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkKCJjb20uZ29vZ2xlLmNsb3VkLnRvb2xzLmppYiIpLnZlcnNpb24oIjIuMi4wIikK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKHBsYXRmb3JtKCJjb20uc3F1YXJldXAub2todHRwMzpva2h0dHAtYm9tIikpCiAgICBpbXBsZW1lbnRhdGlvbigiY29tLnNxdWFyZXVwLm9raHR0cDM6b2todHRwIikKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2983,10 +2986,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
