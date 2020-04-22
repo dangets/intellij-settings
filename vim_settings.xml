@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhU291cmNlXD4=</entry>
         <entry>user-service</entry>
         <entry>laa</entry>
         <entry>assetclasstype</entry>
@@ -25,6 +24,7 @@
         <entry>getjdbc</entry>
         <entry>ensurestatus</entry>
         <entry encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</entry>
+        <entry encoding="base64">XDxBUFBfTkFNRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -92,11 +92,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" timestamp="1587502515127">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="6" />
+      <file name="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" timestamp="1587507831401">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/jersey/resources/UserResource.java" timestamp="1586798857921">
         <mark key="'" line="23" column="39" />
@@ -156,10 +157,10 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" timestamp="1587500760889">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="51" />
+      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" timestamp="1587507341025">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="24" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gradle/demo-java-app/src/main/kotlin/com/dangets/App.kt" timestamp="1587500849543">
@@ -174,11 +175,11 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="108" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" timestamp="1587504887353">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" timestamp="1587508318962">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1586878430928">
         <mark key="[" line="18" column="71" />
@@ -200,22 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="79" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="80" column="66" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="81" column="62" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="82" column="60" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="83" column="19" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="4" column="11" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="162" column="33" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="152" column="26" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="166" column="31" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="18" column="14" filename="$USER_HOME$/dev/index-ws/sql/indexdata/StoredProcedures/dbo.GetConvertedBenchmarkMap.sql" />
-      <jump line="19" column="35" filename="$USER_HOME$/dev/index-ws/sql/indexdata/StoredProcedures/dbo.GetConvertedBenchmarkMap.sql" />
-      <jump line="159" column="29" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
-      <jump line="23" column="20" filename="$USER_HOME$/dev/integration-test-layout/example-maven/pom.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/User.java" />
-      <jump line="31" column="12" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/UserDaoMsSql.java" />
       <jump line="25" column="30" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/main/java/com/ca/example/users/UserDaoMsSql.java" />
       <jump line="14" column="35" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserServiceTest.java" />
       <jump line="27" column="31" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserServiceTest.java" />
@@ -300,45 +285,61 @@
       <jump line="16" column="0" filename="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" />
       <jump line="20" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="12" column="8" filename="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" />
+      <jump line="11" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="42" column="22" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="19" column="8" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="33" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="31" column="18" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" />
+      <jump line="6" column="19" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
+      <jump line="8" column="31" filename="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" />
+      <jump line="0" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVJHIEFQUF9OQU1FPWRlbW8tamF2YS1hcHAK</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIG1hdmVuKCJodHRwOi8vYXJ0aWZhY3RvcnkuYXJiZnVuZC5jb20vcmVsZWFzZXMtZ3JvdXAiKQo=</text>
+        <text encoding="base64">Z3JvdXAgPSAib3JnLmV4YW1wbGUiCnZlcnNpb24gPSAiMS4wLVNOQVBTSE9UIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</text>
+        <text encoding="base64">XDxBUFBfTkFNRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVJHIEFQUF9OQU1FPWRlbW8tamF2YS1hcHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHRhciB4dmYgJHtBUFBfTkFNRX0udGFyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSBzcmMgc3JjCg==</text>
+        <text encoding="base64">Ci8vYXBwbGljYXRpb24gewovLyAgICAvLyBEZWZpbmUgdGhlIG1haW4gY2xhc3MgZm9yIHRoZSBhcHBsaWNhdGlvbi4KLy8gICAgbWFpbkNsYXNzTmFtZSA9ICJjb20uZGFuZ2V0cy5BcHBLdCIKLy99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGphdmEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKHBsYXRmb3JtKCJjb20uc3F1YXJldXAub2todHRwMzpva2h0dHAtYm9tOjQuNS4wIikpCiAgICBpbXBsZW1lbnRhdGlvbigiY29tLnNxdWFyZXVwLm9raHR0cDM6b2todHRwIikKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2986,10 +2987,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk1haW4tQ2xhc3MiIHRvICJjb20uZGFuZ2V0cy5BcHBLdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cmkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2998,9 +2999,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</last-search>
+      <last-search encoding="base64">XDxBUFBfTkFNRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnN1cmVTdGF0dXNIYXNCZWVuQ2hlY2tlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxBUFBfTkFNRVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
