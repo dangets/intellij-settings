@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxqZGJjVXJsXD4=</entry>
         <entry encoding="base64">XDxtb2NraXRvXD4=</entry>
         <entry>jersey</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxidWlsZFNmdHBSb3V0ZVw+</entry>
         <entry encoding="base64">XDxmaW5kRmlsZXNcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVQb2xsRmlsZXNSZXF1ZXN0TXNnXD4=</entry>
+        <entry encoding="base64">XDxyZWFkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -149,6 +149,9 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/indexloader/src/main/java/com/ca/index/sourcehandler/clientprovided/ClientProvidedIndexSourceHandler.java" timestamp="1587681672604">
+        <mark key="'" line="510" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/gradle/demo-java-app/src/main/kotlin/com/dangets/App.kt" timestamp="1587500849543">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -185,13 +188,8 @@
       <file name="$MAVEN_REPOSITORY$/org/testcontainers/mssqlserver/1.13.0/mssqlserver-1.13.0.jar!/org/testcontainers/containers/MSSQLServerContainer.class" timestamp="1586878348872">
         <mark key="'" line="11" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1586808193604">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserServiceTest.java" />
-      <jump line="18" column="42" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserServiceTest.java" />
       <jump line="32" column="31" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserServiceTest.java" />
       <jump line="33" column="4" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/UserServiceTest.java" />
       <jump line="2" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58e33e11-6d8f-4c5e-a719-bd88bed96e62/console.sql" />
@@ -290,6 +288,8 @@
       <jump line="45" column="17" filename="$USER_HOME$/dev/korail/korail-camel/src/main/java/com/ca/korail/camel/SftpServerRouteBuilder.java" />
       <jump line="26" column="28" filename="$USER_HOME$/dev/korail/korail-old/src/main/java/com/ca/korail/old/fileManagement/CwanFSConnection.java" />
       <jump line="184" column="17" filename="$USER_HOME$/dev/korail/korail-old/src/main/java/com/ca/korail/old/fileManagement/LocalFileManagerAct.java" />
+      <jump line="509" column="31" filename="$USER_HOME$/dev/indexloader/src/main/java/com/ca/index/sourcehandler/clientprovided/ClientProvidedIndexSourceHandler.java" />
+      <jump line="510" column="19" filename="$USER_HOME$/dev/indexloader/src/main/java/com/ca/index/sourcehandler/clientprovided/ClientProvidedIndexSourceHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,7 +304,7 @@
         <text>build</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVQb2xsRmlsZXNSZXF1ZXN0TXNnXD4=</text>
+        <text encoding="base64">XDxyZWFkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -2988,9 +2988,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVQb2xsRmlsZXNSZXF1ZXN0TXNnXD4=</last-search>
+      <last-search encoding="base64">XDxyZWFkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVQb2xsRmlsZXNSZXF1ZXN0TXNnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
