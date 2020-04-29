@@ -117,12 +117,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/jersey/KarateIT.java" timestamp="1586811528794">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="33" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e50294e-4abb-4834-900d-5185ad5fc97b/console.sql" timestamp="1586897057516">
         <mark key="[" line="87" column="13" />
         <mark key="]" line="90" column="10" />
@@ -2994,7 +2988,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
