@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxqZXJzZXlcPg==</entry>
         <entry>jackson</entry>
         <entry>shade</entry>
         <entry>jar</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjaGVja0FjY2Vzc1w+</entry>
         <entry encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</entry>
         <entry>blah</entry>
+        <entry>audit</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -151,7 +151,8 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" timestamp="1588216095087">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" timestamp="1588258392734">
+        <mark key="'" line="85" column="28" />
         <mark key="[" line="77" column="65" />
         <mark key="]" line="78" column="12" />
         <mark key="." line="78" column="11" />
@@ -202,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="130" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="20" column="29" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="28" column="12" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
@@ -302,6 +302,7 @@
       <jump line="70" column="0" filename="$USER_HOME$/dev/feature-flags/README.md" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/feature-flags/README.md" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/feature-flags/README.md" />
+      <jump line="85" column="28" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +317,7 @@
         <text>enable</text>
       </register>
       <register name="/" type="4">
-        <text>blah</text>
+        <text>audit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -3000,9 +3001,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>blah</last-search>
+      <last-search>audit</last-search>
       <last-offset />
-      <last-pattern>blah</last-pattern>
+      <last-pattern>audit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
