@@ -107,6 +107,24 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/EnabledFeaturesResource.java" timestamp="1588217894188">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="82" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/model/Feature.java" timestamp="1588218112179">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="60" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/RootResource.java" timestamp="1588218530382">
+        <mark key="[" line="28" column="93" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="11" />
+        <mark key="^" line="29" column="12" />
+      </file>
       <file name="/a.sql" timestamp="1588216259612">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,14 +135,15 @@
         <mark key="^" line="38" column="13" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" timestamp="1587508318962">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="7" column="32" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureKeyResource.java" timestamp="1588218334301">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/korail/korail-old/src/main/java/com/ca/korail/old/fileManagement/CwanFSConnection.java" timestamp="1587650338129">
-        <mark key="'" line="26" column="28" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureKeyDao.java" timestamp="1588218752091">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="46" column="31" />
+        <mark key="." line="46" column="31" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/RequestContextFactory.java" timestamp="1588213327613">
         <mark key="'" line="9" column="31" />
@@ -134,16 +153,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" timestamp="1587507831401">
-        <mark key="'" line="6" column="19" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="45" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/korail/korail-old/src/main/java/com/ca/korail/old/fileManagement/LocalFileManagerAct.java" timestamp="1587650346570">
-        <mark key="'" line="184" column="17" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" timestamp="1588216095087">
         <mark key="[" line="77" column="65" />
@@ -156,24 +165,24 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/korail/korail-camel/src/main/java/com/ca/korail/camel/SftpServerRouteBuilder.java" timestamp="1587650275817">
-        <mark key="'" line="45" column="17" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/StatusResource.java" timestamp="1588218459035">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" timestamp="1587507341025">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/README.md" timestamp="1588217429607">
+      <file name="$USER_HOME$/dev/feature-flags/README.md" timestamp="1588218814435">
         <mark key="'" line="44" column="6" />
-        <mark key="[" line="68" column="4" />
-        <mark key="]" line="68" column="17" />
-        <mark key="." line="68" column="16" />
-        <mark key="^" line="68" column="17" />
+        <mark key="[" line="72" column="47" />
+        <mark key="]" line="73" column="73" />
+        <mark key="." line="73" column="72" />
+        <mark key="^" line="73" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/indexloader/src/main/java/com/ca/index/sourcehandler/clientprovided/ClientProvidedIndexSourceHandler.java" timestamp="1587681672604">
-        <mark key="'" line="510" column="19" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1588217664738">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/sql/FeatureFlags/StoredProcedures/ff.DeleteApplication.sql" timestamp="1588216447449">
         <mark key="[" line="29" column="18" />
@@ -181,9 +190,14 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureResource.java" timestamp="1588218428400">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="12" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="39" column="43" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="49" column="8" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="38" column="114" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
@@ -283,15 +297,16 @@
       <jump line="33" column="8" filename="$USER_HOME$/dev/feature-flags/README.md" />
       <jump line="32" column="4" filename="$USER_HOME$/dev/feature-flags/README.md" />
       <jump line="36" column="6" filename="$USER_HOME$/dev/feature-flags/README.md" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">R0VUIGFwcGxpY2F0aW9uL3thcHBsaWNhdGlvbn0K</text>
+        <text encoding="base64">YGBgCkRFTEVURSBhcHBsaWNhdGlvbi97YXBwbGljYXRpb259CiAgICBkZWxldGUgYXBwbGljYXRpb24gYWxvbmcgd2l0aCBhbGwgZmVhdHVyZXMgYW5kIGtleXMKICAgIFJlc3BvbnNlLm9rKCkKYGBgCgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -303,25 +318,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBhcHBsaWNhdGlvbiBhbG9uZyB3aXRoIGFsbCBmZWF0dXJlcyBhbmQga2V5cwogICAgUmVzcG9uc2Uub2soKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQGRlcHJlY2F0ZWQgREcgLSBUaGVyZSBpcyBubyBwdWJsaWMgYXBpIHRvIHNldCAncmV0aXJlZCcgYW5kIGl0IGlzIG5vdCBjaGVja2VkIGF0IGFsbCBkdXJpbmcgZmVhdHVyZSBlbmFibGUvZGlzYWJsZSBjaGVjawogICAgICovCiAgICBARGVwcmVjYXRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gb25seSBjaGVja2VkIGZvciBkdXBsaWNhdGUgaW5zZXJ0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZG9lcyBub3QgaGF2ZSBhbnkgZWZmZWN0IG9uIGZlYXR1cmVzIGJlaW5nIGVuYWJsZWQgb3IgZGlzYWJsZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbm8gcHVibGljIEFQSSB0byBzZXQgInJldGlyZWQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbm8gcHVibGljIEFQSSB0byBzZXQgInJldGlyZWQiCg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gYXBwbGljYXRpb25OYW1lCiAgICAgKiBAcGFyYW0gZmVhdHVyZU5hbWUKICAgICAqIEBwYXJhbSBqaXJhQ2FzZQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gYXBwbGljYXRpb25OYW1lCiAgICAgKiBAcGFyYW0gZmVhdHVyZU5hbWUKICAgICAqIEBwYXJhbSBqaXJhQ2FzZQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2969,10 +2984,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHBsaWNhdGlvbk5hbWUKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gYXBwbGljYXRpb25OYW1lCiAgICAgKiBAcGFyYW0gZmVhdHVyZU5hbWUKICAgICAqIEBwYXJhbSBqaXJhQ2FzZQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogREcgTk9URTogdGhlcmUgaXMgbm8KICAgICAqIEBwYXJhbSBhcHBsaWNhdGlvbk5hbWUKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gYXBwbGljYXRpb25OYW1lCiAgICAgKiBAcGFyYW0gZmVhdHVyZU5hbWUKICAgICAqIEBwYXJhbSBqaXJhQ2FzZQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
