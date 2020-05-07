@@ -112,7 +112,7 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="/a.sql" timestamp="1588865472519">
+      <file name="/a.sql" timestamp="1588871543734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureKeyResource.java" timestamp="1588218334301">
@@ -131,7 +131,7 @@
         <mark key="]" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588865472533">
+      <file name="/Dummy.txt" timestamp="1588871543745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -162,12 +162,12 @@
         <mark key="^" line="38" column="13" />
         <mark key="." line="38" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" timestamp="1588865490907">
-        <mark key="'" line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" timestamp="1588871518737">
+        <mark key="'" line="10" column="31" />
         <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="22" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/README.md" timestamp="1588266215582">
         <mark key="'" line="25" column="0" />
@@ -188,11 +188,11 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1588867282555">
-        <mark key="[" line="59" column="76" />
-        <mark key="]" line="59" column="76" />
-        <mark key="." line="59" column="76" />
-        <mark key="^" line="58" column="90" />
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1588871567715">
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="57" column="42" />
+        <mark key="^" line="57" column="43" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/cache/UserNameCache.java" timestamp="1588256154227">
         <mark key="'" line="24" column="27" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="17" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
       <jump line="2" column="20" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
       <jump line="5" column="60" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
       <jump line="15" column="19" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
@@ -303,6 +302,7 @@
       <jump line="0" column="17" filename="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.1.yaml" />
       <jump line="7" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" />
+      <jump line="10" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
