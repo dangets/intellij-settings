@@ -86,20 +86,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" timestamp="1588216295469">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges.yaml" timestamp="1588864933112">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
       </file>
-      <file name="/console" timestamp="1588216260866">
+      <file name="/console" timestamp="1588865476185">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1588216111061">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/EnabledFeaturesResource.java" timestamp="1588217894188">
         <mark key="[" line="83" column="0" />
@@ -119,31 +112,36 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="/a.sql" timestamp="1588216259612">
+      <file name="/a.sql" timestamp="1588865472519">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureDao.java" timestamp="1588214345029">
-        <mark key="'" line="40" column="43" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="38" column="13" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureKeyResource.java" timestamp="1588218334301">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.0.yaml" timestamp="1588865108049">
+        <mark key="'" line="24" column="88" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="89" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureKeyDao.java" timestamp="1588218752091">
         <mark key="[" line="46" column="31" />
         <mark key="]" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588216259623">
+      <file name="/Dummy.txt" timestamp="1588865472533">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/README.md" timestamp="1588864860475">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" timestamp="1588258392734">
         <mark key="'" line="85" column="28" />
@@ -152,17 +150,24 @@
         <mark key="." line="78" column="11" />
         <mark key="^" line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" timestamp="1588216775977">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.1.yaml" timestamp="1588865172683">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationAuditDao.java" timestamp="1588259034465" />
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/StatusResource.java" timestamp="1588218459035">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="13" />
         <mark key="^" line="38" column="13" />
         <mark key="." line="38" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" timestamp="1588865490907">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/README.md" timestamp="1588266215582">
         <mark key="'" line="25" column="0" />
@@ -177,17 +182,17 @@
         <mark key="^" line="83" column="16" />
         <mark key="." line="83" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/sql/FeatureFlags/StoredProcedures/ff.DeleteApplication.sql" timestamp="1588216447449">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureResource.java" timestamp="1588218428400">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1588864560703">
+        <mark key="[" line="58" column="85" />
+        <mark key="]" line="58" column="90" />
+        <mark key="." line="58" column="89" />
+        <mark key="^" line="58" column="90" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/cache/UserNameCache.java" timestamp="1588256154227">
         <mark key="'" line="24" column="27" />
@@ -198,10 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="29" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
-      <jump line="28" column="12" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
-      <jump line="34" column="88" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
       <jump line="0" column="17" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
       <jump line="2" column="20" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
       <jump line="5" column="60" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
@@ -298,18 +299,22 @@
       <jump line="87" column="0" filename="$USER_HOME$/dev/feature-flags/README.md" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/feature-flags/README.md" />
       <jump line="85" column="28" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" />
+      <jump line="24" column="88" filename="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.0.yaml" />
+      <jump line="0" column="17" filename="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.1.yaml" />
+      <jump line="7" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VGVybWlub2xvZ3kKPT09PT0KQXBwbGljYXRpb24gLSBzdHJpbmcKRmVhdHVyZSAtIHN0cmluZwpLZXkgLSBzdHJpbmcKCkFwcGxpY2F0aW9uIFJldGlyZWQgVC9GIChha2EgZGVsZXRlZCkKRmVhdHVyZSBSZXRpcmVkIFQvRiAoYWthIGRlbGV0ZWQpCkZlYXR1cmUgRW5hYmxlZCBUL0YKRmVhdHVyZSBLaWxsZWQgVC9GCktleSBFbmFibGVkIFQvRgoKCiJhcHBsaWNhdGlvbjpmZWF0dXJlIiAtPgogICAgdHJ1ZSBpZmY6CiAgICAgICAgImFwcGxpY2F0aW9uIiAmICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBleGlzdAogICAgICAgICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBpcyBub3Qga2lsbGVkCiAgICAgICAgImFwcGxpY2F0aW9uOmZlYXR1cmUiIGlzIGVuYWJsZWQKICAgICAgICAKImFwcGxpY2F0aW9uOmZlYXR1cmU6a2V5IiAtPgogICAgdHJ1ZSBpZmY6CiAgICAgICAgImFwcGxpY2F0aW9uIiAmICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBleGlzdAogICAgICAgICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBpcyBub3Qga2lsbGVkCiAgICAgICAgKCJhcHBsaWNhdGlvbjpmZWF0dXJlOmtleSIgaXMgbm90IGRpc2FibGVkIE9SICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBpcyBlbmFibGVkKQoKCm9wZXJhdGlvbnM6CiAgLSBhZGQgYGFwcGxpY2F0aW9uYAogIC0gZGlzYWJsZSBgYXBwbGljYXRpb25gICAgIyBERzoganVzdCBoaWRlIGZyb20gVUk/Li4gdW5zdXJlIG9mIG5lZWRlZCBzZW1hbnRpY3MKICAtIGVuYWJsZSBgYXBwbGljYXRpb246ZmVhdHVyZWAKICAtIGRpc2FibGUgYGFwcGxpY2F0aW9uOmZlYXR1cmVgCiAgLSBlbmFibGUgYGFwcGxpY2F0aW9uOmZlYXR1cmU6a2V5YAogIC0gZGlzYWJsZSBgYXBwbGljYXRpb246ZmVhdHVyZTprZXlgCiAgCiAgLSBpc0VuYWJsZWQgYGFwcGxpY2F0aW9uOmZlYXR1cmVgCiAgLSBpc0VuYWJsZWQgYGFwcGxpY2F0aW9uOmZlYXR1cmU6a2V5YAo=</text>
+      <register name="&quot;" type="4">
+        <text>date</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">VGVybWlub2xvZ3kKPT09PT0KQXBwbGljYXRpb24gLSBzdHJpbmcKRmVhdHVyZSAtIHN0cmluZwpLZXkgLSBzdHJpbmcKCkFwcGxpY2F0aW9uIFJldGlyZWQgVC9GIChha2EgZGVsZXRlZCkKRmVhdHVyZSBSZXRpcmVkIFQvRiAoYWthIGRlbGV0ZWQpCkZlYXR1cmUgRW5hYmxlZCBUL0YKRmVhdHVyZSBLaWxsZWQgVC9GCktleSBFbmFibGVkIFQvRgoKCiJhcHBsaWNhdGlvbjpmZWF0dXJlIiAtPgogICAgdHJ1ZSBpZmY6CiAgICAgICAgImFwcGxpY2F0aW9uIiAmICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBleGlzdAogICAgICAgICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBpcyBub3Qga2lsbGVkCiAgICAgICAgImFwcGxpY2F0aW9uOmZlYXR1cmUiIGlzIGVuYWJsZWQKICAgICAgICAKImFwcGxpY2F0aW9uOmZlYXR1cmU6a2V5IiAtPgogICAgdHJ1ZSBpZmY6CiAgICAgICAgImFwcGxpY2F0aW9uIiAmICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBleGlzdAogICAgICAgICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBpcyBub3Qga2lsbGVkCiAgICAgICAgKCJhcHBsaWNhdGlvbjpmZWF0dXJlOmtleSIgaXMgbm90IGRpc2FibGVkIE9SICJhcHBsaWNhdGlvbjpmZWF0dXJlIiBpcyBlbmFibGVkKQoKCm9wZXJhdGlvbnM6CiAgLSBhZGQgYGFwcGxpY2F0aW9uYAogIC0gZGlzYWJsZSBgYXBwbGljYXRpb25gICAgIyBERzoganVzdCBoaWRlIGZyb20gVUk/Li4gdW5zdXJlIG9mIG5lZWRlZCBzZW1hbnRpY3MKICAtIGVuYWJsZSBgYXBwbGljYXRpb246ZmVhdHVyZWAKICAtIGRpc2FibGUgYGFwcGxpY2F0aW9uOmZlYXR1cmVgCiAgLSBlbmFibGUgYGFwcGxpY2F0aW9uOmZlYXR1cmU6a2V5YAogIC0gZGlzYWJsZSBgYXBwbGljYXRpb246ZmVhdHVyZTprZXlgCiAgCiAgLSBpc0VuYWJsZWQgYGFwcGxpY2F0aW9uOmZlYXR1cmVgCiAgLSBpc0VuYWJsZWQgYGFwcGxpY2F0aW9uOmZlYXR1cmU6a2V5YAo=</text>
+        <text encoding="base64">ICAgICAgICAtIGNyZWF0ZVRhYmxlOgogICAgICAgICAgICBzY2hlbWFOYW1lOiBleGFtcGxlCiAgICAgICAgICAgIHRhYmxlTmFtZTogVXNlcnMKICAgICAgICAgICAgY29sdW1uczoKICAgICAgICAgICAgICAtIGNvbHVtbjogeyBuYW1lOiBpZCwgdHlwZTogdW5pcXVlaWRlbnRpZmllciwgY29uc3RyYWludHM6IHsgdW5pcXVlOiB0cnVlLCBudWxsYWJsZTogZmFsc2UgfSB9CiAgICAgICAgICAgICAgLSBjb2x1bW46IHsgbmFtZTogbmFtZSwgdHlwZTogdmFyY2hhcigxMDApLCBjb25zdHJhaW50czogeyBudWxsYWJsZTogZmFsc2UgfSB9CiAgICAgICAgICAgICAgLSBjb2x1bW46IHsgbmFtZTogYmlydGhEYXRlLCB0eXBlOiBkYXRlLCBjb25zdHJhaW50czogeyBudWxsYWJsZTogZmFsc2UgfSB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>enable</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text>audit</text>
@@ -318,25 +323,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNxbDogIkNSRUFURSBVU0VSIHVzZXJTZXJ2aWNlIEZPUiBMT0dJTiB1c2VyU2VydmljZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAtIGRlbGV0ZQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">RGVtb3N0cmF0ZXMgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IC0gdXNlIGxpcXVpYmFzZSBmb3IgZGVwbG95aW5nIGRhdGFiYXNlIGNoYW5nZXNldHMK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">QXBwbGljYXRpb24gUmV0aXJlZCBUL0YgKGFrYSBkZWxldGVkKQpGZWF0dXJlIFJldGlyZWQgVC9GIChha2EgZGVsZXRlZCkKRmVhdHVyZSBFbmFibGVkIFQvRgpGZWF0dXJlIEtpbGxlZCBUL0YKS2V5IEVuYWJsZWQgVC9GCgo=</text>
+        <text encoding="base64">IC0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiYXBwbGljYXRpb246ZmVhdHVyZSIgaXMgZW5hYmxlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiYXBwbGljYXRpb246ZmVhdHVyZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2984,10 +2989,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiZmVhdHVyZSIgaXMgbm90IGtpbGxlZAo=</text>
+        <text encoding="base64">ZGF0YWJhc2VDaGFuZ2VMb2c6CiAgLSBjaGFuZ2VTZXQ6CiAgICAgIGlkOiBmaWxlZ3JvdXAgZGF0YQogICAgICBhdXRob3I6IGRhbm55Z2VvcmdlCiAgICAgIGNoYW5nZXM6CiAgICAgICAgLSBzcWw6ICJBTFRFUiBEQVRBQkFTRSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29tbWVudDogImNyZWF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
