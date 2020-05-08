@@ -86,7 +86,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588871543745">
+      <file name="/Dummy.txt" timestamp="1588970939989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -110,7 +110,7 @@
         <mark key="." line="78" column="11" />
         <mark key="^" line="78" column="12" />
       </file>
-      <file name="/console" timestamp="1588970453428">
+      <file name="/console" timestamp="1588970987581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.1.yaml" timestamp="1588865172683">
@@ -118,6 +118,12 @@
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e50294e-4abb-4834-900d-5185ad5fc97b/console.sql" timestamp="1588971675318">
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="92" column="32" />
+        <mark key="." line="92" column="31" />
+        <mark key="^" line="92" column="32" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/StatusResource.java" timestamp="1588218459035">
         <mark key="[" line="38" column="8" />
@@ -151,22 +157,20 @@
         <mark key="^" line="83" column="16" />
         <mark key="." line="83" column="15" />
       </file>
-      <file name="/a.sql" timestamp="1588871543734">
+      <file name="/a.sql" timestamp="1588970939879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1588970455098">
-        <mark key="[" line="150" column="58" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1588970913253">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureResource.java" timestamp="1588218428400">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureKeyResource.java" timestamp="1588218334301">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.0.yaml" timestamp="1588865108049">
         <mark key="'" line="24" column="88" />
@@ -200,10 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="60" filename="$USER_HOME$/dev/integration-test-layout/example-maven/sql/src/dbchanges-1.0.yaml" />
-      <jump line="15" column="19" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
-      <jump line="16" column="52" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
-      <jump line="32" column="4" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="22" column="21" filename="$USER_HOME$/dev/integration-test-layout/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" />
       <jump line="146" column="0" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/index-benchmark-modeling/src/main/kotlin/com/ca/index/Models.kt" />
@@ -300,12 +300,16 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" />
       <jump line="10" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5d78a061-4999-4835-bf92-3ff8b606b36f/console.sql" />
+      <jump line="151" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" />
+      <jump line="90" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0e50294e-4abb-4834-900d-5185ad5fc97b/console.sql" />
+      <jump line="84" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0e50294e-4abb-4834-900d-5185ad5fc97b/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnVzZSBzY2F2ZW5nZXI7CnNlbGVjdCAqCmZyb20=</text>
+        <text encoding="base64">b3JkZXIgYnkgc2Noai4K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0ZVN0YXRlbWVudChjb25uLCAiYWx0ZXIgZGF0YWJhc2UgIiArIGRhdGFiYXNlTmFtZSArICIgYWRkIGZpbGVncm91cCBkYXRhIik7Cg==</text>
@@ -320,22 +324,28 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnVzZSBzY2F2ZW5nZXI7CnNlbGVjdCAqCmZyb20=</text>
+        <text encoding="base64">b3JkZXIgYnkgc2Noai4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNxbDogIkNSRUFURSBVU0VSIHVzZXJTZXJ2aWNlIEZPUiBMT0dJTiB1c2VyU2VydmljZSIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text>select 1
+
+
+use LM_local;
+
+select *
+from users</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">RGVtb3N0cmF0ZXMgCg==</text>
+        <text>use scavenger;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IC0gdXNlIGxpcXVpYmFzZSBmb3IgZGVwbG95aW5nIGRhdGFiYXNlIGNoYW5nZXNldHMK</text>
+        <text encoding="base64">CnVzZSBzY2F2ZW5nZXI7CnNlbGVjdCAqCmZyb20=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC0gCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNxbDogIkNSRUFURSBVU0VSIHVzZXJTZXJ2aWNlIEZPUiBMT0dJTiB1c2VyU2VydmljZSIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2986,10 +2996,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">RGVtb3N0cmF0ZXMgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YWJhc2VDaGFuZ2VMb2c6CiAgLSBjaGFuZ2VTZXQ6CiAgICAgIGlkOiBmaWxlZ3JvdXAgZGF0YQogICAgICBhdXRob3I6IGRhbm55Z2VvcmdlCiAgICAgIGNoYW5nZXM6CiAgICAgICAgLSBzcWw6ICJBTFRFUiBEQVRBQkFTRSIK</text>
+        <text encoding="base64">IC0gdXNlIGxpcXVpYmFzZSBmb3IgZGVwbG95aW5nIGRhdGFiYXNlIGNoYW5nZXNldHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
