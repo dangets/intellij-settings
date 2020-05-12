@@ -89,19 +89,14 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" timestamp="1589309784816">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges.yaml" timestamp="1588864933112">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-      </file>
       <file name="/console" timestamp="1589310317433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Sources.java" timestamp="1589304498077">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="8" />
+      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Sources.java" timestamp="1589316150803">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="63" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e50294e-4abb-4834-900d-5185ad5fc97b/console.sql" timestamp="1588971675318">
         <mark key="[" line="92" column="14" />
@@ -143,11 +138,11 @@
         <mark key="." line="76" column="88" />
         <mark key="^" line="76" column="89" />
       </file>
-      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/README.md" timestamp="1588864860475">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="14" />
+      <file name="$USER_HOME$/dev/config1/pom.xml" timestamp="1589315794085">
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="31" />
       </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.1.yaml" timestamp="1588865172683">
         <mark key="[" line="8" column="23" />
@@ -162,13 +157,6 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/README.md" timestamp="1588266215582">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="28" column="72" />
-      </file>
       <file name="$USER_HOME$/dev/config1/config1-feature-flags-ws/src/main/java/com/ca/config1/featureflagsws/FeatureFlagsWsSource.java" timestamp="1589304721998">
         <mark key="'" line="69" column="50" />
         <mark key="[" line="18" column="0" />
@@ -180,6 +168,11 @@
         <mark key="]" line="57" column="43" />
         <mark key="." line="57" column="42" />
         <mark key="^" line="57" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourcesTest.java" timestamp="1589316314978">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d78a061-4999-4835-bf92-3ff8b606b36f/console.sql" timestamp="1588970390626">
         <mark key="[" line="16" column="0" />
@@ -198,6 +191,9 @@
         <mark key="]" line="3" column="44" />
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="44" />
+      </file>
+      <file name="/fragment.java" timestamp="1589315965476">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -305,14 +301,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>EtlTaskHistory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCkgewogICAgICAgIHZhciBzb3VyY2UgPSBTb3VyY2VzLmVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCk7CiAgICAgICAgYXNzZXJ0TnVsbChzb3VyY2UuZmV0Y2goImZvb2JhciIpKTsKICAgIH0KCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0IHRvcCgxMCkgKgpmcm9tIGRiby5FdGxTZXJ2ZXJBbGxvY2F0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text>EtlTaskHistory</text>
+        <text>setProperty</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -321,25 +317,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBleGNlcHRpb24gTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGlmIHByb3BlcnR5IHZhbHVlIGlzIG5vdCBwYXJzZWFibGUgYXMgYW4gSW50ZWdlcgo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCkgewogICAgICAgIHZhciBzb3VyY2UgPSBTb3VyY2VzLmVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCk7CiAgICAgICAgYXNzZXJ0TnVsbChzb3VyY2UuZmV0Y2goImZvb2JhciIpKTsKICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBleGNlcHRpb24gTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGlmIHByb3BlcnR5IHZhbHVlIGlzIG5vdCBwYXJzZWFibGUgYXMgYW4gSW50ZWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBTeXN0ZW0uc2V0ZW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29uZmlndXJhdGlvbiBmb3IgaG93IHRvIGNvbW11bmljYXRlIHdpdGggZmVhdHVyZS0KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9vYmFyID0gc291cmNlLmZldGNoKCJmb29iYXIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwcm9wcwogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgYnkgc2Noai4K</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2987,16 +2983,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="9" type="2">
-        <text>select 1
-
-
-use LM_local;
-
-select *
-from users</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
