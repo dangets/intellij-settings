@@ -36,5 +36,17 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://DO-ENVTEST-01;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@DO-ENVTEST-02" uuid="0ef1e882-3b6d-49ec-89b6-25f713421636">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://DO-ENVTEST-02;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@boi-reportdb" uuid="a3e76253-cde1-46ac-95c4-9fcf259d623d">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://boi-reportdb;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
   </component>
 </application>
