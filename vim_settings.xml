@@ -119,12 +119,7 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.0.yaml" timestamp="1588865108049">
-        <mark key="'" line="24" column="88" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="24" column="89" />
-        <mark key="." line="25" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Source.java" timestamp="1589316828822" />
       <file name="/Dummy.txt" timestamp="1589310726015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -144,12 +139,6 @@
         <mark key="." line="39" column="30" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/dbchanges-1.1.yaml" timestamp="1588865172683">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="28" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/680ba2ae-abb9-48a4-b2d1-314ddaecfe9b/console.sql" timestamp="1588871518737">
         <mark key="'" line="10" column="31" />
         <mark key="[" line="7" column="23" />
@@ -163,16 +152,23 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourceTest.java" timestamp="1589317160627">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="34" column="54" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1588871567715">
         <mark key="[" line="57" column="43" />
         <mark key="]" line="57" column="43" />
         <mark key="." line="57" column="42" />
         <mark key="^" line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourcesTest.java" timestamp="1589316314978">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourcesTest.java" timestamp="1589316489646">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="43" />
+        <mark key="^" line="32" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d78a061-4999-4835-bf92-3ff8b606b36f/console.sql" timestamp="1588970390626">
         <mark key="[" line="16" column="0" />
@@ -302,13 +298,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCkgewogICAgICAgIHZhciBzb3VyY2UgPSBTb3VyY2VzLmVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCk7CiAgICAgICAgYXNzZXJ0TnVsbChzb3VyY2UuZmV0Y2goImZvb2JhciIpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHNvdXJjZS5mZXRjaChhbnkoKSkpLnRoZW5UaHJvdyhuZXcgSU9FeGNlcHRpb24oImthLWJvb20iKSk7Cgo=</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">c2VsZWN0IHRvcCgxMCkgKgpmcm9tIGRiby5FdGxTZXJ2ZXJBbGxvY2F0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29uZmlnID0gTWFwLm9mKCJmb29iYXIiLCAiYmF6cXV4Iik7CiAgICAgICAgdmFyIHNvdXJjZSA9IFNvdXJjZXMuZnJvbU1hcChjb25maWcpOwoKICAgICAgICBhc3NlcnROdWxsKHNvdXJjZS5mZXRjaCgibm90aGVyZSIpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoImJhenF1eCIsIHNvdXJjZS5mZXRjaCgiZm9vYmFyIikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>setProperty</text>
+        <text>mock(Source.class);</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -317,25 +313,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCkgewogICAgICAgIHZhciBzb3VyY2UgPSBTb3VyY2VzLmVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCk7CiAgICAgICAgYXNzZXJ0TnVsbChzb3VyY2UuZmV0Y2goImZvb2JhciIpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHNvdXJjZS5mZXRjaChhbnkoKSkpLnRoZW5UaHJvdyhuZXcgSU9FeGNlcHRpb24oImthLWJvb20iKSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBTeXN0ZW0uc2V0ZW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9vYmFyID0gc291cmNlLmZldGNoKCJmb29iYXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCkgewogICAgICAgIHZhciBzb3VyY2UgPSBTb3VyY2VzLmVudmlyb25tZW50VmFyaWFibGVzU291cmNlKCk7CiAgICAgICAgYXNzZXJ0TnVsbChzb3VyY2UuZmV0Y2goImZvb2JhciIpKTsKICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwcm9wcwogICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBTeXN0ZW0uc2V0ZW4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9vYmFyID0gc291cmNlLmZldGNoKCJmb29iYXIiKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2983,7 +2979,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
