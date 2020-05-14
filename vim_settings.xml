@@ -145,12 +145,12 @@
       <file name="/a.sql" timestamp="1589401373259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1589494698769">
-        <mark key="'" line="198" column="18" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="244" column="13" />
-        <mark key="." line="199" column="98" />
-        <mark key="^" line="199" column="99" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1589495590016">
+        <mark key="'" line="202" column="18" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="160" column="0" />
       </file>
       <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourceTest.java" timestamp="1589317160627">
         <mark key="[" line="36" column="0" />
