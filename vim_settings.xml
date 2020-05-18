@@ -163,12 +163,12 @@
         <mark key="." line="57" column="42" />
         <mark key="^" line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" timestamp="1589813969328">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="21" column="31" />
+      <file name="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" timestamp="1589818505344">
+        <mark key="'" line="19" column="35" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourcesTest.java" timestamp="1589316489646">
         <mark key="[" line="32" column="29" />
@@ -193,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/dev/aws/dg-manual-helloworld-repo/build.gradle.kts" />
-      <jump line="20" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" />
       <jump line="11" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
@@ -293,12 +291,14 @@
       <jump line="4" column="72" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
       <jump line="11" column="11" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
+      <jump line="19" column="35" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgIHZhbCBsaW51eFVybCA9ICIiImpkYmM6c3Fsc2VydmVyOi8vJGRiSG9zdDtkYXRhYmFzZT0kZGF0YWJhc2U7aW50ZWdyYXRlZFNlY3VyaXR5PXRydWU7YXV0aGVudGljYXRpb25TY2hlbWU9SmF2YUtlcmJlcm9zIiIiCg==</text>
@@ -313,25 +313,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdG10Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbm4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW51eFVybCA9ICIiImpkYmM6c3Fsc2VydmVyOi8vJGRiSG9zdDtkYXRhYmFzZT0kZGF0YWJhc2U7aW50ZWdyYXRlZFNlY3VyaXR5PXRydWU7YXV0aGVudGljYXRpb25TY2hlbWU9SmF2YUtlcmJlcm9zIiIiCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdG10Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbm4uCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2979,10 +2979,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VybmFtZSA9ICJkYW5ueWdlb3JnZSI7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBsaW51eFVybCA9ICIiImpkYmM6c3Fsc2VydmVyOi8vJGRiSG9zdDtkYXRhYmFzZT0kZGF0YWJhc2U7aW50ZWdyYXRlZFNlY3VyaXR5PXRydWU7YXV0aGVudGljYXRpb25TY2hlbWU9SmF2YUtlcmJlcm9zIiIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
