@@ -87,21 +87,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589401373273">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" timestamp="1589309784816">
-        <mark key="[" line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/ConfigurationProvider.java" timestamp="1589305714703">
-        <mark key="'" line="18" column="30" />
-        <mark key="[" line="76" column="85" />
-        <mark key="]" line="76" column="89" />
-        <mark key="." line="76" column="88" />
-        <mark key="^" line="76" column="89" />
+      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/ConfigurationProviderTest.java" timestamp="1589831714375">
+        <mark key="[" line="74" column="55" />
+        <mark key="]" line="74" column="91" />
+        <mark key="^" line="74" column="91" />
+        <mark key="." line="74" column="90" />
       </file>
       <file name="/console" timestamp="1589812764793">
         <mark key="[" line="0" column="0" />
@@ -109,36 +99,6 @@
       <file name="$USER_HOME$/dev/aig-hack-scripts/src/main/kotlin/com/clearwateranalytics/dg/db/DataSources.kt" timestamp="1589813837786">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="126" />
-      </file>
-      <file name="$USER_HOME$/dev/config1/pom.xml" timestamp="1589315794085">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="31" />
-        <mark key="." line="39" column="30" />
-        <mark key="^" line="39" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/scavenger-metrics-kt/build.gradle.kts" timestamp="1589570504806">
-        <mark key="[" line="13" column="71" />
-        <mark key="]" line="13" column="72" />
-        <mark key="." line="13" column="72" />
-        <mark key="^" line="13" column="72" />
-      </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/Sources.java" timestamp="1589316150803">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="63" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/main/java/com/ca/config1/CachedSource.java" timestamp="1589304767886">
-        <mark key="[" line="11" column="87" />
-        <mark key="]" line="11" column="87" />
-        <mark key="^" line="25" column="41" />
-        <mark key="." line="11" column="87" />
-      </file>
-      <file name="$USER_HOME$/dev/config1/config1-feature-flags-ws/src/main/java/com/ca/config1/featureflagsws/FeatureFlagsWsSource.java" timestamp="1589304721998">
-        <mark key="'" line="69" column="50" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589401373259">
         <mark key="[" line="0" column="0" />
@@ -150,11 +110,48 @@
         <mark key="^" line="221" column="3" />
         <mark key="." line="278" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourceTest.java" timestamp="1589317160627">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="34" column="54" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/TestHelpers.java" timestamp="1589833485101">
+        <mark key="[" line="32" column="64" />
+        <mark key="]" line="33" column="72" />
+        <mark key="." line="33" column="71" />
+        <mark key="^" line="33" column="72" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589401373273">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/config1/config1/src/test/resources/org.mockito.plugins.MockMaker" timestamp="1589832908208">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/config1/pom.xml" timestamp="1589832702003">
+        <mark key="[" line="74" column="36" />
+        <mark key="]" line="74" column="42" />
+        <mark key="." line="74" column="41" />
+        <mark key="^" line="74" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/scavenger-metrics-kt/build.gradle.kts" timestamp="1589570504806">
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="72" />
+        <mark key="." line="13" column="72" />
+        <mark key="^" line="13" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/config1/config1/pom.xml" timestamp="1589832802936">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourceTest.java" timestamp="1589833878137">
+        <mark key="'" line="34" column="74" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1589571076980">
         <mark key="'" line="71" column="52" />
@@ -193,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/dev/gradle/demo-java-app/Dockerfile" />
-      <jump line="11" column="4" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
       <jump line="42" column="22" filename="$USER_HOME$/dev/gradle/demo-java-app/build.gradle.kts" />
@@ -293,18 +288,20 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
       <jump line="19" column="35" filename="$USER_HOME$/dev/scavenger-metrics-kt/src/main/kotlin/com/clearwateranalytics/scavenger/Main.kt" />
+      <jump line="48" column="4" filename="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourceTest.java" />
+      <jump line="33" column="74" filename="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW51eFVybCA9ICIiImpkYmM6c3Fsc2VydmVyOi8vJGRiSG9zdDtkYXRhYmFzZT0kZGF0YWJhc2U7aW50ZWdyYXRlZFNlY3VyaXR5PXRydWU7YXV0aGVudGljYXRpb25TY2hlbWU9SmF2YUtlcmJlcm9zIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKGNhY2hlZFNyYy5mZXRjaCgiazIiKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIHNyYy5nZXRDb3VudCgiazIiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>caching_of_null_values</text>
       </register>
       <register name="/" type="4">
         <text>jdbcUrl</text>
@@ -313,25 +310,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdG10Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbm4uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2979,10 +2976,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW51eFVybCA9ICIiImpkYmM6c3Fsc2VydmVyOi8vJGRiSG9zdDtkYXRhYmFzZT0kZGF0YWJhc2U7aW50ZWdyYXRlZFNlY3VyaXR5PXRydWU7YXV0aGVudGljYXRpb25TY2hlbWU9SmF2YUtlcmJlcm9zIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
