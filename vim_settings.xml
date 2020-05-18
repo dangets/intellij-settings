@@ -103,7 +103,7 @@
         <mark key="." line="76" column="88" />
         <mark key="^" line="76" column="89" />
       </file>
-      <file name="/console" timestamp="1589571018020">
+      <file name="/console" timestamp="1589812764793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/config1/pom.xml" timestamp="1589315794085">
@@ -176,12 +176,6 @@
         <mark key="]" line="32" column="44" />
         <mark key="." line="32" column="43" />
         <mark key="^" line="32" column="44" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d78a061-4999-4835-bf92-3ff8b606b36f/console.sql" timestamp="1588970390626">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0ef1e882-3b6d-49ec-89b6-25f713421636/console.sql" timestamp="1589401268640">
         <mark key="[" line="8" column="42" />
@@ -3004,7 +2998,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
