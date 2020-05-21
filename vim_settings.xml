@@ -90,7 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589994639811">
+      <file name="/Dummy.txt" timestamp="1590098578891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -108,7 +108,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="/console" timestamp="1590086953032">
+      <file name="/console" timestamp="1590098580674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/aig-hack-scripts/src/main/kotlin/com/clearwateranalytics/dg/db/DataSources.kt" timestamp="1589813837786">
@@ -126,6 +126,12 @@
         <mark key="]" line="74" column="42" />
         <mark key="." line="74" column="41" />
         <mark key="^" line="74" column="42" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1590098638090">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="29" column="5" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scavenger-metrics-kt/build.gradle.kts" timestamp="1589570504806">
         <mark key="[" line="13" column="71" />
@@ -149,7 +155,7 @@
         <mark key="]" line="33" column="13" />
         <mark key="." line="33" column="13" />
       </file>
-      <file name="/a.sql" timestamp="1589994639696">
+      <file name="/a.sql" timestamp="1590098578868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1589995054810">
@@ -189,12 +195,6 @@
         <mark key="]" line="24" column="5" />
         <mark key="." line="24" column="4" />
         <mark key="^" line="24" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/SourcesTest.java" timestamp="1589316489646">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="44" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0ef1e882-3b6d-49ec-89b6-25f713421636/console.sql" timestamp="1589401268640">
         <mark key="[" line="8" column="42" />
@@ -309,7 +309,8 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>select *
+from dbo.</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgIHNlbGVjdCBqb2JzLlNjYXZlbmdlckpvYklECiAgICAgICAgIC0tIGRlcml2ZWQgYXR0cmlidXRlcwogICAgICAgICAsIERBVEVBREQoc2Vjb25kLCBkYXRlZGlmZihzZWNvbmQsIGdldGRhdGUoKSwgZ2V0dXRjZGF0ZSgpKSwgam9icy5UU0NyZWF0ZWQpIHRzQ3JlYXRlZFV0YyAtLSBub3QgRFNUIHNhZmUKICAgICAgICAgLCBEQVRFQUREKHNlY29uZCwgZGF0ZWRpZmYoc2Vjb25kLCBnZXRkYXRlKCksIGdldHV0Y2RhdGUoKSksIGpvYnMuU3RhcnRUaW1lKSB0c1N0YXJ0VXRjICAgLS0gbm90IERTVCBzYWZlCiAgICAgICAgICwgREFURUFERChzZWNvbmQsIGRhdGVkaWZmKHNlY29uZCwgZ2V0ZGF0ZSgpLCBnZXR1dGNkYXRlKCkpLCBqb2JzLkVuZFRpbWUpIHRzRW5kVXRjICAgICAgIC0tIG5vdCBEU1Qgc2FmZQogICAgICAgICAsIGRiby5yZWdleGNhcHR1cmUoJ1teL10rLyhbXi9dKyknLCBjZmcuU2NyaXB0LCAxKSBhcyBzY3JpcHREaXIKICAgICAgICAgLCBkYXRlZGlmZihzZWNvbmQsIFN0YXJ0VGltZSwgRW5kVGltZSkgcnVuVGltZV9zICAtLSBtaW51dGUgZ3JhbnVsYXJpdHkKICAgICAgICAgLCBkYXRlZGlmZihzZWNvbmQsIFRTQ3JlYXRlZCwgU3RhcnRUaW1lKSBxdWV1ZVRpbWVfcyAgLS0gbWludXRlIGdyYW51bGFyaXR5CiAgICAgICAgIC0tIGVuZCBkZXJpdmVkIGF0dHJpYnV0ZXMKICAgICAgICAgLCBqb2JzLlRTQ3JlYXRlZAogICAgICAgICAsIGNhc2Ugd2hlbiBqb2JzLnN0YXR1cyA9IDAgdGhlbiAnUVVFVUVEJwogICAgICAgICAgICAgICAgd2hlbiBqb2JzLnN0YXR1cyA9IDEgdGhlbiAnSU5fUFJPR1JFU1MnCiAgICAgICAgICAgICAgICB3aGVuIGpvYnMuU3RhdHVzID0gMiB0aGVuICdDT01QTEVURScKICAgICAgICAgICAgICAgIHdoZW4gam9icy5TdGF0dXMgPSAzIHRoZW4gJ0ZBSUxFRCcKICAgICAgICAgICAgICAgIHdoZW4gam9icy5TdGF0dXMgPSA0IHRoZW4gJ0NBTkNFTEVEJwogICAgICAgICAgICAgICAgd2hlbiBqb2JzLlN0YXR1cyA9IDUgdGhlbiAnQ09NUExFVEVfV19SRVJVTicKICAgICAgICAgICAgICAgIGVsc2UgJ09USEVSJyAgLS0gY2FzdChqb2JzLnN0YXR1cyBhcyB2YXJjaGFyKDEwKSkKICAgICAgICBlbmQgYXMgc3RhdHVzCiAgICAgICAgICwgam9icy5TdGFydFRpbWUKICAgICAgICAgLCBqb2JzLkVuZFRpbWUKICAgICAgICAgLCBjZmcuRGF0YUZlZWRJRAogICAgICAgICAsIGNmZy5pc01hbnVhbAogICAgICAgICAtLSwgY2ZnLlNjcmlwdAogICAgICAgICAtLSwgKgogICAgZnJvbSBzY2F2ZW5nZXIuU2NhdmVuZ2VySm9icyAoTk9MT0NLKSBqb2JzCiAgICAgICAgIGpvaW4gc2NhdmVuZ2VyLlNjaGVkdWxlSm9icyAoTk9MT0NLKSBjZmcgb24gam9icy5TY2hlZHVsZUpvYklEID0gY2ZnLlNjaGVkdWxlSm9iSUQKICAgIHdoZXJlIDE9MQogICAgICAtLWFuZCBqb2JzLlRTQ3JlYXRlZCA+PSBEQVRFQUREKGhvdXIsIC0yLCAkX190aW1lRnJvbSgpKSAgLS0gR1JBRkFOQSB0aGlzIGlzIGEgbG93ZXIgYm91bmQgKGRvZXMgbm90IG5lZWQgdG8gY2hhbmdlIHdpdGggRFNUKQogICAgICBhbmQgam9icy5UU0NyZWF0ZWQgPj0gJzIwMjAtMDUtMTUnCiAgICAgIC0tIGFuZCBqb2JzLnN0YXR1cyA9IDIgIC0tIENPTVBMRVRFCg==</text>
@@ -324,10 +325,11 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>select *
+from dbo.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">c2VsZWN0IDEK</text>
@@ -336,13 +338,13 @@
         <text encoding="base64">c2VsZWN0IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FjaGU6OmdldDsK</text>
+        <text encoding="base64">c2VsZWN0IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhY2hlLikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FjaGU6OmdldDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhY2hlLikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2990,10 +2992,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIubnVsbG5lc3MucXVhbC5OdWxsYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
