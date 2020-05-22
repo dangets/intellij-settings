@@ -133,12 +133,6 @@
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/scavenger-metrics-kt/build.gradle.kts" timestamp="1589570504806">
-        <mark key="[" line="13" column="71" />
-        <mark key="]" line="13" column="72" />
-        <mark key="." line="13" column="72" />
-        <mark key="^" line="13" column="72" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e50294e-4abb-4834-900d-5185ad5fc97b/console.sql" timestamp="1589994227602">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -181,6 +175,11 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/accounting/aws-calc-service/src/main/java/com/ca/aws/calc/util/TableRow.java" timestamp="1590171664535">
+        <mark key="[" line="62" column="55" />
+        <mark key="]" line="62" column="55" />
+        <mark key="." line="62" column="55" />
       </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1589571076980">
         <mark key="'" line="71" column="52" />
@@ -308,15 +307,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>select *
-from dbo.</text>
+      <register name="&quot;" type="4">
+        <text>.toLowerCase()</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgIHNlbGVjdCBqb2JzLlNjYXZlbmdlckpvYklECiAgICAgICAgIC0tIGRlcml2ZWQgYXR0cmlidXRlcwogICAgICAgICAsIERBVEVBREQoc2Vjb25kLCBkYXRlZGlmZihzZWNvbmQsIGdldGRhdGUoKSwgZ2V0dXRjZGF0ZSgpKSwgam9icy5UU0NyZWF0ZWQpIHRzQ3JlYXRlZFV0YyAtLSBub3QgRFNUIHNhZmUKICAgICAgICAgLCBEQVRFQUREKHNlY29uZCwgZGF0ZWRpZmYoc2Vjb25kLCBnZXRkYXRlKCksIGdldHV0Y2RhdGUoKSksIGpvYnMuU3RhcnRUaW1lKSB0c1N0YXJ0VXRjICAgLS0gbm90IERTVCBzYWZlCiAgICAgICAgICwgREFURUFERChzZWNvbmQsIGRhdGVkaWZmKHNlY29uZCwgZ2V0ZGF0ZSgpLCBnZXR1dGNkYXRlKCkpLCBqb2JzLkVuZFRpbWUpIHRzRW5kVXRjICAgICAgIC0tIG5vdCBEU1Qgc2FmZQogICAgICAgICAsIGRiby5yZWdleGNhcHR1cmUoJ1teL10rLyhbXi9dKyknLCBjZmcuU2NyaXB0LCAxKSBhcyBzY3JpcHREaXIKICAgICAgICAgLCBkYXRlZGlmZihzZWNvbmQsIFN0YXJ0VGltZSwgRW5kVGltZSkgcnVuVGltZV9zICAtLSBtaW51dGUgZ3JhbnVsYXJpdHkKICAgICAgICAgLCBkYXRlZGlmZihzZWNvbmQsIFRTQ3JlYXRlZCwgU3RhcnRUaW1lKSBxdWV1ZVRpbWVfcyAgLS0gbWludXRlIGdyYW51bGFyaXR5CiAgICAgICAgIC0tIGVuZCBkZXJpdmVkIGF0dHJpYnV0ZXMKICAgICAgICAgLCBqb2JzLlRTQ3JlYXRlZAogICAgICAgICAsIGNhc2Ugd2hlbiBqb2JzLnN0YXR1cyA9IDAgdGhlbiAnUVVFVUVEJwogICAgICAgICAgICAgICAgd2hlbiBqb2JzLnN0YXR1cyA9IDEgdGhlbiAnSU5fUFJPR1JFU1MnCiAgICAgICAgICAgICAgICB3aGVuIGpvYnMuU3RhdHVzID0gMiB0aGVuICdDT01QTEVURScKICAgICAgICAgICAgICAgIHdoZW4gam9icy5TdGF0dXMgPSAzIHRoZW4gJ0ZBSUxFRCcKICAgICAgICAgICAgICAgIHdoZW4gam9icy5TdGF0dXMgPSA0IHRoZW4gJ0NBTkNFTEVEJwogICAgICAgICAgICAgICAgd2hlbiBqb2JzLlN0YXR1cyA9IDUgdGhlbiAnQ09NUExFVEVfV19SRVJVTicKICAgICAgICAgICAgICAgIGVsc2UgJ09USEVSJyAgLS0gY2FzdChqb2JzLnN0YXR1cyBhcyB2YXJjaGFyKDEwKSkKICAgICAgICBlbmQgYXMgc3RhdHVzCiAgICAgICAgICwgam9icy5TdGFydFRpbWUKICAgICAgICAgLCBqb2JzLkVuZFRpbWUKICAgICAgICAgLCBjZmcuRGF0YUZlZWRJRAogICAgICAgICAsIGNmZy5pc01hbnVhbAogICAgICAgICAtLSwgY2ZnLlNjcmlwdAogICAgICAgICAtLSwgKgogICAgZnJvbSBzY2F2ZW5nZXIuU2NhdmVuZ2VySm9icyAoTk9MT0NLKSBqb2JzCiAgICAgICAgIGpvaW4gc2NhdmVuZ2VyLlNjaGVkdWxlSm9icyAoTk9MT0NLKSBjZmcgb24gam9icy5TY2hlZHVsZUpvYklEID0gY2ZnLlNjaGVkdWxlSm9iSUQKICAgIHdoZXJlIDE9MQogICAgICAtLWFuZCBqb2JzLlRTQ3JlYXRlZCA+PSBEQVRFQUREKGhvdXIsIC0yLCAkX190aW1lRnJvbSgpKSAgLS0gR1JBRkFOQSB0aGlzIGlzIGEgbG93ZXIgYm91bmQgKGRvZXMgbm90IG5lZWQgdG8gY2hhbmdlIHdpdGggRFNUKQogICAgICBhbmQgam9icy5UU0NyZWF0ZWQgPj0gJzIwMjAtMDUtMTUnCiAgICAgIC0tIGFuZCBqb2JzLnN0YXR1cyA9IDIgIC0tIENPTVBMRVRFCg==</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>.toLowerCase()</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
