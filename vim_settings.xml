@@ -152,12 +152,12 @@
       <file name="/a.sql" timestamp="1590512128103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1590515832356">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1590518254894">
         <mark key="'" line="329" column="44" />
-        <mark key="[" line="348" column="20" />
-        <mark key="]" line="349" column="31" />
-        <mark key="." line="349" column="30" />
-        <mark key="^" line="349" column="31" />
+        <mark key="[" line="348" column="15" />
+        <mark key="]" line="348" column="16" />
+        <mark key="." line="348" column="16" />
+        <mark key="^" line="350" column="22" />
       </file>
       <file name="$USER_HOME$/dev/config1/config1/src/test/java/com/ca/config1/TestHelpers.java" timestamp="1589834666905">
         <mark key="[" line="27" column="112" />
@@ -308,13 +308,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>desc</text>
+        <text>asc</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgIHNlbGVjdCBqb2JzLlNjYXZlbmdlckpvYklECiAgICAgICAgIC0tIGRlcml2ZWQgYXR0cmlidXRlcwogICAgICAgICAsIERBVEVBREQoc2Vjb25kLCBkYXRlZGlmZihzZWNvbmQsIGdldGRhdGUoKSwgZ2V0dXRjZGF0ZSgpKSwgam9icy5UU0NyZWF0ZWQpIHRzQ3JlYXRlZFV0YyAtLSBub3QgRFNUIHNhZmUKICAgICAgICAgLCBEQVRFQUREKHNlY29uZCwgZGF0ZWRpZmYoc2Vjb25kLCBnZXRkYXRlKCksIGdldHV0Y2RhdGUoKSksIGpvYnMuU3RhcnRUaW1lKSB0c1N0YXJ0VXRjICAgLS0gbm90IERTVCBzYWZlCiAgICAgICAgICwgREFURUFERChzZWNvbmQsIGRhdGVkaWZmKHNlY29uZCwgZ2V0ZGF0ZSgpLCBnZXR1dGNkYXRlKCkpLCBqb2JzLkVuZFRpbWUpIHRzRW5kVXRjICAgICAgIC0tIG5vdCBEU1Qgc2FmZQogICAgICAgICAsIGRiby5yZWdleGNhcHR1cmUoJ1teL10rLyhbXi9dKyknLCBjZmcuU2NyaXB0LCAxKSBhcyBzY3JpcHREaXIKICAgICAgICAgLCBkYXRlZGlmZihzZWNvbmQsIFN0YXJ0VGltZSwgRW5kVGltZSkgcnVuVGltZV9zICAtLSBtaW51dGUgZ3JhbnVsYXJpdHkKICAgICAgICAgLCBkYXRlZGlmZihzZWNvbmQsIFRTQ3JlYXRlZCwgU3RhcnRUaW1lKSBxdWV1ZVRpbWVfcyAgLS0gbWludXRlIGdyYW51bGFyaXR5CiAgICAgICAgIC0tIGVuZCBkZXJpdmVkIGF0dHJpYnV0ZXMKICAgICAgICAgLCBqb2JzLlRTQ3JlYXRlZAogICAgICAgICAsIGNhc2Ugd2hlbiBqb2JzLnN0YXR1cyA9IDAgdGhlbiAnUVVFVUVEJwogICAgICAgICAgICAgICAgd2hlbiBqb2JzLnN0YXR1cyA9IDEgdGhlbiAnSU5fUFJPR1JFU1MnCiAgICAgICAgICAgICAgICB3aGVuIGpvYnMuU3RhdHVzID0gMiB0aGVuICdDT01QTEVURScKICAgICAgICAgICAgICAgIHdoZW4gam9icy5TdGF0dXMgPSAzIHRoZW4gJ0ZBSUxFRCcKICAgICAgICAgICAgICAgIHdoZW4gam9icy5TdGF0dXMgPSA0IHRoZW4gJ0NBTkNFTEVEJwogICAgICAgICAgICAgICAgd2hlbiBqb2JzLlN0YXR1cyA9IDUgdGhlbiAnQ09NUExFVEVfV19SRVJVTicKICAgICAgICAgICAgICAgIGVsc2UgJ09USEVSJyAgLS0gY2FzdChqb2JzLnN0YXR1cyBhcyB2YXJjaGFyKDEwKSkKICAgICAgICBlbmQgYXMgc3RhdHVzCiAgICAgICAgICwgam9icy5TdGFydFRpbWUKICAgICAgICAgLCBqb2JzLkVuZFRpbWUKICAgICAgICAgLCBjZmcuRGF0YUZlZWRJRAogICAgICAgICAsIGNmZy5pc01hbnVhbAogICAgICAgICAtLSwgY2ZnLlNjcmlwdAogICAgICAgICAtLSwgKgogICAgZnJvbSBzY2F2ZW5nZXIuU2NhdmVuZ2VySm9icyAoTk9MT0NLKSBqb2JzCiAgICAgICAgIGpvaW4gc2NhdmVuZ2VyLlNjaGVkdWxlSm9icyAoTk9MT0NLKSBjZmcgb24gam9icy5TY2hlZHVsZUpvYklEID0gY2ZnLlNjaGVkdWxlSm9iSUQKICAgIHdoZXJlIDE9MQogICAgICAtLWFuZCBqb2JzLlRTQ3JlYXRlZCA+PSBEQVRFQUREKGhvdXIsIC0yLCAkX190aW1lRnJvbSgpKSAgLS0gR1JBRkFOQSB0aGlzIGlzIGEgbG93ZXIgYm91bmQgKGRvZXMgbm90IG5lZWQgdG8gY2hhbmdlIHdpdGggRFNUKQogICAgICBhbmQgam9icy5UU0NyZWF0ZWQgPj0gJzIwMjAtMDUtMTUnCiAgICAgIC0tIGFuZCBqb2JzLnN0YXR1cyA9IDIgIC0tIENPTVBMRVRFCg==</text>
       </register>
       <register name="-" type="4">
-        <text>desc</text>
+        <text>asc</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
