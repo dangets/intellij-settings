@@ -108,7 +108,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="/console" timestamp="1590098580674">
+      <file name="/console" timestamp="1590507677830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/aig-hack-scripts/src/main/kotlin/com/clearwateranalytics/dg/db/DataSources.kt" timestamp="1589813837786">
@@ -3008,7 +3008,7 @@ from dbo.</text>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
