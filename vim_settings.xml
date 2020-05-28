@@ -108,8 +108,10 @@
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/naic-model/2.53/naic-model-2.53.jar!/com/ca/naic/model/category/InsuranceCategory.class" timestamp="1590634187106">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1590679654878">
-        <mark key="'" line="5" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1590679820367">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/CachedBalanceDao.java" timestamp="1590599839494">
         <mark key="'" line="33" column="17" />
@@ -277,17 +279,23 @@
       <jump line="116" column="30" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/resultsethandler/ActivityRowMapper.java" />
       <jump line="33" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>protected</text>
+      <register name="&quot;" type="2">
+        <text>select *
+from dbo.AccountLevelRowCounts
+where 1=1
+and accountId = 80269</text>
       </register>
-      <register name="+" type="4">
-        <text>dbo.EtlServerAllocations</text>
+      <register name="+" type="2">
+        <text>select *
+from dbo.AccountLevelRowCounts
+where 1=1
+and accountId = 80269</text>
       </register>
       <register name="-" type="4">
         <text>protected</text>
