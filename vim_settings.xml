@@ -160,11 +160,11 @@
         <mark key="]" line="290" column="81" />
         <mark key="." line="290" column="81" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1590677037782">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1590688719672">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/dev/accounting/pom.xml" timestamp="1590603018489">
         <mark key="'" line="12" column="12" />
@@ -286,10 +286,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>select *
-from dbo.AccountLevelRowCounts
-where 1=1
-and accountId = 80269</text>
+        <text encoding="base64">ICBhbmQgdGltZXN0YW1wCg==</text>
       </register>
       <register name="+" type="2">
         <text>select *
@@ -298,7 +295,7 @@ where 1=1
 and accountId = 80269</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>maprow</text>
@@ -307,25 +304,25 @@ and accountId = 80269</text>
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoKQo=</text>
+        <text encoding="base64">ICBhbmQgdGltZXN0YW1wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqCgkgKiBAcGFyYW0gYXdzSWRlbnRpZmllcgoJICogQHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiAoc2VjdXJpdHkgIT0gbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBkYm8uRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">CSAqCgkgKiBAcGFyYW0gYXdzSWRlbnRpZmllcgoJICogQHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnVzZSBhdGhlbmE7Cg==</text>
+        <text encoding="base64">CQlpZiAoc2VjdXJpdHkgIT0gbnVsbCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2973,10 +2970,10 @@ and accountId = 80269</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gTAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBmaWVsZAoJICogQHJldHVybgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
