@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYWxhbmNlRmllbGRzXD4=</entry>
-        <entry encoding="base64">XDxiYWxhbmNlTWFwXD4=</entry>
-        <entry encoding="base64">XDxhd3NJZGVudGlmaWVyXD4=</entry>
-        <entry>testload</entry>
-        <entry>onlyfortable</entry>
-        <entry>insignificant</entry>
-        <entry>get(</entry>
-        <entry>downcast</entry>
         <entry>load</entry>
         <entry>fetchsecurity</entry>
         <entry encoding="base64">XDxDb2xsZWN0aW9uc1w+</entry>
@@ -25,6 +17,14 @@
         <entry encoding="base64">XDxjcmVhdGVBY2NvdW50UnVubmVyXD4=</entry>
         <entry encoding="base64">XDxMb2dnaW5nVGhyZWFkXD4=</entry>
         <entry encoding="base64">XDxqdFw+</entry>
+        <entry>createshouldrun</entry>
+        <entry>getunits</entry>
+        <entry encoding="base64">XDxpbnRlcm5hbEdldFVuaXRzXD4=</entry>
+        <entry>assert</entry>
+        <entry encoding="base64">XDxhc3NlcnREYXRlT25PckFmdGVyU3RhcnREYXRlXD4=</entry>
+        <entry encoding="base64">XDxQYXR0ZXJuXD4=</entry>
+        <entry>getkey</entry>
+        <entry>valuesasof</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,14 +90,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" timestamp="1590546746151">
-        <mark key="'" line="134" column="102" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590598633041">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" timestamp="1590633122471">
+        <mark key="'" line="209" column="109" />
       </file>
       <file name="/console" timestamp="1590631514365">
         <mark key="[" line="0" column="0" />
@@ -109,6 +103,9 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="146" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/naic-model/2.53/naic-model-2.53.jar!/com/ca/naic/model/category/InsuranceCategory.class" timestamp="1590634187106">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/CachedBalanceDao.java" timestamp="1590599839494">
         <mark key="'" line="33" column="17" />
         <mark key="[" line="33" column="12" />
@@ -119,18 +116,38 @@
       <file name="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" timestamp="1590605990590">
         <mark key="'" line="294" column="26" />
       </file>
+      <file name="/a.sql" timestamp="1590598633020">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" timestamp="1590633809824">
+        <mark key="'" line="642" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" timestamp="1590599985524">
+        <mark key="'" line="298" column="83" />
+        <mark key="[" line="290" column="81" />
+        <mark key="]" line="290" column="81" />
+        <mark key="." line="290" column="81" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1590598815563">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/Ledger.java" timestamp="1590632745703">
+        <mark key="'" line="188" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590598633041">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLot.java" timestamp="1590547478559">
         <mark key="[" line="20" column="7" />
         <mark key="]" line="20" column="13" />
         <mark key="." line="20" column="12" />
         <mark key="^" line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/gaap/MockLocalBookkeeper.java" timestamp="1590546458723">
-        <mark key="'" line="152" column="41" />
-        <mark key="[" line="521" column="123" />
-        <mark key="]" line="521" column="134" />
-        <mark key="." line="521" column="133" />
-        <mark key="^" line="521" column="134" />
       </file>
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/DefaultBalanceDao.java" timestamp="1590607236423">
         <mark key="[" line="89" column="4" />
@@ -138,15 +155,15 @@
         <mark key="." line="89" column="10" />
         <mark key="^" line="89" column="11" />
       </file>
-      <file name="/a.sql" timestamp="1590598633020">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" timestamp="1590602663889">
         <mark key="'" line="164" column="28" />
         <mark key="[" line="69" column="92" />
         <mark key="]" line="69" column="118" />
         <mark key="." line="69" column="117" />
         <mark key="^" line="69" column="118" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-lot-lib/17.2/ca-lot-lib-17.2-sources.jar!/com/ca/lot/AbstractLot.java" timestamp="1590632450723">
+        <mark key="'" line="257" column="21" />
       </file>
       <file name="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" timestamp="1590547832656">
         <mark key="'" line="3" column="22" />
@@ -157,22 +174,6 @@
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" timestamp="1590606666140">
         <mark key="'" line="108" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/BalanceLotFromLedger.java" timestamp="1590546078199">
-        <mark key="'" line="47" column="15" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="47" column="84" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.jar!/it/unimi/dsi/fastutil/ints/Int2LongMap.class" timestamp="1590547193862">
-        <mark key="'" line="18" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" timestamp="1590599985524">
-        <mark key="'" line="298" column="83" />
-        <mark key="[" line="290" column="81" />
-        <mark key="]" line="290" column="81" />
-        <mark key="." line="290" column="81" />
-      </file>
       <file name="$USER_HOME$/dev/accounting/pom.xml" timestamp="1590603018489">
         <mark key="'" line="12" column="12" />
         <mark key="[" line="412" column="27" />
@@ -180,46 +181,11 @@
         <mark key="^" line="412" column="30" />
         <mark key="." line="412" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1590598815563">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="13" />
-      </file>
-      <file name="/fragment.java" timestamp="1590547039758">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" timestamp="1590607980342">
         <mark key="'" line="107" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="754" column="40" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="39" column="42" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="46" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="152" column="46" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="289" column="31" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="496" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="497" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="498" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="501" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="502" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="503" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="506" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="507" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="508" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="511" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="512" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="513" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="742" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="743" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="747" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="748" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="752" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="753" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="757" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="758" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
       <jump line="21" column="52" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
       <jump line="77" column="22" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
@@ -294,6 +260,32 @@
       <jump line="114" column="29" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
       <jump line="152" column="15" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
       <jump line="107" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="230" column="72" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="34" column="41" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-lot-lib/17.2/ca-lot-lib-17.2-sources.jar!/com/ca/lot/AbstractLot.java" />
+      <jump line="257" column="21" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-lot-lib/17.2/ca-lot-lib-17.2-sources.jar!/com/ca/lot/AbstractLot.java" />
+      <jump line="542" column="19" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/Ledger.java" />
+      <jump line="583" column="19" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/Ledger.java" />
+      <jump line="621" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/Ledger.java" />
+      <jump line="631" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/Ledger.java" />
+      <jump line="188" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/Ledger.java" />
+      <jump line="11" column="23" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
+      <jump line="186" column="103" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
+      <jump line="191" column="20" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
+      <jump line="195" column="32" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
+      <jump line="196" column="28" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
+      <jump line="197" column="131" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
+      <jump line="209" column="109" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
+      <jump line="237" column="93" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="281" column="113" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="306" column="48" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="310" column="48" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="497" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="505" column="30" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="515" column="30" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="638" column="56" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="642" column="56" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/naic-model/2.53/naic-model-2.53.jar!/com/ca/naic/model/category/InsuranceCategory.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +300,7 @@
         <text>protected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqdFw+</text>
+        <text>valuesasof</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -2992,13 +2984,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqdFw+</last-search>
+      <last-search>valuesasof</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqdFw+</last-pattern>
+      <last-pattern>valuesasof</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
