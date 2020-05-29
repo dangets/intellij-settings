@@ -96,8 +96,10 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics-ws/analytics-services/src/main/java/com/clearwateranalytics/analytics/services/analytics/sources/bane/BaneClient.java" timestamp="1590772779990">
+      <file name="$USER_HOME$/dev/analytics-ws/analytics-services/src/main/java/com/clearwateranalytics/analytics/services/analytics/sources/bane/BaneClient.java" timestamp="1590773570207">
         <mark key="'" line="100" column="17" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="109" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" timestamp="1590633122471">
         <mark key="'" line="209" column="109" />
@@ -283,13 +285,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbmQgdGltZXN0YW1wCg==</text>
+        <text encoding="base64">CQkJZmluYWwgaW50IHNlY3VyaXR5Q291bnQgPSByZXF1ZXN0LmdldElucHV0TWFwKCkuc2l6ZSgpOwoJCQlpZiAoc2VjdXJpdHlDb3VudCA+IFJFUVVFU1RfU0laRV9USFJFU0hPTEQpCgkJCXsKCQkJCUxPRy5pbmZvKFN0cmluZy5mb3JtYXQoIlJlY2VpdmVkIGxhcmdlIGFuYWx5dGljcyByZXF1ZXN0IGZvciAlcyBzZWN1cml0aWVzIGZyb20gdXNlciAlczogJXMiLAoJCQkJCXNlY3VyaXR5Q291bnQsIHJlcXVlc3QuZ2V0VXNlcm5hbWUoKSwgcmVxdWVzdC5nZXRJbnB1dE1hcCgpLmtleVNldCgpKSk7CgkJCX0K</text>
       </register>
       <register name="+" type="2">
-        <text>select *
-from dbo.AccountLevelRowCounts
-where 1=1
-and accountId = 80269</text>
+        <text encoding="base64">CQkJZmluYWwgaW50IHNlY3VyaXR5Q291bnQgPSByZXF1ZXN0LmdldElucHV0TWFwKCkuc2l6ZSgpOwoJCQlpZiAoc2VjdXJpdHlDb3VudCA+IFJFUVVFU1RfU0laRV9USFJFU0hPTEQpCgkJCXsKCQkJCUxPRy5pbmZvKFN0cmluZy5mb3JtYXQoIlJlY2VpdmVkIGxhcmdlIGFuYWx5dGljcyByZXF1ZXN0IGZvciAlcyBzZWN1cml0aWVzIGZyb20gdXNlciAlczogJXMiLAoJCQkJCXNlY3VyaXR5Q291bnQsIHJlcXVlc3QuZ2V0VXNlcm5hbWUoKSwgcmVxdWVzdC5nZXRJbnB1dE1hcCgpLmtleVNldCgpKSk7CgkJCX0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
