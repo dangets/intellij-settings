@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>blah</entry>
         <entry>mssql</entry>
         <entry encoding="base64">XDx0aHJlYWRzXD4=</entry>
         <entry encoding="base64">XDxjb3Jlc1w+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyb3dNYXBwZXJcPg==</entry>
         <entry>maprow</entry>
         <entry>loglargerequest</entry>
+        <entry encoding="base64">XDxsb2dMYXJnZVJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -96,8 +96,8 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/analytics-ws/analytics-services/src/main/java/com/clearwateranalytics/analytics/services/analytics/sources/bane/BaneClient.java" timestamp="1590766550424">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/analytics-ws/analytics-services/src/main/java/com/clearwateranalytics/analytics/services/analytics/sources/bane/BaneClient.java" timestamp="1590772779990">
+        <mark key="'" line="100" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" timestamp="1590633122471">
         <mark key="'" line="209" column="109" />
@@ -178,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="41" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
       <jump line="121" column="45" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
       <jump line="123" column="15" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
       <jump line="126" column="45" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
@@ -278,6 +277,7 @@
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/analytics-ws/analytics-services/src/main/java/com/clearwateranalytics/analytics/services/analytics/sources/bane/BaneClient.java" />
+      <jump line="100" column="17" filename="$USER_HOME$/dev/analytics-ws/analytics-services/src/main/java/com/clearwateranalytics/analytics/services/analytics/sources/bane/BaneClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,7 +295,7 @@ and accountId = 80269</text>
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>loglargerequest</text>
+        <text encoding="base64">XDxsb2dMYXJnZVJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -2979,9 +2979,9 @@ and accountId = 80269</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>loglargerequest</last-search>
+      <last-search encoding="base64">XDxsb2dMYXJnZVJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>loglargerequest</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dMYXJnZVJlcXVlc3RcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
