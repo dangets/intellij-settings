@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>valuesasof</entry>
-        <entry>stream</entry>
-        <entry encoding="base64">XDxyb3dNYXBwZXJcPg==</entry>
-        <entry>maprow</entry>
-        <entry>loglargerequest</entry>
-        <entry encoding="base64">XDxsb2dMYXJnZVJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxidWlsZENvbm5lY3Rpb25VcmxcPg==</entry>
         <entry>feature-flags</entry>
         <entry>tabular</entry>
@@ -25,6 +19,12 @@
         <entry encoding="base64">XDx1c2VyTmFtZUNhY2hlXD4=</entry>
         <entry>karate</entry>
         <entry>jersey</entry>
+        <entry encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</entry>
+        <entry encoding="base64">XDxGRUFUVVJFX0ZMQUdTX1dSSVRFX1BFUk1JU1NJT05fSURcPg==</entry>
+        <entry encoding="base64">XDxSRVFVRVNUX01FVEhPRF9FWEVDVVRPUlw+</entry>
+        <entry encoding="base64">XDxBVVRIRU5USUNBVEVEX1RZUEVTXD4=</entry>
+        <entry encoding="base64">XDxJTlRFUk5BTF9BVVRIX1NFUlZFUlw+</entry>
+        <entry encoding="base64">XDxBVVRIX1JFU09VUkNFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -119,6 +119,19 @@
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureLoader.java" timestamp="1591129549653">
         <mark key="'" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" timestamp="1591134562837">
+        <mark key="'" line="37" column="34" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="57" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthenticationService.java" timestamp="1591134580376">
+        <mark key="'" line="4" column="39" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/DonnerPactTest.java" timestamp="1591130898859">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="43" column="25" />
@@ -127,6 +140,12 @@
       </file>
       <file name="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" timestamp="1591131035326">
         <mark key="'" line="31" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/StatusRegistryModule.java" timestamp="1591133711155">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="8" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591130150473">
         <mark key="'" line="32" column="32" />
@@ -144,19 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="$MAVEN_REPOSITORY$/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.jar!/it/unimi/dsi/fastutil/ints/Int2LongMap.class" />
-      <jump line="33" column="17" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/CachedBalanceDao.java" />
-      <jump line="298" column="83" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="141" column="93" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="161" column="70" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="163" column="50" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="42" column="41" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="55" column="35" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="64" column="13" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="67" column="49" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="144" column="11" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="162" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
       <jump line="12" column="12" filename="$USER_HOME$/dev/accounting/pom.xml" />
       <jump line="181" column="63" filename="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" />
       <jump line="305" column="94" filename="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" />
@@ -244,45 +250,58 @@
       <jump line="46" column="55" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
       <jump line="31" column="65" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
       <jump line="267" column="24" filename="$USER_HOME$/dev/feature-flags/pom.xml" />
+      <jump line="82" column="15" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="2" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="42" column="50" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="39" column="29" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="36" column="34" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="33" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="96" column="40" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="38" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="35" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="37" column="34" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthenticationService.java" />
+      <jump line="4" column="39" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthenticationService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHVzZXJJZAogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PEludGVnZXI+IGdldFVzZXJQZXJtaXNzaW9ucyhpbnQgdXNlcklkKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return super.configure();</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>jersey</text>
+        <text encoding="base64">XDxBVVRIX1JFU09VUkNFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHVzZXJJZAogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8Y2xlYXJ3YXRlci5zY20uYnJhbmNoPnRydW5rPC9jbGVhcndhdGVyLnNjbS5icmFuY2g+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5hdS5jb20uZGl1czwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnBhY3QtanZtLXByb3ZpZGVyLWp1bml0XzIuMTI8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExpc3Q8U3RyaW5nPiBBVVRIRU5USUNBVEVEX1RZUEVTID0gTGlzdHMubmV3QXJyYXlMaXN0KCJQT1NUIiwgIlBVVCIsICJERUxFVEUiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmNsZWFyd2F0ZXJhbmFseXRpY3MuYnVzaW5lc3M8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmJ1c2luZXNzLXdzLWNsaWVudDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+NS4yMC4xPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="6" type="2">
-        <text>create database DexMetrics</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBsbS4K</text>
+        <text encoding="base64">CQk8Y2xlYXJ3YXRlci5zY20uYnJhbmNoPnRydW5rPC9jbGVhcndhdGVyLnNjbS5icmFuY2g+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2930,10 +2949,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgdGltZXN0YW1wCg==</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5hdS5jb20uZGl1czwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnBhY3QtanZtLXByb3ZpZGVyLWp1bml0XzIuMTI8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmNsZWFyd2F0ZXJhbmFseXRpY3MuYnVzaW5lc3M8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmJ1c2luZXNzLXdzLWNsaWVudDwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+NS4yMC4xPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2942,9 +2961,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>jersey</last-search>
+      <last-search encoding="base64">XDxBVVRIX1JFU09VUkNFXD4=</last-search>
       <last-offset />
-      <last-pattern>jersey</last-pattern>
+      <last-pattern encoding="base64">XDxBVVRIX1JFU09VUkNFXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
