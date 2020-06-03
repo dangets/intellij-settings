@@ -90,12 +90,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591158622466">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591193581576">
         <mark key="'" line="153" column="24" />
         <mark key="[" line="212" column="21" />
-        <mark key="]" line="212" column="27" />
-        <mark key="." line="212" column="26" />
-        <mark key="^" line="212" column="27" />
+        <mark key="]" line="212" column="37" />
+        <mark key="." line="212" column="36" />
+        <mark key="^" line="212" column="37" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthServiceInternalAuthentication.java" timestamp="1591136394487">
         <mark key="[" line="17" column="14" />
@@ -138,12 +138,12 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591157954068">
+      <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591193622104">
         <mark key="'" line="23" column="26" />
-        <mark key="[" line="268" column="41" />
-        <mark key="]" line="267" column="25" />
-        <mark key="." line="267" column="24" />
-        <mark key="^" line="267" column="25" />
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="45" column="29" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/ReguClientPactTest.java" timestamp="1591158289298">
         <mark key="[" line="37" column="0" />
@@ -151,11 +151,11 @@
         <mark key="^" line="48" column="25" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591136862504">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="19" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591193912305">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="41" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" timestamp="1591136816737">
         <mark key="'" line="58" column="20" />
@@ -163,12 +163,12 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" timestamp="1591156489330">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" timestamp="1591193969811">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/RequestContextFactory.java" timestamp="1591157350995">
         <mark key="[" line="10" column="0" />
@@ -181,12 +181,12 @@
         <mark key="." line="30" column="52" />
         <mark key="^" line="30" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591157404294">
-        <mark key="'" line="55" column="5" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591193988561">
+        <mark key="'" line="59" column="5" />
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591157293367">
         <mark key="[" line="65" column="0" />
@@ -309,14 +309,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>${jersey.version}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IE5PX0FVVEhfVVNFUl9JRCA9IDE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>${jersey.version}</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>servlet</text>
@@ -325,25 +325,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENhdGVnb3J5KFByb3ZpZGVyQ29udHJhY3RUZXN0LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlRmxhZ3NDb21wb25lbnQgZmVhdHVyZUZsYWdzQ29tcG9uZW50ID0gRGFnZ2VyRmVhdHVyZUZsYWdzQ29tcG9uZW50LmNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIFNldDxJbnRlZ2VyPiBnZXRVc2VyUGVybWlzc2lvbnMoaW50IHVzZXJJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlRmxhZ3NDb21wb25lbnQgZmVhdHVyZUZsYWdzQ29tcG9uZW50ID0gRGFnZ2VyRmVhdHVyZUZsYWdzQ29tcG9uZW50LmNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTnVsbGFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUExJQ0FUSU9OX05BTUUgPSAiRmVhdHVyZUZsYWdzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2991,10 +2991,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidXNpbmVzc0NsaWVudC5nZXRVc2VyUmVzb3VyY2UoKS5sb2dvdXQodXNlcklkLCByZXF1ZXN0Q29udGV4dC5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
