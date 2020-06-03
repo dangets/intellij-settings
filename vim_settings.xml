@@ -151,11 +151,12 @@
         <mark key="^" line="48" column="25" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591196075547">
-        <mark key="'" line="63" column="55" />
-        <mark key="[" line="51" column="66" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591197264637">
+        <mark key="'" line="65" column="55" />
+        <mark key="[" line="81" column="70" />
+        <mark key="]" line="81" column="88" />
+        <mark key="." line="81" column="87" />
+        <mark key="^" line="81" column="88" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" timestamp="1591194065248">
         <mark key="'" line="71" column="42" />
@@ -164,12 +165,12 @@
         <mark key="." line="81" column="63" />
         <mark key="^" line="81" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" timestamp="1591194327059">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" timestamp="1591197191702">
         <mark key="'" line="15" column="8" />
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="70" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/RequestContextFactory.java" timestamp="1591157350995">
         <mark key="[" line="10" column="0" />
@@ -310,14 +311,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>incorrect username</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE5PTl9DV0FOX1VTRVIudXNlcm5hbWUsIDAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>incorrect username</text>
       </register>
       <register name="/" type="4">
         <text>servlet</text>
@@ -326,25 +327,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJzLikKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5PTl9DV0FOX1VTRVIudXNlcm5hbWUsIDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHVzZXJJZCA9IHVzZXJuYW1lVG9JZHMuY29tcHV0ZUlmQWJzZW50KHVzZXJuYW1lLCB4IC0+IHVzZXJJZENvdW50ZXIrKyk7CiAgICAgICAgICAgIHJldHVybiBuZXcgVXNlcih1c2VySWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiB1c2VybmFtZVRvSWRzLmVudHJ5U2V0KCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKGVudHJ5IC0+IGVudHJ5LmdldFZhbHVlKCkgPT0gdXNlcklkKQogICAgICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgICAgICAgICAgICAgIC5tYXAoZW50cnkgLT4gZW50cnkuZ2V0S2V5KCkuKTsKICAgICAgICAgICAgcmV0dXJuIHVzZXJJZCAhPSBOT19BVVRIX1VTRVJfSUQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnQgdXNlcklkQ291bnRlciA9IDA7CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTWFwPFN0cmluZywgSW50ZWdlcj4gdXNlcm5hbWVUb0lkcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IE5PX0FVVEhfVVNFUl9JRCA9IDE7CiAgICBwdWJsaWMgc3RhdGljIGludCBBVVRIX1VTRVJfSUQgPSAxOwoK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBJbnRlZ2VyPiB1c2VybmFtZVRvSWRzID0gTWFwLm9mKAogICAgICAgICAgICAgICAgTk9OX0NXQU5fVVNFUi51c2VybmFtZSwgMCwKICAgICAgICAgICAgICAgIENXQU5fVVNFUl9OT19XUklURS51c2VybmFtZSwgMSwKICAgICAgICAgICAgICAgIENXQU5fVVNFUl9XSVRIX1dSSVRFLnVzZXJuYW1lLCAyCiAgICAgICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnQgdXNlcklkQ291bnRlciA9IDA7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2992,10 +2993,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFRlc3RVc2VyIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5PTl9DV0FOX1VTRVIudXNlcm5hbWUsIDAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
