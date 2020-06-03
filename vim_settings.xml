@@ -172,14 +172,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591153047748">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591153977055">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="48" column="5" />
-        <mark key="]" line="47" column="41" />
-        <mark key="^" line="47" column="41" />
-        <mark key="." line="47" column="40" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591152947693">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591153904762">
         <mark key="'" line="96" column="25" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="65" column="116" />
@@ -303,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbG9naW5SZXNwb25zZSA9IGJ1c2luZXNzQ2xpZW50LmdldFVzZXJSZXNvdXJjZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5sb2dpbih1c2VybmFtZSwgbG9naW5DcmVkZW50aWFscy5nZXRQYXNzd29yZCgpLCBSZXF1ZXN0Q29udGV4dEZhY3RvcnkuQVBQTElDQVRJT05fTkFNRSwgMSk7Cg==</text>
@@ -318,25 +317,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFVzZXIgewogICAgICAgIGludCB1c2VySWQ7CiAgICB9CiAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBsb2dpbgogICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIFVzZXIgewogICAgICAgIGludCB1c2VySWQ7CiAgICB9CiAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVXNlciB7CiAgICAgICAgaW50IHVzZXJJZDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBsb2dpbgogICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2984,10 +2983,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVXNlciB7CiAgICAgICAgaW50IHVzZXJJZDsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
