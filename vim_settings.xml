@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBUFBMSUNBVElPTl9OQU1FXD4=</entry>
         <entry encoding="base64">XDxOdWxsYWJsZVw+</entry>
         <entry>jersey</entry>
         <entry encoding="base64">XDxEYXRhTGF5ZXJQYWN0VGVzdFw+</entry>
@@ -25,6 +24,7 @@
         <entry>hk2</entry>
         <entry encoding="base64">XDxBdXRoVG9rZW5Db3JlXD4=</entry>
         <entry>blah</entry>
+        <entry encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -154,10 +154,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/FeatureFlagsComponent.java" timestamp="1591220212382">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/FeatureFlagsComponent.java" timestamp="1591221550294">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="33" />
       </file>
       <file name="$USER_HOME$/dev/pricing-strawman/src/test/kotlin/com/ca/pricing/karate/price.feature" timestamp="1591213998472">
         <mark key="'" line="2" column="6" />
@@ -167,10 +168,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1591212707973">
         <mark key="[" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591220685094">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591221617681">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/ResourcesModule.java" timestamp="1591220652216">
         <mark key="[" line="19" column="0" />
@@ -185,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
       <jump line="54" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
       <jump line="38" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
       <jump line="35" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
@@ -285,45 +287,46 @@
       <jump line="23" column="8" filename="$USER_HOME$/dev/feature-flags/pom.xml" />
       <jump line="149" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
       <jump line="2" column="29" filename="$USER_HOME$/dev/prometheus-group/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/security/lifecycle/AuthTokenInterceptor.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3Rlcgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgQ2xhc3M8PyBleHRlbmRzIEFubm90YXRpb24+IGFubm90YXRpb25UeXBlKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9KQo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4zLjIuMjwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">bmV3IFByb3ZpZGVyPD4oKSB7</text>
       </register>
       <register name="/" type="4">
-        <text>blah</text>
+        <text encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3Rlcgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgQ2xhc3M8PyBleHRlbmRzIEFubm90YXRpb24+IGFubm90YXRpb25UeXBlKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoRmlsdGVyKEF1dGhSZXF1ZXN0RmlsdGVyIGF1dGhSZXF1ZXN0RmlsdGVyKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoUmVzb3VyY2UoQXV0aFJlc291cmNlIGF1dGhSZXNvdXJjZSk7Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBQcm92aWRlcwogICAgQXV0aFNlcnZpY2UgYXV0aFNlcnZpY2UoKTsKCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZWdpc3Rlcgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoRmlsdGVyKEF1dGhSZXF1ZXN0RmlsdGVyIGF1dGhSZXF1ZXN0RmlsdGVyKTsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoUmVzb3VyY2UoQXV0aFJlc291cmNlIGF1dGhSZXNvdXJjZSk7Cgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8L3BsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgIEBQcm92aWRlcwogICAgQXV0aFNlcnZpY2UgYXV0aFNlcnZpY2UoKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8cGx1Z2lucz4K</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3Rlcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2971,10 +2974,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXYK</text>
+        <text encoding="base64">CQk8cGx1Z2lucz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2983,9 +2986,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>blah</last-search>
+      <last-search encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</last-search>
       <last-offset />
-      <last-pattern>blah</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
