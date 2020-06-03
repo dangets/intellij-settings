@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>kotlin</entry>
         <entry>guava</entry>
         <entry encoding="base64">XDxQYWlyc1w+</entry>
         <entry encoding="base64">XDxQYWlyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDx1c2VyUmVzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDx1c2VyQXV0aGVudGljYXRlZFw+</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -161,27 +161,29 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" timestamp="1591152928043">
-        <mark key="[" line="20" column="50" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="49" />
-        <mark key="^" line="20" column="50" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" timestamp="1591155409297">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="46" />
+        <mark key="." line="30" column="45" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/FeatureFlagsComponent.java" timestamp="1591152244807">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591153977055">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591155455102">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="70" column="65" />
+        <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591153904762">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591155424496">
         <mark key="'" line="96" column="25" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="65" column="116" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="87" />
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="44" />
       </file>
@@ -197,9 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/Ledger.java" />
-      <jump line="11" column="23" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
-      <jump line="186" column="103" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
       <jump line="191" column="20" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
       <jump line="195" column="32" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
       <jump line="196" column="28" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-naic-lib/6.7/ca-naic-lib-6.7.jar!/com/ca/naic/ExemptSecurityTypePredicates.class" />
@@ -297,6 +296,9 @@
       <jump line="59" column="22" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="27" column="37" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/cache/UserNameCache.java" />
       <jump line="96" column="25" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="50" column="3" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,13 +307,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbG9naW5SZXNwb25zZSA9IGJ1c2luZXNzQ2xpZW50LmdldFVzZXJSZXNvdXJjZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5sb2dpbih1c2VybmFtZSwgbG9naW5DcmVkZW50aWFscy5nZXRQYXNzd29yZCgpLCBSZXF1ZXN0Q29udGV4dEZhY3RvcnkuQVBQTElDQVRJT05fTkFNRSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBidXNpbmVzc0NsaWVudC5nZXRVc2VyUmVzb3VyY2UoKS5sb2dvdXQodXNlcklkLCByZXF1ZXN0Q29udGV4dC5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LoginResult</text>
+        <text>requestContext.getSessionId()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyQXV0aGVudGljYXRlZFw+</text>
+        <text>blah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -323,19 +325,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFVzZXIgewogICAgICAgIGludCB1c2VySWQ7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBsb2dpbgogICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2986,7 +2988,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVXNlciB7CiAgICAgICAgaW50IHVzZXJJZDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2995,9 +2997,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1c2VyQXV0aGVudGljYXRlZFw+</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyQXV0aGVudGljYXRlZFw+</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
