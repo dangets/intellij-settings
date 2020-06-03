@@ -6,11 +6,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://boi-mssql-db4;database=CustodyData;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="perseus@prod-recondb" uuid="1b0d8c3c-c72c-4e46-8b80-b044d029ce01">
+    <data-source source="LOCAL" name="perseus@boi-recondb" uuid="1b0d8c3c-c72c-4e46-8b80-b044d029ce01">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://prod-recondb;database=perseus;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://boi-recondb;database=perseus;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="CustodyData@dev-cust-db" uuid="0e50294e-4abb-4834-900d-5185ad5fc97b">
       <driver-ref>sqlserver.ms</driver-ref>
@@ -53,6 +53,12 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://dev-aws-db3;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@st-recondb" uuid="f2a9d6d3-6bd0-41c2-8a66-a1396186e4cd">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://st-recondb;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
   </component>
 </application>

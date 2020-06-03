@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYWxhbmNlRmllbGRzXD4=</entry>
-        <entry encoding="base64">XDxiYWxhbmNlTWFwXD4=</entry>
-        <entry encoding="base64">XDxhd3NJZGVudGlmaWVyXD4=</entry>
-        <entry>testload</entry>
-        <entry>onlyfortable</entry>
-        <entry>insignificant</entry>
-        <entry>get(</entry>
-        <entry>downcast</entry>
-        <entry>load</entry>
-        <entry>fetchsecurity</entry>
-        <entry encoding="base64">XDxDb2xsZWN0aW9uc1w+</entry>
-        <entry encoding="base64">XDxzZWN1cml0eU1hcFw+</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</entry>
+        <entry encoding="base64">XDxBUFBMSUNBVElPTl9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxOdWxsYWJsZVw+</entry>
+        <entry>jersey</entry>
+        <entry encoding="base64">XDxEYXRhTGF5ZXJQYWN0VGVzdFw+</entry>
+        <entry>servlet</entry>
+        <entry>karate</entry>
+        <entry>pact</entry>
+        <entry>kotlin</entry>
+        <entry>business</entry>
+        <entry>junit</entry>
+        <entry encoding="base64">XDxhc3NlcnRGYWxzZVw+</entry>
+        <entry encoding="base64">XDxUZXN0XD4=</entry>
+        <entry encoding="base64">XDxhc3NlcnRUcnVlXD4=</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0TWV0aG9kRXhlY3V0b3JGYWtlXD4=</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry>http</entry>
+        <entry>failsafe</entry>
         <entry>blah</entry>
-        <entry>mssql</entry>
-        <entry encoding="base64">XDx0aHJlYWRzXD4=</entry>
-        <entry encoding="base64">XDxjb3Jlc1w+</entry>
-        <entry encoding="base64">XDxjcmVhdGVKb2JDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVBY2NvdW50UnVubmVyXD4=</entry>
-        <entry encoding="base64">XDxMb2dnaW5nVGhyZWFkXD4=</entry>
-        <entry encoding="base64">XDxqdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,249 +90,232 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" timestamp="1590546746151">
-        <mark key="'" line="134" column="102" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/EnabledFeaturesTest.java" timestamp="1591206308929">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590598633041">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/console" timestamp="1591216830074">
+      <file name="/Dummy.txt" timestamp="1591216607007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws/src/main/java/com/ca/aws/supplier/DbDateBalanceSupplier.java" timestamp="1590547398013">
-        <mark key="'" line="164" column="19" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="146" column="17" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591216382331">
+        <mark key="'" line="2" column="63" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/CachedBalanceDao.java" timestamp="1590599839494">
-        <mark key="'" line="33" column="17" />
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="18" />
-        <mark key="^" line="33" column="18" />
-        <mark key="." line="33" column="17" />
+      <file name="$USER_HOME$/dev/pricing-strawman/src/test/kotlin/com/ca/pricing/karate/price.feature" timestamp="1591213998472">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" timestamp="1590605990590">
-        <mark key="'" line="294" column="26" />
+      <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591215892481">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="290" column="30" />
+        <mark key="]" line="290" column="31" />
+        <mark key="." line="290" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLot.java" timestamp="1590547478559">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/gaap/MockLocalBookkeeper.java" timestamp="1590546458723">
-        <mark key="'" line="152" column="41" />
-        <mark key="[" line="521" column="123" />
-        <mark key="]" line="521" column="134" />
-        <mark key="." line="521" column="133" />
-        <mark key="^" line="521" column="134" />
-      </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/DefaultBalanceDao.java" timestamp="1590607236423">
-        <mark key="[" line="89" column="4" />
-        <mark key="]" line="89" column="11" />
-        <mark key="." line="89" column="10" />
-        <mark key="^" line="89" column="11" />
-      </file>
-      <file name="/a.sql" timestamp="1590598633020">
+      <file name="/console" timestamp="1591216704933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" timestamp="1590602663889">
-        <mark key="'" line="164" column="28" />
-        <mark key="[" line="69" column="92" />
-        <mark key="]" line="69" column="118" />
-        <mark key="." line="69" column="117" />
-        <mark key="^" line="69" column="118" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1591212707973">
+        <mark key="[" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" timestamp="1590547832656">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/Jenkinsfile" timestamp="1591206846752">
+        <mark key="'" line="3" column="116" />
+        <mark key="[" line="3" column="116" />
+        <mark key="]" line="3" column="116" />
+        <mark key="." line="3" column="116" />
+        <mark key="^" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" timestamp="1590606666140">
-        <mark key="'" line="108" column="46" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591216547877">
+        <mark key="'" line="22" column="38" />
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="13" />
+        <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/BalanceLotFromLedger.java" timestamp="1590546078199">
-        <mark key="'" line="47" column="15" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="47" column="84" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591216443872">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.jar!/it/unimi/dsi/fastutil/ints/Int2LongMap.class" timestamp="1590547193862">
-        <mark key="'" line="18" column="17" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/ff.feature" timestamp="1591214300758">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" timestamp="1590599985524">
-        <mark key="'" line="298" column="83" />
-        <mark key="[" line="290" column="81" />
-        <mark key="]" line="290" column="81" />
-        <mark key="." line="290" column="81" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientIT.java" timestamp="1591206439954">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/pom.xml" timestamp="1590603018489">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="412" column="27" />
-        <mark key="]" line="412" column="30" />
-        <mark key="^" line="412" column="30" />
-        <mark key="." line="412" column="29" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/util/ServiceUnavailableException.java" timestamp="1591207555689">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1590598815563">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="13" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" timestamp="1591206679216">
+        <mark key="'" line="5" column="32" />
+        <mark key="[" line="118" column="76" />
+        <mark key="]" line="118" column="76" />
+        <mark key="^" line="118" column="40" />
+        <mark key="." line="118" column="76" />
       </file>
-      <file name="/fragment.java" timestamp="1590547039758">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/pom.xml" timestamp="1591206973465">
+        <mark key="'" line="23" column="19" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591216607037">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" timestamp="1590607980342">
-        <mark key="'" line="107" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="754" column="40" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="39" column="42" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="46" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="152" column="46" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="289" column="31" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="496" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="497" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="498" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="501" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="502" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="503" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="506" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="507" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="508" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="511" column="38" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="512" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="513" column="27" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="742" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="743" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="747" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="748" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="752" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="753" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="757" column="39" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="758" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="21" column="52" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="77" column="22" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="31" column="75" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="64" column="4" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="338" column="43" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/GaapBalanceField.java" />
-      <jump line="339" column="79" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/GaapBalanceField.java" />
-      <jump line="105" column="41" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="121" column="45" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="123" column="15" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="126" column="45" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="448" column="18" filename="$MAVEN_REPOSITORY$/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.jar!/it/unimi/dsi/fastutil/ints/Int2ObjectMaps.class" />
-      <jump line="99" column="15" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="88" column="22" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="89" column="15" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="29" column="55" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
-      <jump line="165" column="19" filename="$USER_HOME$/dev/accounting/aws/src/main/java/com/ca/aws/supplier/DbDateBalanceSupplier.java" />
-      <jump line="19" column="4" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="23" column="29" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="56" column="54" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="64" column="15" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="70" column="38" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="107" column="49" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="125" column="51" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="143" column="31" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="18" column="30" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="53" column="8" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="46" column="13" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="20" column="47" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="51" column="4" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="60" column="29" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="2" column="22" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="3" column="22" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/balance/BalanceLotFromValues.java" />
-      <jump line="49" column="15" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/BalanceLotFromLedger.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" />
-      <jump line="152" column="41" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/gaap/MockLocalBookkeeper.java" />
-      <jump line="68" column="111" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" />
-      <jump line="290" column="71" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="291" column="71" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" />
-      <jump line="190" column="26" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" />
-      <jump line="193" column="102" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" />
-      <jump line="131" column="26" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" />
-      <jump line="134" column="102" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDaoTest.java" />
-      <jump line="18" column="17" filename="$MAVEN_REPOSITORY$/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.jar!/it/unimi/dsi/fastutil/ints/Int2LongMap.class" />
-      <jump line="33" column="17" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/CachedBalanceDao.java" />
-      <jump line="298" column="83" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="141" column="93" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="161" column="70" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="163" column="50" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="42" column="41" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="55" column="35" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="64" column="13" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="67" column="49" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="144" column="11" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="162" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/activity/DailyFxRateChangeLotGenerator.java" />
-      <jump line="12" column="12" filename="$USER_HOME$/dev/accounting/pom.xml" />
-      <jump line="181" column="63" filename="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" />
-      <jump line="305" column="94" filename="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" />
-      <jump line="376" column="22" filename="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" />
-      <jump line="446" column="32" filename="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" />
-      <jump line="294" column="26" filename="$USER_HOME$/dev/accounting/aws-cli/src/main/java/com/ca/aws/cli/Cli.java" />
-      <jump line="13" column="25" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="24" column="15" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="29" column="15" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="85" column="27" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="86" column="12" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="88" column="38" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="103" column="46" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="108" column="46" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/util/LoggingStopWatch.java" />
-      <jump line="114" column="29" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
-      <jump line="152" column="15" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
+      <jump line="42" column="50" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="39" column="29" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="33" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="38" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="35" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="37" column="34" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthenticationService.java" />
+      <jump line="4" column="39" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthenticationService.java" />
+      <jump line="34" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="96" column="40" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="106" column="19" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="91" column="19" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="87" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="93" column="67" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="69" column="15" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="2" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="25" column="50" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="30" column="4" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="45" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="58" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="43" column="24" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" />
+      <jump line="18" column="22" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/ResourcesModule.java" />
+      <jump line="95" column="31" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="112" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="61" column="68" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="56" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="59" column="22" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="27" column="37" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/cache/UserNameCache.java" />
+      <jump line="96" column="25" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="50" column="3" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="33" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="38" column="68" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="32" column="32" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="39" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="113" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="8" column="37" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="50" column="24" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="53" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="57" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="58" column="22" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="60" column="68" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="67" column="61" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="2" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="52" column="57" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="76" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="11" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="55" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/DataLayerPactTest.java" />
+      <jump line="30" column="35" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
+      <jump line="25" column="58" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
+      <jump line="82" column="4" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="71" column="42" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="28" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="26" column="50" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="45" column="55" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="23" column="4" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="19" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
+      <jump line="28" column="58" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
+      <jump line="23" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="280" column="0" filename="$USER_HOME$/dev/feature-flags/pom.xml" />
+      <jump line="181" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="23" column="19" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/pom.xml" />
+      <jump line="28" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientIT.java" />
+      <jump line="56" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientIT.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientIT.java" />
+      <jump line="4" column="31" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientIT.java" />
+      <jump line="51" column="4" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientIT.java" />
+      <jump line="40" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="30" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="233" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="237" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="7" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="118" column="40" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="125" column="4" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="204" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="213" column="36" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="217" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="5" column="32" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientTest.java" />
+      <jump line="3" column="116" filename="$USER_HOME$/dev/feature-flags/Jenkinsfile" />
+      <jump line="2" column="6" filename="$USER_HOME$/dev/pricing-strawman/src/test/kotlin/com/ca/pricing/karate/price.feature" />
+      <jump line="179" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="219" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="1" column="62" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="2" column="63" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="23" column="8" filename="$USER_HOME$/dev/feature-flags/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>protected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8L3BsdWdpbnM+Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>dbo.EtlServerAllocations</text>
+      <register name="+" type="2">
+        <text encoding="base64">CQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4zLjIuMjwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>maven</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqdFw+</text>
+        <text>blah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoKQo=</text>
+        <text encoding="base64">CQk8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqCgkgKiBAcGFyYW0gYXdzSWRlbnRpZmllcgoJICogQHJldHVybgo=</text>
+        <text encoding="base64">CQk8cGx1Z2lucz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiAoc2VjdXJpdHkgIT0gbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCXYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCTx2ZXJzaW9uPjMuMi4yPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnVzZSBhdGhlbmE7Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmludHVpdC5rYXJhdGU8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmthcmF0ZS1jb3JlPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4wLjkuNTwvdmVyc2lvbj4KCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2980,10 +2963,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gTAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXgtMTMtanVuaXQ1LXVwZGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBmaWVsZAoJICogQHJldHVybgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgkJCTx2ZXJzaW9uPjUuMjM8L3ZlcnNpb24+Cj09PT09PT0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2992,9 +2975,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqdFw+</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqdFw+</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
