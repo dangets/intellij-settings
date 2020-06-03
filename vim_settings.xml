@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQYWlyc1w+</entry>
-        <entry encoding="base64">XDxQYWlyXD4=</entry>
-        <entry encoding="base64">XDxMT0dcPg==</entry>
-        <entry>karate</entry>
-        <entry>jersey</entry>
         <entry encoding="base64">XDxGRUFUVVJFX0ZMQUdTX1dSSVRFX1BFUk1JU1NJT05fSURcPg==</entry>
         <entry encoding="base64">XDxBVVRIRU5USUNBVEVEX1RZUEVTXD4=</entry>
         <entry encoding="base64">XDxJTlRFUk5BTF9BVVRIX1NFUlZFUlw+</entry>
@@ -20,11 +15,16 @@
         <entry>auth</entry>
         <entry encoding="base64">XDx1c2VyUmVzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDx1c2VyQXV0aGVudGljYXRlZFw+</entry>
-        <entry encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</entry>
         <entry encoding="base64">XDxyZXNwb25zZVN0YXR1c1w+</entry>
         <entry encoding="base64">XDx1c2VyTmFtZUNhY2hlXD4=</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</entry>
         <entry>blah</entry>
+        <entry encoding="base64">XDxBUFBMSUNBVElPTl9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxOdWxsYWJsZVw+</entry>
+        <entry>jersey</entry>
+        <entry encoding="base64">XDxEYXRhTGF5ZXJQYWN0VGVzdFw+</entry>
+        <entry>servlet</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,12 +90,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591131174307">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591158622466">
         <mark key="'" line="153" column="24" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="31" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="207" column="23" />
+        <mark key="[" line="212" column="21" />
+        <mark key="]" line="212" column="27" />
+        <mark key="." line="212" column="26" />
+        <mark key="^" line="212" column="27" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthServiceInternalAuthentication.java" timestamp="1591136394487">
         <mark key="[" line="17" column="14" />
@@ -103,32 +103,34 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/DataLayerPactTest.java" timestamp="1591158275679">
+        <mark key="'" line="37" column="13" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="28" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthenticationService.java" timestamp="1591136032684">
         <mark key="'" line="4" column="39" />
         <mark key="[" line="4" column="18" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/DonnerPactTest.java" timestamp="1591130898859">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="43" column="25" />
-        <mark key="^" line="43" column="25" />
-        <mark key="." line="44" column="24" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/DonnerPactTest.java" timestamp="1591158283299">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="45" column="25" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" timestamp="1591131035326">
-        <mark key="'" line="31" column="65" />
+      <file name="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" timestamp="1591158488140">
+        <mark key="'" line="25" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/StatusRegistryModule.java" timestamp="1591133711155">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="8" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591151559702">
-        <mark key="'" line="41" column="24" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591158032100">
+        <mark key="'" line="46" column="24" />
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/cache/UserNameCache.java" timestamp="1591155899153">
         <mark key="'" line="27" column="37" />
@@ -136,18 +138,18 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591131105674">
-        <mark key="'" line="267" column="24" />
+      <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591157954068">
+        <mark key="'" line="23" column="26" />
         <mark key="[" line="268" column="41" />
         <mark key="]" line="267" column="25" />
         <mark key="." line="267" column="24" />
         <mark key="^" line="267" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/ReguClientPactTest.java" timestamp="1591130917889">
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-        <mark key="." line="46" column="19" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/ReguClientPactTest.java" timestamp="1591158289298">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="7" />
+        <mark key="^" line="48" column="25" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591136862504">
         <mark key="[" line="10" column="14" />
@@ -168,24 +170,28 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/FeatureFlagsComponent.java" timestamp="1591152244807">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/RequestContextFactory.java" timestamp="1591157350995">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591156543197">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="77" column="29" />
-        <mark key="]" line="77" column="50" />
-        <mark key="^" line="77" column="50" />
-        <mark key="." line="77" column="49" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/FeatureFlagsComponent.java" timestamp="1591157618745">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="30" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591156798327">
-        <mark key="'" line="74" column="61" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="48" column="15" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" timestamp="1591157404294">
+        <mark key="'" line="55" column="5" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" timestamp="1591157293367">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/ResourcesModule.java" timestamp="1591152179810">
         <mark key="'" line="18" column="22" />
@@ -199,15 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="497" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
-      <jump line="505" column="30" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
-      <jump line="515" column="30" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
-      <jump line="638" column="56" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
-      <jump line="642" column="56" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/naic-model/2.53/naic-model-2.53.jar!/com/ca/naic/model/category/InsuranceCategory.class" />
-      <jump line="121" column="73" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
-      <jump line="116" column="30" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/EtlBalanceDao.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/resultsethandler/ActivityRowMapper.java" />
       <jump line="33" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
@@ -283,7 +280,6 @@
       <jump line="50" column="3" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
       <jump line="15" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
-      <jump line="2" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="33" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="38" column="68" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
@@ -299,45 +295,55 @@
       <jump line="58" column="22" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="60" column="68" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="67" column="61" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="2" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
+      <jump line="52" column="57" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="76" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="11" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="55" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
+      <jump line="23" column="26" filename="$USER_HOME$/dev/feature-flags/pom.xml" />
+      <jump line="33" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/DataLayerPactTest.java" />
+      <jump line="30" column="35" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
+      <jump line="25" column="58" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${jersey.version}</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5pbmZvKCJVc2VyIFsiICsgbG9naW5DcmVkZW50aWFscy5nZXRVc2VybmFtZSgpICsgIl0gaGFzIGxvZ2dlZCBpbi4iKTsK</text>
+        <text encoding="base64">QElnbm9yZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Response</text>
+        <text>${jersey.version}</text>
       </register>
       <register name="/" type="4">
-        <text>blah</text>
+        <text>servlet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENhdGVnb3J5KFByb3ZpZGVyQ29udHJhY3RUZXN0LmNsYXNzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlRmxhZ3NDb21wb25lbnQgZmVhdHVyZUZsYWdzQ29tcG9uZW50ID0gRGFnZ2VyRmVhdHVyZUZsYWdzQ29tcG9uZW50LmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBERzogaXMgdGhpcyB1c2VyIGxvb2t1cCBldmVuIG5lZWRlZD8hCg==</text>
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlRmxhZ3NDb21wb25lbnQgZmVhdHVyZUZsYWdzQ29tcG9uZW50ID0gRGFnZ2VyRmVhdHVyZUZsYWdzQ29tcG9uZW50LmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTnVsbGFibGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdXNlcklkID0gdXNlclJlc291cmNlLmdldFVzZXJJZCh1c2VyTmFtZSwgMCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUExJQ0FUSU9OX05BTUUgPSAiRmVhdHVyZUZsYWdzIjsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2985,10 +2991,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidXNpbmVzc0NsaWVudC5nZXRVc2VyUmVzb3VyY2UoKS5sb2dvdXQodXNlcklkLCByZXF1ZXN0Q29udGV4dC5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2997,9 +3003,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>blah</last-search>
+      <last-search>servlet</last-search>
       <last-offset />
-      <last-pattern>blah</last-pattern>
+      <last-pattern>servlet</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
