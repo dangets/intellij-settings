@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>junit</entry>
         <entry encoding="base64">XDxhc3NlcnRGYWxzZVw+</entry>
         <entry encoding="base64">XDxUZXN0XD4=</entry>
         <entry encoding="base64">XDxhc3NlcnRUcnVlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxEZXBsb3ltZW50SW5mb1w+</entry>
         <entry encoding="base64">XDxEZWJ1Z1w+</entry>
         <entry encoding="base64">XDxSZXNvdXJjZUhhbmRsZXJcPg==</entry>
+        <entry>getport</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,12 +90,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DebugServer.java" timestamp="1591302484650">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="47" column="68" />
-        <mark key="]" line="47" column="69" />
-        <mark key="." line="47" column="68" />
-        <mark key="^" line="47" column="69" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DebugServer.java" timestamp="1591303430267">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="25" column="52" />
       </file>
       <file name="/Dummy.txt" timestamp="1591290513355">
         <mark key="[" line="0" column="0" />
@@ -117,6 +117,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022.jar!/org/eclipse/jetty/server/Server.class" timestamp="1591303793929">
+        <mark key="'" line="82" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591291661305">
         <mark key="[" line="230" column="0" />
         <mark key="]" line="230" column="0" />
@@ -127,13 +130,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1591212707973">
         <mark key="[" line="36" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/Jenkinsfile" timestamp="1591206846752">
-        <mark key="'" line="3" column="116" />
-        <mark key="[" line="3" column="116" />
-        <mark key="]" line="3" column="116" />
-        <mark key="." line="3" column="116" />
-        <mark key="^" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1591301961026">
         <mark key="'" line="0" column="0" />
@@ -157,6 +153,12 @@
         <mark key="]" line="5" column="33" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/JettyDebugServer.java" timestamp="1591303807408">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="38" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/ff.feature" timestamp="1591214300758">
         <mark key="[" line="7" column="17" />
@@ -183,19 +185,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/pom.xml" timestamp="1591206973465">
-        <mark key="'" line="23" column="19" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1591216607037">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="37" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/cache/UserNameCache.java" />
-      <jump line="96" column="25" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="50" column="3" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
       <jump line="15" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthService.java" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
@@ -294,45 +288,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DebugServer.java" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DebugServer.java" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DebugServer.java" />
+      <jump line="73" column="20" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022.jar!/org/eclipse/jetty/server/Server.class" />
+      <jump line="82" column="31" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022.jar!/org/eclipse/jetty/server/Server.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>resourceHandler</text>
+        <text>8080</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IGlvLnVuZGVydG93LnNlcnZsZXQuYXBpLkRlcGxveW1lbnRJbmZvOwppbXBvcnQgaW8udW5kZXJ0b3cuc2VydmxldC5hcGkuRGVwbG95bWVudE1hbmFnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>resourceHandler</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXNvdXJjZUhhbmRsZXJcPg==</text>
+        <text>getport</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2bGV0QnVpbGRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEZWJ1Z1NlcnZlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpldHR5LnNlcnZlci5oYW5kbGVyLlJlc291cmNlSGFuZGxlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIkFNUVBfZXh0ZXJuYWxkYXRhY2hlY2tsaXN0X1VTRVIiLCAiZXh0ZXJuYWxkYXRhY2hlY2tsaXN0Iik7CgogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQU1RUF9wcm9tZXRoZXVzX1ZIT1NUIiwgInByb21ldGhldXMiKTsKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIkFNUVBfcHJvbWV0aGV1c19TRVJWRVJTIiwgImRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUxLGRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUyIik7CgogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQU1RUF9leHRlcm5hbGRhdGFjaGVja2xpc3RfVkhPU1QiLCAiZXh0ZXJuYWxkYXRhY2hlY2tsaXN0Iik7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJBTVFQX2V4dGVybmFsZGF0YWNoZWNrbGlzdF9TRVJWRVJTIiwgImRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUxLGRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUyIik7Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEZWJ1Z1NlcnZlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8IS0tIHVuZGVydG93IC0tPgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpldHR5LnNlcnZlci5oYW5kbGVyLlJlc291cmNlSGFuZGxlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIkFNUVBfZXh0ZXJuYWxkYXRhY2hlY2tsaXN0X1VTRVIiLCAiZXh0ZXJuYWxkYXRhY2hlY2tsaXN0Iik7CgogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQU1RUF9wcm9tZXRoZXVzX1ZIT1NUIiwgInByb21ldGhldXMiKTsKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIkFNUVBfcHJvbWV0aGV1c19TRVJWRVJTIiwgImRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUxLGRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUyIik7CgogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQU1RUF9leHRlcm5hbGRhdGFjaGVja2xpc3RfVkhPU1QiLCAiZXh0ZXJuYWxkYXRhY2hlY2tsaXN0Iik7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJBTVFQX2V4dGVybmFsZGF0YWNoZWNrbGlzdF9TRVJWRVJTIiwgImRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUxLGRldi10ZXN0LXNlcnZpY2UtcmFiYml0LW5vZGUyIik7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLm93Mi5hc208L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmFzbTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+Ny4zLjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">CQk8IS0tIHVuZGVydG93IC0tPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2980,10 +2976,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLm93Mi5hc208L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmFzbTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+Ny4zLjE8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2992,9 +2988,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSZXNvdXJjZUhhbmRsZXJcPg==</last-search>
+      <last-search>getport</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXNvdXJjZUhhbmRsZXJcPg==</last-pattern>
+      <last-pattern>getport</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
