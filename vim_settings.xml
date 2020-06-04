@@ -22,9 +22,9 @@
         <entry>hk2</entry>
         <entry encoding="base64">XDxBdXRoVG9rZW5Db3JlXD4=</entry>
         <entry encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</entry>
-        <entry>blah</entry>
         <entry>tracing</entry>
         <entry>brave</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -119,11 +119,11 @@
         <mark key="." line="34" column="13" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591216443872">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="33" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591240218499">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
         <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="32" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/ff.feature" timestamp="1591214300758">
         <mark key="[" line="7" column="17" />
@@ -291,17 +291,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/app1</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4zLjIuMjwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>/app1</text>
       </register>
       <register name="/" type="4">
-        <text>brave</text>
+        <text>blah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -2985,9 +2985,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>brave</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern>brave</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
