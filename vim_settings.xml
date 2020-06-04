@@ -97,6 +97,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="25" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/sql/FeatureFlags/release/src/main/resources/dbchanges.xml" timestamp="1591310454597">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591290513355">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,11 +117,6 @@
         <mark key="[" line="276" column="0" />
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pricing-strawman/src/test/kotlin/com/ca/pricing/karate/price.feature" timestamp="1591213998472">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022.jar!/org/eclipse/jetty/server/Server.class" timestamp="1591303793929">
         <mark key="'" line="82" column="31" />
@@ -146,23 +147,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="26" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591216443872">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/JettyDebugServer.java" timestamp="1591307408318">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="51" />
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/ff.feature" timestamp="1591214300758">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591292473423">
         <mark key="[" line="27" column="54" />
@@ -174,11 +163,20 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="98" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DbContainer.java" timestamp="1591310205500">
-        <mark key="[" line="54" column="105" />
-        <mark key="]" line="54" column="130" />
-        <mark key="." line="54" column="129" />
-        <mark key="^" line="54" column="130" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DbContainer.java" timestamp="1591310665819">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="51" column="130" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/sql/FeatureFlags/release/src/main/resources/liquibase.properties" timestamp="1591310615917">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="55" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/sql/src/liquibase.properties" timestamp="1591310608616">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="55" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/DataSourceModule.java" timestamp="1591292157806">
         <mark key="[" line="17" column="0" />
@@ -297,11 +295,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>db</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy9EYXRhYmFzZSBkYiA9IERhdGFiYXNlRmFjdG9yeS5nZXRJbnN0YW5jZSgpCgkJCS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmluZENvcnJlY3REYXRhYmFzZUltcGxlbWVudGF0aW9uKGNvbm4pOwoJCQkvL0ZpbGVPcGVuZXIgZmlsZU9wZW5lciA9IG5ldyBGaWxlU3lzdGVtRmlsZU9wZW5lcigiLi4vc3FsL0ZlYXR1cmVGbGFncy9yZWxlYXNlIik7Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>new FileSystemResourceAccessor(&quot;./sql/src&quot;)</text>
+      <register name="+" type="2">
+        <text encoding="base64">ZHJpdmVyPWNvbS5taWNyb3NvZnQuc3Fsc2VydmVyLmpkYmMuU1FMU2VydmVyRHJpdmVyCnVybD1qZGJjOnNxbHNlcnZlcjovLyR7c2VydmVyfTtkYXRhYmFzZU5hbWU9JHtkYXRhYmFzZX0K</text>
       </register>
       <register name="-" type="4">
         <text>db</text>
@@ -313,25 +311,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkuZmluZENvcnJlY3REYXRhYmFzZUltcGxlbWVudGF0aW9uKGNvbm4pCg==</text>
+        <text encoding="base64">CQkJLy9EYXRhYmFzZSBkYiA9IERhdGFiYXNlRmFjdG9yeS5nZXRJbnN0YW5jZSgpCgkJCS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmluZENvcnJlY3REYXRhYmFzZUltcGxlbWVudGF0aW9uKGNvbm4pOwoJCQkvL0ZpbGVPcGVuZXIgZmlsZU9wZW5lciA9IG5ldyBGaWxlU3lzdGVtRmlsZU9wZW5lcigiLi4vc3FsL0ZlYXR1cmVGbGFncy9yZWxlYXNlIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxpcXVpYmFzZS5GaWxlT3BlbmVyOwppbXBvcnQgbGlxdWliYXNlLkZpbGVTeXN0ZW1GaWxlT3BlbmVyOwo=</text>
+        <text encoding="base64">ZHJpdmVyPW5ldC5zb3VyY2Vmb3JnZS5qdGRzLmpkYmMuRHJpdmVyCnVybD1qZGJjOmp0ZHM6c3Fsc2VydmVyOi8vJHtzZXJ2ZXJ9LyR7ZGF0YWJhc2V9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+aW8udW5kZXJ0b3c8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPnVuZGVydG93LWNvcmU8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7dW5kZXJ0b3cudmVyc2lvbn08L3ZlcnNpb24+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmlvLnVuZGVydG93PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD51bmRlcnRvdy1zZXJ2bGV0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4ke3VuZGVydG93LnZlcnNpb259PC92ZXJzaW9uPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">PGRhdGFiYXNlQ2hhbmdlTG9nIHhtbG5zPSJodHRwOi8vd3d3LmxpcXVpYmFzZS5vcmcveG1sL25zL2RiY2hhbmdlbG9nLzEuOSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgICAgICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5saXF1aWJhc2Uub3JnL3htbC9ucy9kYmNoYW5nZWxvZy8xLjkgZGJjaGFuZ2Vsb2ctMS45LnhzZCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxwcm9wZXJ0aWVzPgoJCTx1bmRlcnRvdy52ZXJzaW9uPjIuMC4xNy5GaW5hbDwvdW5kZXJ0b3cudmVyc2lvbj4KCTwvcHJvcGVydGllcz4KCg==</text>
+        <text encoding="base64">CQkJCQkuZmluZENvcnJlY3REYXRhYmFzZUltcGxlbWVudGF0aW9uKGNvbm4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGxpcXVpYmFzZS5GaWxlT3BlbmVyOwppbXBvcnQgbGlxdWliYXNlLkZpbGVTeXN0ZW1GaWxlT3BlbmVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+aW8udW5kZXJ0b3c8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPnVuZGVydG93LWNvcmU8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7dW5kZXJ0b3cudmVyc2lvbn08L3ZlcnNpb24+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmlvLnVuZGVydG93PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD51bmRlcnRvdy1zZXJ2bGV0PC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4ke3VuZGVydG93LnZlcnNpb259PC92ZXJzaW9uPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNvdXJjZUNvbmZpZyBjb25maWcgPSBuZXcgUmVzb3VyY2VDb25maWcoKTsK</text>
+        <text encoding="base64">CTxwcm9wZXJ0aWVzPgoJCTx1bmRlcnRvdy52ZXJzaW9uPjIuMC4xNy5GaW5hbDwvdW5kZXJ0b3cudmVyc2lvbj4KCTwvcHJvcGVydGllcz4KCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2979,10 +2977,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2997,7 +2995,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
