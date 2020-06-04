@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxOdWxsYWJsZVw+</entry>
-        <entry>jersey</entry>
         <entry encoding="base64">XDxEYXRhTGF5ZXJQYWN0VGVzdFw+</entry>
         <entry>servlet</entry>
         <entry>karate</entry>
@@ -23,8 +21,10 @@
         <entry>failsafe</entry>
         <entry>hk2</entry>
         <entry encoding="base64">XDxBdXRoVG9rZW5Db3JlXD4=</entry>
-        <entry>blah</entry>
         <entry encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</entry>
+        <entry>blah</entry>
+        <entry>tracing</entry>
+        <entry>brave</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,8 +90,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591218841269">
-        <mark key="'" line="149" column="20" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591238613791">
+        <mark key="'" line="80" column="19" />
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
@@ -168,8 +168,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1591212707973">
         <mark key="[" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591223005175">
-        <mark key="'" line="31" column="13" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591238589857">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="10" />
+        <mark key="." line="55" column="8" />
+        <mark key="^" line="55" column="10" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/ResourcesModule.java" timestamp="1591220652216">
         <mark key="[" line="19" column="0" />
@@ -184,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
-      <jump line="38" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
       <jump line="35" column="45" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
       <jump line="37" column="34" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthenticationService.java" />
@@ -284,12 +285,14 @@
       <jump line="149" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
       <jump line="2" column="29" filename="$USER_HOME$/dev/prometheus-group/prometheus/SecurityAssignment/src/main/java/com/ca/prometheus/securityAssignment/security/lifecycle/AuthTokenInterceptor.java" />
       <jump line="29" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" />
+      <jump line="59" column="18" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" />
+      <jump line="80" column="19" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4zLjIuMjwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgo=</text>
@@ -298,31 +301,31 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</text>
+        <text>brave</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgQ2xhc3M8PyBleHRlbmRzIEFubm90YXRpb24+IGFubm90YXRpb25UeXBlKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAvL3BhY2thZ2VzKCJjb20uY2EuZmVhdHVyZS5mbGFncy53cy5yZXNvdXJjZXMiLCBUcmFjaW5nQXBwbGljYXRpb25MaXN0ZW5lci5QQUNLQUdFKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlcigoQ29udGV4dFJlc29sdmVyPEF1dGhTZXJ2aWNlPikgYUNsYXNzIC0+IGZlYXR1cmVGbGFnc0NvbXBvbmVudC5nZXRBdXRoU2VydmljZSgpKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoRmlsdGVyKEF1dGhSZXF1ZXN0RmlsdGVyIGF1dGhSZXF1ZXN0RmlsdGVyKTsKCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgQ2xhc3M8PyBleHRlbmRzIEFubm90YXRpb24+IGFubm90YXRpb25UeXBlKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoUmVzb3VyY2UoQXV0aFJlc291cmNlIGF1dGhSZXNvdXJjZSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQcm92aWRlcwogICAgQXV0aFNlcnZpY2UgYXV0aFNlcnZpY2UoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3Rlcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2970,10 +2973,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3Rlcgo=</text>
+        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoRmlsdGVyKEF1dGhSZXF1ZXN0RmlsdGVyIGF1dGhSZXF1ZXN0RmlsdGVyKTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8L3BsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9TZXQKICAgIEBOYW1lZCgicmVzb3VyY2VzIikKICAgIGFic3RyYWN0IE9iamVjdCBhdXRoUmVzb3VyY2UoQXV0aFJlc291cmNlIGF1dGhSZXNvdXJjZSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2982,9 +2985,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</last-search>
+      <last-search>brave</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoYWJsZURhb0hlbHBlclw+</last-pattern>
+      <last-pattern>brave</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
