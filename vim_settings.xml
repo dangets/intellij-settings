@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bom</entry>
         <entry>kotlin</entry>
         <entry>failsafe</entry>
         <entry encoding="base64">XDxOT05fQ1dBTl9VU0VSXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>function</entry>
         <entry>blah</entry>
         <entry>sonar</entry>
+        <entry>FIELD_BY_ID</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,13 +90,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DebugServer.java" timestamp="1591303430267">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="25" column="52" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/sql/FeatureFlags/release/src/main/resources/dbchanges.xml" timestamp="1591310454597">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -109,16 +102,6 @@
         <mark key="." line="275" column="35" />
         <mark key="^" line="275" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022.jar!/org/eclipse/jetty/server/Server.class" timestamp="1591303793929">
-        <mark key="'" line="82" column="31" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" timestamp="1591624049468">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="19" column="1" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591311978055">
         <mark key="[" line="191" column="0" />
         <mark key="]" line="193" column="61" />
@@ -130,16 +113,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" timestamp="1591642970476">
         <mark key="'" line="234" column="45" />
-      </file>
-      <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1591301961026">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="57" />
-      </file>
-      <file name="$USER_HOME$/dev/external-data-checklist/src/main/java/com/ca/externaldata/checklist/Debug.java" timestamp="1591302191775">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591627510368">
         <mark key="'" line="36" column="33" />
@@ -161,22 +134,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/JettyDebugServer.java" timestamp="1591307408318">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="51" />
-        <mark key="." line="17" column="50" />
-        <mark key="^" line="17" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/dao/ApplicationDaoIT.java" timestamp="1591629004425">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DbContainer.java" timestamp="1591313536490">
-        <mark key="[" line="53" column="100" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="54" column="130" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/sql/FeatureFlags/release/src/main/resources/liquibase.properties" timestamp="1591310615917">
         <mark key="[" line="0" column="0" />
@@ -187,6 +148,45 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DebugServer.java" timestamp="1591303430267">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="25" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" timestamp="1591653643508">
+        <mark key="'" line="83" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022.jar!/org/eclipse/jetty/server/Server.class" timestamp="1591303793929">
+        <mark key="'" line="82" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" timestamp="1591624049468">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" timestamp="1591654538510">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="99" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/JettyDebugServer.java" timestamp="1591307408318">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DbContainer.java" timestamp="1591313536490">
+        <mark key="[" line="53" column="100" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="54" column="130" />
+      </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1591310024172">
         <mark key="[" line="72" column="60" />
         <mark key="]" line="72" column="102" />
@@ -196,9 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
-      <jump line="11" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
-      <jump line="55" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
       <jump line="33" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/ws/resources/DataLayerPactTest.java" />
       <jump line="30" column="35" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
       <jump line="25" column="58" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
@@ -296,12 +293,15 @@
       <jump line="166" column="69" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
       <jump line="234" column="45" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="49" column="44" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
+      <jump line="83" column="15" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHBsaWNhdGlvbk5hbWUKICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICogdXJsIGJhc2VVcmwgKyAnLycK</text>
@@ -310,31 +310,31 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>sonar</text>
+        <text>FIELD_BY_ID</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHBsaWNhdGlvbk5hbWUKICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcAo=</text>
+        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCJhcHBsaWNhdGlvbi97YXBwbGljYXRpb259L2F1ZGl0IikKICAgIEBEZXNjcmlwdGlvbigiR2V0IHRoZSBhdWRpdCBoaXN0b3J5IGZvciBhcHBsaWNhdGlvbi4iKQogICAgQFByb2R1Y2VzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQogICAgcHVibGljIENvbGxlY3Rpb248QXBwbGljYXRpb25BdWRpdD4gZ2V0QXVkaXRSZWNvcmRzKEBQYXRoUGFyYW0oImFwcGxpY2F0aW9uIikgU3RyaW5nIGFwcGxpY2F0aW9uTmFtZSkgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbkF1ZGl0RGFvLmdldEFwcGxpY2F0aW9uQXVkaXRzKGFwcGxpY2F0aW9uTmFtZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBTY2VuYXJpbzogYWJsZSB0byBhZGQgZmVhdHVyZXMgb250byBhcHBsaWNhdGlvbgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBTY2VuYXJpbzogYWJsZSB0byBhZGQgZmVhdHVyZXMgb250byBhcHBsaWNhdGlvbgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uL215LW5ldy1hcHAnCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2982,10 +2982,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uL215LW5ldy1hcHAnCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBuZXcgS2FyYXRlKCkucmVsYXRpdmVUbyhnZXRDbGFzcygpKTsK</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uL215LW5ldy1hcHAnCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2994,9 +2994,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sonar</last-search>
+      <last-search>FIELD_BY_ID</last-search>
       <last-offset />
-      <last-pattern>sonar</last-pattern>
+      <last-pattern>FIELD_BY_ID</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
