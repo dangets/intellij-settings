@@ -148,10 +148,12 @@
         <mark key="^" line="59" column="16" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591649636681">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591649819601">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+        <mark key="^" line="43" column="20" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/app-create.feature" timestamp="1591627604787">
         <mark key="[" line="4" column="0" />
@@ -194,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="57" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
       <jump line="76" column="47" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
       <jump line="11" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
       <jump line="55" column="5" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/DefaultAuthService.java" />
@@ -294,18 +295,19 @@
       <jump line="40" column="77" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
       <jump line="166" column="69" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
       <jump line="234" column="45" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICogdXJsIGJhc2VVcmwgKyAnLycK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sonar</text>
