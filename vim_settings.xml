@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwY29tcG9uZW50c1w+</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry>bom</entry>
         <entry>kotlin</entry>
@@ -25,6 +24,7 @@
         <entry>plugin</entry>
         <entry encoding="base64">XDxUZXN0QXV0aFNlcnZpY2VcPg==</entry>
         <entry>function</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -145,11 +145,11 @@
         <mark key="^" line="59" column="16" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591627791666">
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="40" />
-        <mark key="^" line="31" column="41" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591628978728">
+        <mark key="'" line="35" column="48" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/app-create.feature" timestamp="1591627604787">
         <mark key="[" line="4" column="0" />
@@ -163,10 +163,10 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/dao/ApplicationDaoIT.java" timestamp="1591313487105">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/dao/ApplicationDaoIT.java" timestamp="1591629004425">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DbContainer.java" timestamp="1591313536490">
         <mark key="[" line="53" column="100" />
@@ -192,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="22" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="60" column="68" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="67" column="61" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="82" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
@@ -292,45 +291,46 @@
       <jump line="23" column="21" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
       <jump line="36" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
       <jump line="5" column="35" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="35" column="48" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG15LW5ldy1hcHAn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICogdXJsIGJhc2VVcmwgKyAnLycK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG15LW5ldy1hcHAn</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>function</text>
+        <text>blah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uL215LW5ldy1hcHAnCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBuZXcgS2FyYXRlKCkucmVsYXRpdmVUbyhnZXRDbGFzcygpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZUFwcCA9IGZ1bmN0aW9uKG5hbWUpCg==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uJywgYXBwRm9vCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uL215LW5ldy1hcHAnCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uL215LW5ldy1hcHAnCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiBuZXcgS2FyYXRlKCkucmVsYXRpdmVUbyhnZXRDbGFzcygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBGZWF0dXJlOiByZS11c2FibGUgZmVhdHVyZSB0byBjcmVhdGUgYSBzaW5nbGUgYXBwbGljYXRpb24=</text>
+        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZUFwcCA9IGZ1bmN0aW9uKG5hbWUpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2978,10 +2978,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uJywgYXBwRm9vCiAgICBBbmQgcmVxdWVzdCB7fQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgMjAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2990,9 +2990,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>function</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern>function</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
