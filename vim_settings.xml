@@ -103,9 +103,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591290513355">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/FeatureFlagsComponent.java" timestamp="1591292210403">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -113,20 +110,29 @@
         <mark key="^" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591321387885">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="264" column="27" />
-        <mark key="]" line="264" column="36" />
-        <mark key="." line="264" column="35" />
-        <mark key="^" line="264" column="36" />
+        <mark key="[" line="275" column="27" />
+        <mark key="]" line="275" column="36" />
+        <mark key="." line="275" column="35" />
+        <mark key="^" line="275" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022.jar!/org/eclipse/jetty/server/Server.class" timestamp="1591303793929">
         <mark key="'" line="82" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" timestamp="1591624049468">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/pom.xml" timestamp="1591311978055">
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="311" column="61" />
-        <mark key="." line="343" column="29" />
-        <mark key="^" line="343" column="30" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="193" column="61" />
+        <mark key="." line="225" column="29" />
+        <mark key="^" line="225" column="30" />
+      </file>
+      <file name="/console" timestamp="1591623953424">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/external-data-checklist/pom.xml" timestamp="1591301961026">
         <mark key="'" line="0" column="0" />
@@ -138,18 +144,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591301066639">
-        <mark key="'" line="62" column="34" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="26" column="55" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591325449041">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="18" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/JettyDebugServer.java" timestamp="1591307408318">
         <mark key="[" line="17" column="29" />
@@ -157,22 +156,16 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591292473423">
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="28" column="51" />
-        <mark key="." line="28" column="50" />
-        <mark key="^" line="28" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/dao/ApplicationDaoIT.java" timestamp="1591313487105">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/DbContainer.java" timestamp="1591313536490">
-        <mark key="[" line="50" column="100" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="51" column="130" />
+        <mark key="[" line="53" column="100" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="54" column="130" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/sql/FeatureFlags/release/src/main/resources/liquibase.properties" timestamp="1591310615917">
         <mark key="[" line="0" column="0" />
@@ -183,10 +176,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/modules/DataSourceModule.java" timestamp="1591292157806">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="25" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/demo-tested-java-project/example-maven/src/test/java/com/ca/example/users/MsSqlDb.java" timestamp="1591310024172">
         <mark key="[" line="72" column="60" />
         <mark key="]" line="72" column="102" />
@@ -196,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="50" column="24" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="53" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
       <jump line="109" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
@@ -296,12 +284,13 @@
       <jump line="212" column="31" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="13" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBEZWFkbGluZV9kYi5kYm8uRGVhZGxpbmVFdmVudHMK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuanVuaXQuanVwaXRlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0LWp1cGl0ZXItZW5naW5lPC9hcnRpZmFjdElkPgo=</text>
@@ -316,25 +305,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBEZWFkbGluZV9kYi5kYm8uRGVhZGxpbmVFdmVudHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNj</text>
+        <text>s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxwcm9maWxlcz4KCQk8cHJvZmlsZT4KCQkJPGlkPmludGVncmF0aW9uLXRlc3RzPC9pZD4KCQkJPGFjdGl2YXRpb24+CgkJCQk8cHJvcGVydHk+CgkJCQkJPG5hbWU+cnVuSW50ZWdyYXRpb25UZXN0czwvbmFtZT4KCQkJCTwvcHJvcGVydHk+CgkJCTwvYWN0aXZhdGlvbj4KCQkJPGJ1aWxkPgoJCQkJPHBsdWdpbnM+CgkJCQkJPHBsdWdpbj4KCQkJCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgoJCQkJCQk8YXJ0aWZhY3RJZD5tYXZlbi1mYWlsc2FmZS1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQkJCTx2ZXJzaW9uPjMuMC4wLU00PC92ZXJzaW9uPgoJCQkJCQk8ZXhlY3V0aW9ucz4KCQkJCQkJCTxleGVjdXRpb24+CgkJCQkJCQkJPGdvYWxzPgoJCQkJCQkJCQk8Z29hbD5pbnRlZ3JhdGlvbi10ZXN0PC9nb2FsPgoJCQkJCQkJCQk8Z29hbD52ZXJpZnk8L2dvYWw+CgkJCQkJCQkJPC9nb2Fscz4KCQkJCQkJCTwvZXhlY3V0aW9uPgoJCQkJCQk8L2V4ZWN1dGlvbnM+CgkJCQkJPC9wbHVnaW4+CgkJCQk8L3BsdWdpbnM+CgkJCTwvYnVpbGQ+CgkJPC9wcm9maWxlPgoJPC9wcm9maWxlcz4KCg==</text>
+        <text encoding="base64">ICAgIFNj</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxidWlsZD48L2J1aWxkPgo=</text>
+        <text encoding="base64">CTxwcm9maWxlcz4KCQk8cHJvZmlsZT4KCQkJPGlkPmludGVncmF0aW9uLXRlc3RzPC9pZD4KCQkJPGFjdGl2YXRpb24+CgkJCQk8cHJvcGVydHk+CgkJCQkJPG5hbWU+cnVuSW50ZWdyYXRpb25UZXN0czwvbmFtZT4KCQkJCTwvcHJvcGVydHk+CgkJCTwvYWN0aXZhdGlvbj4KCQkJPGJ1aWxkPgoJCQkJPHBsdWdpbnM+CgkJCQkJPHBsdWdpbj4KCQkJCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgoJCQkJCQk8YXJ0aWZhY3RJZD5tYXZlbi1mYWlsc2FmZS1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQkJCTx2ZXJzaW9uPjMuMC4wLU00PC92ZXJzaW9uPgoJCQkJCQk8ZXhlY3V0aW9ucz4KCQkJCQkJCTxleGVjdXRpb24+CgkJCQkJCQkJPGdvYWxzPgoJCQkJCQkJCQk8Z29hbD5pbnRlZ3JhdGlvbi10ZXN0PC9nb2FsPgoJCQkJCQkJCQk8Z29hbD52ZXJpZnk8L2dvYWw+CgkJCQkJCQkJPC9nb2Fscz4KCQkJCQkJCTwvZXhlY3V0aW9uPgoJCQkJCQk8L2V4ZWN1dGlvbnM+CgkJCQkJPC9wbHVnaW4+CgkJCQk8L3BsdWdpbnM+CgkJCTwvYnVpbGQ+CgkJPC9wcm9maWxlPgoJPC9wcm9maWxlcz4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy9EYXRhYmFzZSBkYiA9IERhdGFiYXNlRmFjdG9yeS5nZXRJbnN0YW5jZSgpCgkJCS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmluZENvcnJlY3REYXRhYmFzZUltcGxlbWVudGF0aW9uKGNvbm4pOwoJCQkvL0ZpbGVPcGVuZXIgZmlsZU9wZW5lciA9IG5ldyBGaWxlU3lzdGVtRmlsZU9wZW5lcigiLi4vc3FsL0ZlYXR1cmVGbGFncy9yZWxlYXNlIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2982,10 +2971,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZHJpdmVyPW5ldC5zb3VyY2Vmb3JnZS5qdGRzLmpkYmMuRHJpdmVyCnVybD1qZGJjOmp0ZHM6c3Fsc2VydmVyOi8vJHtzZXJ2ZXJ9LyR7ZGF0YWJhc2V9Cg==</text>
+        <text encoding="base64">CTxidWlsZD48L2J1aWxkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRhdGFiYXNlQ2hhbmdlTG9nIHhtbG5zPSJodHRwOi8vd3d3LmxpcXVpYmFzZS5vcmcveG1sL25zL2RiY2hhbmdlbG9nLzEuOSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgICAgICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5saXF1aWJhc2Uub3JnL3htbC9ucy9kYmNoYW5nZWxvZy8xLjkgZGJjaGFuZ2Vsb2ctMS45LnhzZCI+Cg==</text>
+        <text encoding="base64">CQkJLy9EYXRhYmFzZSBkYiA9IERhdGFiYXNlRmFjdG9yeS5nZXRJbnN0YW5jZSgpCgkJCS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmluZENvcnJlY3REYXRhYmFzZUltcGxlbWVudGF0aW9uKGNvbm4pOwoJCQkvL0ZpbGVPcGVuZXIgZmlsZU9wZW5lciA9IG5ldyBGaWxlU3lzdGVtRmlsZU9wZW5lcigiLi4vc3FsL0ZlYXR1cmVGbGFncy9yZWxlYXNlIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
