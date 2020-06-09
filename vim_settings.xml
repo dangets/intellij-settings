@@ -112,6 +112,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591719741785">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/dao/ApplicationDaoIT.java" timestamp="1591629004425">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -121,6 +127,10 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/AuthRequestFilter.java" timestamp="1591719727147">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" timestamp="1591653643508">
         <mark key="'" line="83" column="15" />
@@ -135,13 +145,6 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" timestamp="1591624049468">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="19" column="1" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" timestamp="1591655008474">
         <mark key="'" line="65" column="0" />
@@ -261,14 +264,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTG9naW5FeGNlcHRpb24oU3RyaW5nIGNhdXNlLCBUaHJvd2FibGUgZXgpIHsgc3VwZXIoY2F1c2UsIGV4KTsgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Priorities.AUTHORIZATION</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICogdXJsIGJhc2VVcmwgKyAnLycK</text>
+        <text encoding="base64">QFByaW9yaXR5KFByaW9yaXRpZXMuQVVUSE9SSVpBVElPTikK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Priorities.AUTHORIZATION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</text>
@@ -277,25 +280,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTG9naW5FeGNlcHRpb24oU3RyaW5nIGNhdXNlLCBUaHJvd2FibGUgZXgpIHsgc3VwZXIoY2F1c2UsIGV4KTsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaHR0cFNlcnZsZXRSZXF1ZXN0ID09IG51bGwpCiAgICAgICAgICAgIHJldHVybjsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJfSURfQVRUUiA9ICJVU0VSX0lEIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFU1NJT05fSURfQVRUUiA9ICJTRVNTSU9OX0lEIjsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgTG9naW5FeGNlcHRpb24oU3RyaW5nIGNhdXNlLCBUaHJvd2FibGUgZXgpIHsgc3VwZXIoY2F1c2UsIGV4KTsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IGphdmF4LndzLnJzLkNvbmZsCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJfSURfQVRUUiA9ICJVU0VSX0lEIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFU1NJT05fSURfQVRUUiA9ICJTRVNTSU9OX0lEIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHBsaWNhdGlvbk5hbWUKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IGphdmF4LndzLnJzLkNvbmZsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCJhcHBsaWNhdGlvbi97YXBwbGljYXRpb259L2F1ZGl0IikKICAgIEBEZXNjcmlwdGlvbigiR2V0IHRoZSBhdWRpdCBoaXN0b3J5IGZvciBhcHBsaWNhdGlvbi4iKQogICAgQFByb2R1Y2VzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQogICAgcHVibGljIENvbGxlY3Rpb248QXBwbGljYXRpb25BdWRpdD4gZ2V0QXVkaXRSZWNvcmRzKEBQYXRoUGFyYW0oImFwcGxpY2F0aW9uIikgU3RyaW5nIGFwcGxpY2F0aW9uTmFtZSkgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbkF1ZGl0RGFvLmdldEFwcGxpY2F0aW9uQXVkaXRzKGFwcGxpY2F0aW9uTmFtZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHBsaWNhdGlvbk5hbWUKICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCJhcHBsaWNhdGlvbi97YXBwbGljYXRpb259L2F1ZGl0IikKICAgIEBEZXNjcmlwdGlvbigiR2V0IHRoZSBhdWRpdCBoaXN0b3J5IGZvciBhcHBsaWNhdGlvbi4iKQogICAgQFByb2R1Y2VzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQogICAgcHVibGljIENvbGxlY3Rpb248QXBwbGljYXRpb25BdWRpdD4gZ2V0QXVkaXRSZWNvcmRzKEBQYXRoUGFyYW0oImFwcGxpY2F0aW9uIikgU3RyaW5nIGFwcGxpY2F0aW9uTmFtZSkgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbkF1ZGl0RGFvLmdldEFwcGxpY2F0aW9uQXVkaXRzKGFwcGxpY2F0aW9uTmFtZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2943,10 +2946,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTY2VuYXJpbzogYWJsZSB0byBhZGQgZmVhdHVyZXMgb250byBhcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTY2VuYXJpbzogYWJsZSB0byBhZGQgZmVhdHVyZXMgb250byBhcHBsaWNhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
