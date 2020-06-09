@@ -90,6 +90,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console" timestamp="1591733185163">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1591733555219">
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="65" column="21" />
+        <mark key="^" line="65" column="21" />
+        <mark key="." line="65" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591727810646">
         <mark key="'" line="13" column="17" />
         <mark key="[" line="22" column="0" />
@@ -134,12 +143,6 @@
         <mark key="]" line="9" column="42" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/RequestContextFactory.java" timestamp="1591655136078">
-        <mark key="[" line="29" column="61" />
-        <mark key="]" line="29" column="61" />
-        <mark key="." line="29" column="61" />
-        <mark key="^" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/AuthService.java" timestamp="1591655616033">
         <mark key="[" line="26" column="0" />
@@ -277,13 +280,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;You do not have permission to make changes&quot;</text>
+        <text>12</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICogZGVmIGNyZWF0aW9uID0gY2FsbCBjcmVhdGVBcHBsaWNhdGlvbiB7IG5hbWU6ICdteS1uZXctYXBwJyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQU5EIGEuaXNHYWFwID0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;You do not have permission to make changes&quot;</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVkXD4=</text>
