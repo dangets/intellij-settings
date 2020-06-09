@@ -60,5 +60,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://st-recondb;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="aws_db@dev-scalability-db1" uuid="ae18cca9-8dc3-40ad-a7a6-1fd078130940">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dev-scalability-db1;integratedSecurity=true;authenticationScheme=JavaKerberos;database=aws_db</jdbc-url>
+    </data-source>
   </component>
 </application>
