@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>failsafe</entry>
-        <entry encoding="base64">XDxOT05fQ1dBTl9VU0VSXD4=</entry>
-        <entry encoding="base64">XDxDV0FOX1VTRVJfTk9fV1JJVEVcPg==</entry>
-        <entry encoding="base64">XDxDV0FOX1VTRVJfV0lUSF9XUklURVw+</entry>
         <entry encoding="base64">XDxEZXBsb3ltZW50SW5mb1w+</entry>
         <entry encoding="base64">XDxEZWJ1Z1w+</entry>
         <entry encoding="base64">XDxSZXNvdXJjZUhhbmRsZXJcPg==</entry>
@@ -25,6 +21,10 @@
         <entry>sonar</entry>
         <entry>FIELD_BY_ID</entry>
         <entry encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</entry>
+        <entry encoding="base64">XDxpc0ZvcmJpZGRlbkF1dGhDaGVja1N0YXR1c1w+</entry>
+        <entry encoding="base64">XDxnZXRVc2VySWRcPg==</entry>
+        <entry>createapplication</entry>
+        <entry encoding="base64">XDxjcmVhdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,24 +90,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" timestamp="1591642970476">
-        <mark key="'" line="234" column="45" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591727810646">
+        <mark key="'" line="13" column="17" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="66" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591649819601">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591723487969">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/SessionVariable.java" timestamp="1591655106229">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591726275003">
+        <mark key="'" line="56" column="42" />
+        <mark key="[" line="67" column="55" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="29" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureDao.java" timestamp="1591723385270">
         <mark key="[" line="27" column="53" />
@@ -115,10 +110,11 @@
         <mark key="." line="27" column="62" />
         <mark key="^" line="27" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/AuthRequestFilter.java" timestamp="1591723587656">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/AuthRequestFilter.java" timestamp="1591727976804">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+        <mark key="^" line="50" column="83" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureKeyDao.java" timestamp="1591723394983">
         <mark key="[" line="36" column="53" />
@@ -126,8 +122,18 @@
         <mark key="." line="36" column="65" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" timestamp="1591653643508">
-        <mark key="'" line="83" column="15" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" timestamp="1591727862493">
+        <mark key="'" line="3" column="38" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/createApplication.feature" timestamp="1591727588659">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/RequestContextFactory.java" timestamp="1591655136078">
         <mark key="[" line="29" column="61" />
@@ -140,12 +146,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" timestamp="1591655008474">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" timestamp="1591723373286">
         <mark key="'" line="25" column="66" />
         <mark key="[" line="25" column="53" />
@@ -153,7 +153,18 @@
         <mark key="." line="25" column="66" />
         <mark key="^" line="25" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1591655199335">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/ForbiddenExceptionMapper.java" timestamp="1591725622673">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591726539053">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591725922328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/DefaultAuthService.java" timestamp="1591655668126">
@@ -161,18 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="4" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
-      <jump line="71" column="42" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/resources/auth/AuthRequestFilter.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="28" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="26" column="50" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="45" column="55" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="19" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="28" column="58" filename="$USER_HOME$/dev/pricing-strawman/build.gradle.kts" />
-      <jump line="23" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
       <jump line="280" column="0" filename="$USER_HOME$/dev/feature-flags/pom.xml" />
       <jump line="181" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
       <jump line="23" column="19" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/pom.xml" />
@@ -248,7 +247,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
       <jump line="23" column="21" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
       <jump line="36" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="5" column="35" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="35" column="48" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="369" column="17" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
       <jump line="40" column="77" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
@@ -261,45 +259,58 @@
       <jump line="39" column="50" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/DefaultAuthService.java" />
       <jump line="66" column="15" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/DefaultAuthService.java" />
       <jump line="25" column="66" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" />
+      <jump line="77" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="63" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="61" column="41" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="50" column="53" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="51" column="36" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="56" column="42" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="24" column="18" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
+      <jump line="15" column="9" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
+      <jump line="3" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
+      <jump line="5" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="14" column="16" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="13" column="17" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;You do not have permission to make changes&quot;</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">QFByaW9yaXR5KFByaW9yaXRpZXMuQVVUSE9SSVpBVElPTikK</text>
+        <text encoding="base64">ICAgICogZGVmIGNyZWF0aW9uID0gY2FsbCBjcmVhdGVBcHBsaWNhdGlvbiB7IG5hbWU6ICdteS1uZXctYXBwJyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LoggingFilter</text>
+        <text>&quot;You do not have permission to make changes&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</text>
+        <text encoding="base64">XDxjcmVhdGVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuKQoK</text>
+        <text encoding="base64">ICAgIEdpdmVuIGNhbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaHR0cFNlcnZsZXRSZXF1ZXN0ID09IG51bGwpCiAgICAgICAgICAgIHJldHVybjsKCg==</text>
+        <text encoding="base64">ICBUaGVuIGFzc2VydCByZXNwb25zZVN0YXR1cyA9PSBleHBlY3RlZFN0YXR1cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTG9naW5FeGNlcHRpb24oU3RyaW5nIGNhdXNlLCBUaHJvd2FibGUgZXgpIHsgc3VwZXIoY2F1c2UsIGV4KTsgfQo=</text>
+        <text encoding="base64">ICAqIGRlZiBleHBlY3RlZFN0YXR1cyA9IGthcmF0ZS5nZXQoJ3N0YXR1cycpIHx8IDIwMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJfSURfQVRUUiA9ICJVU0VSX0lEIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFU1NJT05fSURfQVRUUiA9ICJTRVNTSU9OX0lEIjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IGphdmF4LndzLnJzLkNvbmZsCg==</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uLycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHBsaWNhdGlvbk5hbWUKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZUFwcGxpY2F0aW9uID0gcmVhZCgnLi9jcmVhdGVBcHBsaWNhdGlvbi5mZWF0dXJlJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2947,10 +2958,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCJhcHBsaWNhdGlvbi97YXBwbGljYXRpb259L2F1ZGl0IikKICAgIEBEZXNjcmlwdGlvbigiR2V0IHRoZSBhdWRpdCBoaXN0b3J5IGZvciBhcHBsaWNhdGlvbi4iKQogICAgQFByb2R1Y2VzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQogICAgcHVibGljIENvbGxlY3Rpb248QXBwbGljYXRpb25BdWRpdD4gZ2V0QXVkaXRSZWNvcmRzKEBQYXRoUGFyYW0oImFwcGxpY2F0aW9uIikgU3RyaW5nIGFwcGxpY2F0aW9uTmFtZSkgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbkF1ZGl0RGFvLmdldEFwcGxpY2F0aW9uQXVkaXRzKGFwcGxpY2F0aW9uTmFtZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgU2NlbmFyaW86IEJhZCB1c2VybmFtZSBpcyB1bmFibGUgdG8gbG9naW4KICAgIEdpdmVuIHBhdGggJ2F1dGgvbG9naW4nCiAgICBBbmQgcmVxdWVzdCB7IHVzZXJuYW1lOiAidXNlci10aGF0LWRvZXNudC1leGlzdCIsIHBhc3N3b3JkOiAic2hvdWxkbid0IG1hdHRlciIgfQogICAgV2hlbiBtZXRob2QgUE9TVAogICAgVGhlbiBzdGF0dXMgNDAzCgogIFNjZW5hcmlvOiBCYWQgcGFzc3dvcmQgaXMgdW5hYmxlIHRvIGxvZ2luCiAgICBHaXZlbiBwYXRoICdhdXRoL2xvZ2luJwogICAgQW5kIHJlcXVlc3QgeyB1c2VybmFtZTogImN3YW4tdXNlci1uby13cml0ZSIsIHBhc3N3b3JkOiAiYmFkLXBhc3N3b3JkIiB9CiAgICBXaGVuIG1ldGhvZCBQT1NUCiAgICBUaGVuIHN0YXR1cyA0MDMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2959,9 +2970,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidXNpbmVzc0NsaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
