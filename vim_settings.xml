@@ -104,17 +104,17 @@
         <mark key="^" line="65" column="21" />
         <mark key="." line="65" column="21" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f66e0642-e5fc-47a8-9b41-65eae6b6815b/console.sql" timestamp="1591797468148">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/AuthRequestFilter.java" timestamp="1591727976804">
         <mark key="[" line="51" column="37" />
         <mark key="]" line="51" column="37" />
         <mark key="." line="51" column="37" />
         <mark key="^" line="50" column="83" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureKeyDao.java" timestamp="1591723394983">
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="66" />
-        <mark key="." line="36" column="65" />
-        <mark key="^" line="36" column="66" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/AppConfig.java" timestamp="1591726539053">
         <mark key="[" line="56" column="0" />
@@ -127,7 +127,7 @@
         <mark key="^" line="349" column="18" />
         <mark key="." line="349" column="18" />
       </file>
-      <file name="/console" timestamp="1591734940981">
+      <file name="/console" timestamp="1591797439297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591727810646">
@@ -144,7 +144,7 @@
         <mark key="^" line="68" column="30" />
         <mark key="." line="68" column="29" />
       </file>
-      <file name="/a.sql" timestamp="1591734939921">
+      <file name="/a.sql" timestamp="1591797506472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" timestamp="1591740950628">
@@ -166,11 +166,11 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591734939932">
+      <file name="/Dummy.txt" timestamp="1591797506482">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
+        <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ae18cca9-8dc3-40ad-a7a6-1fd078130940/console.sql" timestamp="1591736036302">
         <mark key="'" line="28" column="1" />
@@ -297,8 +297,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>test_load_insignificantLotBalance</text>
+      <register name="&quot;" type="2">
+        <text>select 1;</text>
       </register>
       <register name="+" type="4">
         <text>test_load_insignificantLotBalance</text>
@@ -313,25 +313,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text>select 1</text>
+        <text>select 1;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>select 1</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIGNhbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBUaGVuIGFzc2VydCByZXNwb25zZVN0YXR1cyA9PSBleHBlY3RlZFN0YXR1cwo=</text>
+        <text encoding="base64">ICAgIEdpdmVuIGNhbGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAqIGRlZiBleHBlY3RlZFN0YXR1cyA9IGthcmF0ZS5nZXQoJ3N0YXR1cycpIHx8IDIwMQo=</text>
+        <text encoding="base64">ICBUaGVuIGFzc2VydCByZXNwb25zZVN0YXR1cyA9PSBleHBlY3RlZFN0YXR1cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAqIGRlZiBleHBlY3RlZFN0YXR1cyA9IGthcmF0ZS5nZXQoJ3N0YXR1cycpIHx8IDIwMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uLycK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2979,10 +2979,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZUFwcGxpY2F0aW9uID0gcmVhZCgnLi9jcmVhdGVBcHBsaWNhdGlvbi5mZWF0dXJlJykK</text>
+        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2FwcGxpY2F0aW9uLycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZUFwcGxpY2F0aW9uID0gcmVhZCgnLi9jcmVhdGVBcHBsaWNhdGlvbi5mZWF0dXJlJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
