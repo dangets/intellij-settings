@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>trace</entry>
         <entry encoding="base64">XDxUaHJlYWRUcmFjZVw+</entry>
         <entry>ca-calculator</entry>
         <entry encoding="base64">XDxUaHJlYWRUcmVlXD4=</entry>
@@ -16,15 +15,16 @@
         <entry encoding="base64">XDxyZXF1ZXN0Q29udGV4dFw+</entry>
         <entry encoding="base64">XDxnZXRVc2VySWRcPg==</entry>
         <entry>slf4j</entry>
-        <entry>blah</entry>
         <entry encoding="base64">XDxleGVjdXRpb25UaW1lXD4=</entry>
         <entry encoding="base64">XDxkdXJhdGlvblw+</entry>
         <entry>log4j</entry>
         <entry>slf</entry>
         <entry>commons</entry>
         <entry>logging</entry>
-        <entry>log</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxMT0dcPg==</entry>
+        <entry>blah</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -106,12 +106,12 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="55" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591907918881">
-        <mark key="'" line="58" column="116" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="26" />
-        <mark key="^" line="58" column="26" />
-        <mark key="." line="58" column="25" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591911481888">
+        <mark key="'" line="36" column="106" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="30" />
+        <mark key="." line="64" column="30" />
+        <mark key="^" line="77" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.20.1/ca-calculator-lib-21.20.1-sources.jar!/com/ca/calculator/amortization/TargetsAndYieldsHelper.java" timestamp="1591845556283">
         <mark key="'" line="12" column="56" />
@@ -136,9 +136,10 @@
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/fip/fip-lib/3.19/fip-lib-3.19-sources.jar!/com/ca/fip/price/FloaterCashFlowDiscounter.java" timestamp="1591843561467">
         <mark key="'" line="117" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" timestamp="1591909014431">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" timestamp="1591911152154">
+        <mark key="'" line="78" column="12" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="75" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
@@ -180,9 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ae18cca9-8dc3-40ad-a7a6-1fd078130940/console.sql" />
-      <jump line="28" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ae18cca9-8dc3-40ad-a7a6-1fd078130940/console.sql" />
-      <jump line="177" column="58" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
       <jump line="180" column="36" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
       <jump line="142" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
@@ -280,45 +278,48 @@
       <jump line="61" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureDao.java" />
       <jump line="27" column="32" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/FeatureDao.java" />
       <jump line="25" column="83" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" />
+      <jump line="78" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" />
+      <jump line="27" column="29" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="38" column="106" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTG9nIGV4Y2VwdGlvbnMK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4oIlt7fSB7fV1cdHVzZXI6e31cdHN0YXR1czp7fVx0ZHVyYXRpb246e31cbkVOVElUWTp7fSIsIG1ldGhvZCwgdXJpLCB1c2VySWQsIHN0YXR1cywgZHVyYXRpb24sIHJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSAnWycgKyBtZXRob2QgKyAnXScgKwogICAgICAgICAgICAgICAgICAgICIgIiArIHVyaSArCiAgICAgICAgICAgICAgICAgICAgIlx0dXNlcjoiICsgdXNlcklkICsKICAgICAgICAgICAgICAgICAgICAiXHRzdGF0dXM6IiArIHN0YXR1cyArCiAgICAgICAgICAgICAgICAgICAgIlx0ZHVyYXRpb246IiArIGR1cmF0aW9uTWlsbGlzICsgIm1zIiArCiAgICAgICAgICAgICAgICAgICAgIlxuRU5USVRZOiVzIiArIHJlc3BvbnNlLmdldEVudGl0eSgpOwogICAgICAgICAgICBMT0cud2FybihtZXNzYWdlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMT0dcPg==</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTG9nIGV4Y2VwdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZyBsb2cgPSBMb2dGYWN0b3J5LmdldExvZyhBcHBsaWNhdGlvbkRhby5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4oU3RyaW5nLmZvcm1hdCgiWyVzXSAlc1x0dXNlcjolc1x0c3RhdHVzOiVzXHRkdXJhdGlvbjolc21zXG5FTlRJVFk6JXMiLCBtZXRob2QsIHVyaSwgdXNlcklkLCBzdGF0dXMsIGR1cmF0aW9uTWlsbGlzLCByZXNwb25zZS5nZXRFbnRpdHkoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZyBsb2cgPSBMb2dGYWN0b3J5LmdldExvZyhGZWF0dXJlRGFvLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4obWVzc2FnZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZyBMT0cgPSBMb2dGYWN0b3J5LmdldExvZyhGZWF0dXJlRmxhZ3NDbGllbnQuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXG5FTlRJVFk6JXMiICsgcmVzcG9uc2UuZ2V0RW50aXR5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZyBsb2cgPSBMb2dGYWN0b3J5LmdldExvZyhGZWF0dXJlS2V5RGFvLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzU2VydmVyRXJyb3Ioc3RhdHVzKSAmJiAhaXNVbmF1dGhvcml6ZWRPckZvcmJpZGRlbihzdGF0dXMpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOT1RFIDQwNHMgYXJlIHNlbWFudGljYWxseSB2YWxpZCBhbmQgY29tbW9ubHkgZXhwZWN0ZWQKICAgICAgICAvLyAgIGUuZy4gZmVhdHVyZXMgdGhhdCBhcmUgbm90IHlldCBkZWZpbmVkIHdpbGwgcmV0dXJuIGEgNDA0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2966,10 +2967,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvbmx5IGxvZyBvbiBzZXJ2ZXIgZXJyb3Igb3IgdW5hdXRob3JpemVkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihMb2dnaW5nRmlsdGVyLmNsYXNzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3RhdHVzID0gcmVzcG9uc2UuZ2V0U3RhdHVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTG9nIGV4Y2VwdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2978,9 +2979,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMT0dcPg==</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMT0dcPg==</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
