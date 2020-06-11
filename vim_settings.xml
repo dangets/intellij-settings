@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>islast</entry>
-        <entry>localdate</entry>
-        <entry encoding="base64">XDxEYXlEaWZmXD4=</entry>
-        <entry encoding="base64">XDxFUE9DSF9EQVRFX0dMT0JBTF9EQVRFX0RBWV9OVU1cPg==</entry>
-        <entry>blah</entry>
-        <entry>singleperioed</entry>
-        <entry>singleperiod</entry>
         <entry encoding="base64">XDxzZXREZXRhaWxzRm9yVHJhY2VcPg==</entry>
         <entry>isregular</entry>
         <entry>fip</entry>
@@ -25,6 +18,13 @@
         <entry>create(</entry>
         <entry>checkcachefore</entry>
         <entry>check</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0Q29udGV4dFw+</entry>
+        <entry encoding="base64">XDxnZXRVc2VySWRcPg==</entry>
+        <entry>slf4j</entry>
+        <entry>log</entry>
+        <entry>blah</entry>
+        <entry encoding="base64">XDxleGVjdXRpb25UaW1lXD4=</entry>
+        <entry encoding="base64">XDxkdXJhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -108,6 +108,9 @@
         <mark key="^" line="702" column="20" />
         <mark key="." line="702" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" timestamp="1591906389145">
+        <mark key="'" line="84" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/ca-global-date-lib/src/main/java/com/ca/util/date/GlobalDates.java" timestamp="1591884946331">
         <mark key="'" line="0" column="0" />
       </file>
@@ -133,14 +136,12 @@
       <file name="$USER_HOME$/dev/ca-global-date-lib/src/main/java/com/ca/util/date/GlobalDateCache.java" timestamp="1591888105233">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591901094491">
-        <mark key="[" line="65" column="53" />
-        <mark key="]" line="65" column="62" />
-        <mark key="^" line="65" column="62" />
-        <mark key="." line="65" column="61" />
-      </file>
-      <file name="/a.sql" timestamp="1591803596663">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591907918881">
+        <mark key="'" line="58" column="116" />
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="58" column="26" />
+        <mark key="." line="58" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/fip/fip-lib/3.19/fip-lib-3.19-sources.jar!/com/ca/fip/DefaultPeriodCalc.java" timestamp="1591821058976">
         <mark key="'" line="16" column="54" />
@@ -170,23 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="19" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
-      <jump line="217" column="31" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
-      <jump line="218" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
-      <jump line="212" column="31" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
-      <jump line="13" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/91f4ecfa-e1b3-4030-b6c2-24671ff9bc89/console.sql" />
-      <jump line="79" column="25" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="23" column="21" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="36" column="33" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" />
-      <jump line="35" column="48" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
-      <jump line="369" column="17" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
-      <jump line="40" column="77" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
-      <jump line="166" column="69" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
-      <jump line="234" column="45" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/cwan-pom/7.7/cwan-pom-7.7.pom" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="49" column="44" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
       <jump line="83" column="15" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/ApplicationResource.java" />
@@ -194,7 +178,6 @@
       <jump line="66" column="15" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/auth/DefaultAuthService.java" />
       <jump line="25" column="66" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" />
       <jump line="77" column="20" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
       <jump line="61" column="41" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
       <jump line="50" column="53" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
       <jump line="51" column="36" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
@@ -270,45 +253,63 @@
       <jump line="43" column="50" filename="$USER_HOME$/dev/accounting/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ca-global-date-lib/src/main/java/com/ca/util/date/GlobalDates.java" />
       <jump line="21" column="40" filename="$USER_HOME$/dev/ca-global-date-lib/src/main/java/com/ca/util/date/GlobalDateCache.java" />
+      <jump line="41" column="23" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="43" column="11" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="57" column="12" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="2" column="36" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="95" column="4" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="88" column="31" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="59" column="27" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="48" column="24" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="245" column="63" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="83" column="25" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="84" column="24" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/pom.xml" />
+      <jump line="53" column="23" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="58" column="8" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="52" column="22" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="55" column="21" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="62" column="77" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="68" column="96" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
+      <jump line="63" column="116" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNTdWNjZXNzU3RhdHVzKGludCBzdGF0dXMpIHsKICAgICAgICByZXR1cm4gc3RhdHVzID49IDIwMCAmJiBzdGF0dXMgPCA0MDA7CiAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoIiVzXHRFTlRJVFkgUkVTUE9OU0VcdCVzIiwgbWVzc2FnZSwgcmVzcG9uc2UuZ2V0RW50aXR5KCkpOwogICAgICAgICAgICBsb2cuZXJyb3IobWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4oIlt7fSB7fV1cdHVzZXI6e31cdHN0YXR1czp7fVx0ZHVyYXRpb246e31cbkVOVElUWTp7fSIsIG1ldGhvZCwgdXJpLCB1c2VySWQsIHN0YXR1cywgZHVyYXRpb24sIHJlc3BvbnNlLmdldEVudGl0eSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text encoding="base64">XDxkdXJhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNTdWNjZXNzU3RhdHVzKGludCBzdGF0dXMpIHsKICAgICAgICByZXR1cm4gc3RhdHVzID49IDIwMCAmJiBzdGF0dXMgPCA0MDA7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzU2VydmVyRXJyb3Ioc3RhdHVzKSAmJiAhaXNVbmF1dGhvcml6ZWRPckZvcmJpZGRlbihzdGF0dXMpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoIiVzXHRFTlRJVFkgUkVTUE9OU0VcdCVzIiwgbWVzc2FnZSwgcmVzcG9uc2UuZ2V0RW50aXR5KCkpOwogICAgICAgICAgICBsb2cuZXJyb3IobWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBOT1RFIDQwNHMgYXJlIHNlbWFudGljYWxseSB2YWxpZCBhbmQgY29tbW9ubHkgZXhwZWN0ZWQKICAgICAgICAvLyAgIGUuZy4gZmVhdHVyZXMgdGhhdCBhcmUgbm90IHlldCBkZWZpbmVkIHdpbGwgcmV0dXJuIGEgNDA0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKGlzU3VjY2Vzc1N0YXR1cyhzdGF0dXMpKSB7CiAgICAgICAgICAgIGxvZy5kZWJ1ZyhtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBvbmx5IGxvZyBvbiBzZXJ2ZXIgZXJyb3Igb3IgdW5hdXRob3JpemVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBKQU5fMV8yMDE5ID0gR2xvYmFsRGF0ZXMuY3JlYXRlKDEsIDEsIDIwMTkpLmdldERheU51bWJlcigpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IEpBTl8xXzIwMjAgPSBHbG9iYWxEYXRlcy5jcmVhdGUoMSwgMSwgMjAyMCkuZ2V0RGF5TnVtYmVyKCk7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgSkFOXzFfMjAyMSA9IEdsb2JhbERhdGVzLmNyZWF0ZSgxLCAxLCAyMDIxKS5nZXREYXlOdW1iZXIoKTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBKQU5fMV8yMDIyID0gR2xvYmFsRGF0ZXMuY3JlYXRlKDEsIDEsIDIwMjIpLmdldERheU51bWJlcigpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IEpBTl8xXzIwMjMgPSBHbG9iYWxEYXRlcy5jcmVhdGUoMSwgMSwgMjAyMykuZ2V0RGF5TnVtYmVyKCk7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgSkFOXzFfMjAyNCA9IEdsb2JhbERhdGVzLmNyZWF0ZSgxLCAxLCAyMDI0KS5nZXREYXlOdW1iZXIoKTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBKQU5fMV8yMDI1ID0gR2xvYmFsRGF0ZXMuY3JlYXRlKDEsIDEsIDIwMjUpLmdldERheU51bWJlcigpOwoK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc3RhdHVzID0gcmVzcG9uc2UuZ2V0U3RhdHVzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGR1cmF0aW9uID0gRHVyYXRpb25Gb3JtYXRVdGlscy5mb3JtYXREdXJhdGlvbkhNUyhkdXJhdGlvbk1zKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgY2FsY1llYXIoaW50IGRheU51bSkgewogICAgICAgIGlmIChkYXlOdW0gPCBKQU5fMV8yMDE4KSB7IHJldHVybiBjYWxjdWxhdGVZZWFyKGRheU51bSkudmFsdWU7IH0KICAgICAgICBpZiAoZGF5TnVtIDwgSkFOXzFfMjAxOSkgeyByZXR1cm4gMjAxODsgfQogICAgICAgIGlmIChkYXlOdW0gPCBKQU5fMV8yMDIwKSB7IHJldHVybiAyMDE5OyB9CiAgICAgICAgaWYgKGRheU51bSA8IEpBTl8xXzIwMjEpIHsgcmV0dXJuIDIwMjA7IH0KICAgICAgICBpZiAoZGF5TnVtIDwgSkFOXzFfMjAyMikgeyByZXR1cm4gMjAyMTsgfQogICAgICAgIGlmIChkYXlOdW0gPCBKQU5fMV8yMDIzKSB7IHJldHVybiAyMDIyOyB9CiAgICAgICAgaWYgKGRheU51bSA8IEpBTl8xXzIwMjQpIHsgcmV0dXJuIDIwMjM7IH0KICAgICAgICBpZiAoZGF5TnVtIDwgSkFOXzFfMjAyNSkgeyByZXR1cm4gMjAyNDsgfQogICAgICAgIHJldHVybiBjYWxjdWxhdGVZZWFyKGRheU51bSkudmFsdWU7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGR1cmF0aW9uID0gRHVyYXRpb25Gb3JtYXRVdGlscy5mb3JtYXREdXJhdGlvbkhNUyhkdXJhdGlvbk1zKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbnQgeWVhckluZGV4ID0geWVhciAtIERhdGVDb25zdGFudHMuWUVBUl9aRVJPICsgMTsKCiAgICAgICAgLy8gVmFsaWRhdGlvbiBDaGVjawogICAgICAgIGludFtdIG1vbnRoRGF5cyA9IExlYXBZZWFyLmlzKHllYXIpID8gREFZU19JTl9NT05USFNfTFkgOiBEQVlTX0lOX01PTlRIUzsKICAgICAgICBpZiAoeWVhckluZGV4IDwgMCB8fCBtb250aCA+IG1vbnRoRGF5cy5sZW5ndGgpIHRocm93IG5ldyBJbnZhbGlkR2xvYmFsRGF0ZUV4Y2VwdGlvbigiRGF0ZSBpcyBvdXQgb2YgYm91bmRzICIgKyBtb250aCArICIvIiArIGRheSArICIvIiArIHllYXIpOwoKICAgICAgICBpbnQgZGF5TnVtID0gZGF5OwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDwgbW9udGg7IGkrKykgZGF5TnVtICs9IG1vbnRoRGF5c1tpXTsKCiAgICAgICAgcmV0dXJuIGRheU51bSArIGNhbGN1bGF0ZURheU51bUZvclllYXIoeWVhcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2956,10 +2957,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbGQgPSBMb2NhbERhdGUub2ZFcG9jaERheShkYXRlLmdldERheU51bWJlcigpICsgRVBPQ0hfREFURV9HTE9CQUxfREFURV9EQVlfTlVNKTsKICAgICAgICByZXR1cm4gbmV3IERhdGVQYXJ0czIobGQuZ2V0TW9udGhWYWx1ZSgpLCBsZC5nZXREYXlPZk1vbnRoKCksIGxkLmdldFllYXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBOT1RFIHRoYXQgNDA0cyBhcmUgc2VtYW50aWNhbGx5IHZhbGlkIGFuZCBjb21tb25seSBleHBlY3RlZAogICAgICAgIC8vICAgZS5nLiBmZWF0dXJlcyB0aGF0IGFyZSBub3QgeWV0IGRlZmluZWQgd2lsbCByZXR1cm4gYSA0MDQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBEYXlEaWZmIHllYXJOdW1iZXIgPSBjYWxjdWxhdGVZZWFyKGRheU51bSk7CiAgICAgICAgRGF5RGlmZiBtb250aE51bWJlciA9IGNhbGN1bGF0ZU1vbnRoKHllYXJOdW1iZXIucmVtYWluZGVyRGF5cywgeWVhck51bWJlci52YWx1ZSk7CiAgICAgICAgaW50IGRheXMgPSBtb250aE51bWJlci5yZW1haW5kZXJEYXlzOwogICAgICAgIHJldHVybiBuZXcgRGF0ZVBhcnRzMihtb250aE51bWJlci52YWx1ZSwgZGF5cywgeWVhck51bWJlci52YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2968,9 +2969,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>check</last-search>
+      <last-search encoding="base64">XDxkdXJhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern encoding="base64">XDxkdXJhdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
