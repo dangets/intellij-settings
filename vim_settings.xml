@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUaHJlYWRUcmFjZVw+</entry>
-        <entry>ca-calculator</entry>
-        <entry encoding="base64">XDxUaHJlYWRUcmVlXD4=</entry>
-        <entry>ca-account</entry>
-        <entry>create(</entry>
-        <entry>checkcachefore</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxyZXF1ZXN0Q29udGV4dFw+</entry>
         <entry encoding="base64">XDxnZXRVc2VySWRcPg==</entry>
@@ -24,6 +18,12 @@
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxMT0dcPg==</entry>
         <entry>log</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxmZWF0dXJlQ3JlYXRlZFw+</entry>
+        <entry>create</entry>
+        <entry encoding="base64">XDxjcmVhdGVBcHBsaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxhcHBGb29cPg==</entry>
+        <entry encoding="base64">XDxtaXNzaW5nRmVhdHVyZVw+</entry>
         <entry>blah</entry>
       </history-search>
       <history-cmd>
@@ -99,16 +99,19 @@
       <file name="$USER_HOME$/dev/ca-global-date-lib/src/main/java/com/ca/util/date/GlobalDates.java" timestamp="1591884946331">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/access-resource.feature" timestamp="1591932404144">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/access-resource.feature" timestamp="1591933127338">
+        <mark key="'" line="18" column="15" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591932251583">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591933586609">
+        <mark key="'" line="68" column="34" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" timestamp="1591912170900">
         <mark key="'" line="35" column="106" />
@@ -134,17 +137,18 @@
         <mark key="." line="94" column="15" />
         <mark key="^" line="36" column="83" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/createApplication.feature" timestamp="1591932757938">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591926618701">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/fip/fip-lib/src/main/java/com/ca/fip/DefaultPeriodCalc.java" timestamp="1591844190508">
-        <mark key="'" line="19" column="46" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/fip/fip-lib/3.19/fip-lib-3.19-sources.jar!/com/ca/fip/price/FloaterCashFlowDiscounter.java" timestamp="1591843561467">
-        <mark key="'" line="117" column="17" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/dao/ApplicationDao.java" timestamp="1591911152154">
         <mark key="'" line="78" column="12" />
@@ -161,6 +165,10 @@
       </file>
       <file name="$USER_HOME$/dev/ca-global-date-lib/src/main/java/com/ca/util/date/GlobalDateCache.java" timestamp="1591888105233">
         <mark key="'" line="21" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureResource.java" timestamp="1591932617757">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="56" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" timestamp="1591908906733">
         <mark key="'" line="182" column="12" />
@@ -179,23 +187,15 @@
       <file name="/fragment.java" timestamp="1591926799673">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/createFeature.feature" timestamp="1591932664285">
+        <mark key="'" line="6" column="49" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="6" column="61" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="212" column="58" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="274" column="30" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="285" column="23" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="162" column="96" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="175" column="92" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
-      <jump line="16" column="39" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="23" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="24" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="39" column="53" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="56" column="53" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="57" column="52" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="73" column="53" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="74" column="52" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
-      <jump line="90" column="53" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
       <jump line="91" column="52" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/test/java/com/ca/aws/etl/mergers/BalanceMergerTest.java" />
       <jump line="164" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/qa/dao/MemoryMECBalanceDao.java" />
       <jump line="89" column="31" filename="$USER_HOME$/dev/accounting/aws-lib/src/main/java/com/ca/aws/lib/field/BalanceFields.java" />
@@ -280,19 +280,34 @@
       <jump line="27" column="29" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
       <jump line="38" column="106" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/LoggingFilter.java" />
       <jump line="60" column="28" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AuthResource.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="9" column="41" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/createApplication.feature" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/createApplication.feature" />
+      <jump line="6" column="49" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/createFeature.feature" />
+      <jump line="6" column="28" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/createApplication.feature" />
+      <jump line="20" column="16" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/access-resource.feature" />
+      <jump line="19" column="15" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/access-resource.feature" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="5" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="3" column="14" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="13" column="63" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="49" column="51" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="54" column="48" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="22" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="25" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="2" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="68" column="34" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>createApplication</text>
+        <text>feature</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZUFwcGxpY2F0aW9uID0gcmVhZCgnLi9jcmVhdGVBcHBsaWNhdGlvbi5mZWF0dXJlJykK</text>
+        <text encoding="base64">ICAgICogZGVmIGVuYWJsZWRGZWF0dXJlID0gJ2VuYWJsZWQtZmVhdHVyZScKICAgICogZGVmIGNyZWF0ZSA9IGNhbGxvbmNlIGNyZWF0ZUZlYXR1cmUgeyBhcHBOYW1lOiBteUFwcCwgZmVhdHVyZU5hbWU6IGVuYWJsZWRGZWF0dXJlIH0KICAgIFRoZW4gYXNzZXJ0IGNyZWF0ZS5zdWNjZXNzZnVsCgogICAgKiBkZWYgZGlzYWJsZWRGZWF0dXJlID0gJ2Rpc2FibGVkLWZlYXR1cmUnCiAgICAqIGRlZiBjcmVhdGUgPSBjYWxsb25jZSBjcmVhdGVGZWF0dXJlIHsgYXBwTmFtZTogbXlBcHAsIGZlYXR1cmVOYW1lOiBkaXNhYmxlZEZlYXR1cmUgfQogICAgVGhlbiBhc3NlcnQgY3JlYXRlLnN1Y2Nlc3NmdWwKCiAgICAqIGRlZiBtaXNzaW5nRmVhdHVyZSA9ICdtaXNzaW5nLWZlYXR1cmUnCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>createApplication</text>
+        <text>feature</text>
       </register>
       <register name="/" type="4">
         <text>blah</text>
@@ -301,25 +316,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdpdmVuIHBhdGggJ2F1dGgvbG9nb3V0JwogICAgV2hlbiBtZXRob2QgR0VUCiAgICBUaGVuIHN0YXR1cyAyMDQKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIGZlYXR1cmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4oU3RyaW5nLmZvcm1hdCgiWyVzXSAlc1x0dXNlcjolc1x0c3RhdHVzOiVzXHRkdXJhdGlvbjolc21zXG5FTlRJVFk6JXMiLCBtZXRob2QsIHVyaSwgdXNlcklkLCBzdGF0dXMsIGR1cmF0aW9uTWlsbGlzLCByZXNwb25zZS5nZXRFbnRpdHkoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcm4obWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZSA9IGNhbGxvbmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXG5FTlRJVFk6JXMiICsgcmVzcG9uc2UuZ2V0RW50aXR5KCk7Cg==</text>
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2967,10 +2982,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLndhcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihMb2dnaW5nRmlsdGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
