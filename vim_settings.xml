@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>slf</entry>
         <entry>commons</entry>
         <entry>logging</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDxTZXJ2ZXJcPg==</entry>
         <entry>stop(</entry>
+        <entry encoding="base64">XDxjcmVhdGVGZWF0dXJlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -109,12 +109,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591934339631">
-        <mark key="'" line="13" column="30" />
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="71" column="51" />
-        <mark key="." line="71" column="50" />
-        <mark key="^" line="71" column="51" />
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" timestamp="1591938738476">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="75" column="43" />
+        <mark key="]" line="75" column="54" />
+        <mark key="." line="75" column="53" />
+        <mark key="^" line="75" column="54" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/KarateIT.java" timestamp="1591935271373">
         <mark key="'" line="43" column="4" />
@@ -151,11 +151,11 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/RestAssuredIT.java" timestamp="1591937537239">
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/RestAssuredIT.java" timestamp="1591937578961">
         <mark key="'" line="38" column="37" />
-        <mark key="[" line="52" column="22" />
-        <mark key="]" line="53" column="22" />
-        <mark key="." line="53" column="21" />
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="8" />
         <mark key="^" line="53" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1591926618701">
@@ -208,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="19" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.11.4/ca-calculator-lib-21.11.4.jar!/com/ca/calculator/amortization/ConstantYieldAmortCalcImpl.class" />
       <jump line="722" column="31" filename="$USER_HOME$/dev/accounting/pom.xml" />
       <jump line="946" column="28" filename="$USER_HOME$/dev/accounting/pom.xml" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.11.4/ca-calculator-lib-21.11.4-sources.jar!/com/ca/calculator/amortization/TargetsAndYieldsHelper.java" />
@@ -268,13 +267,11 @@
       <jump line="20" column="16" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/access-resource.feature" />
       <jump line="19" column="15" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/access-resource.feature" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
-      <jump line="5" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="49" column="51" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="54" column="48" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="2" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="68" column="34" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
-      <jump line="67" column="92" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="1" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="3" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="18" column="61" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
@@ -283,7 +280,6 @@
       <jump line="40" column="41" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="43" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="55" column="48" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
-      <jump line="19" column="11" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="25" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="18" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
@@ -308,45 +304,49 @@
       <jump line="412" column="24" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022-sources.jar!/org/eclipse/jetty/server/Server.java" />
       <jump line="442" column="26" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022-sources.jar!/org/eclipse/jetty/server/Server.java" />
       <jump line="453" column="20" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.22.v20191022/jetty-server-9.4.22.v20191022-sources.jar!/org/eclipse/jetty/server/Server.java" />
+      <jump line="67" column="26" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="5" column="46" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="19" column="29" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
+      <jump line="23" column="29" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>setStopTimeout</text>
+        <text>newAppName</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0QXNzdXJlZC5wb3J0ID0gc2VydmVyLmdldFVSSSgpLmdldFBvcnQoKTsK</text>
+        <text encoding="base64">ICAgICogZGVmIGNyZWF0ZUFwcGxpY2F0aW9uID0gcmVhZCgnLi9jcmVhdGVBcHBsaWNhdGlvbi5mZWF0dXJlJykK</text>
       </register>
       <register name="-" type="4">
-        <text>setStopTimeout</text>
+        <text>newAppName</text>
       </register>
       <register name="/" type="4">
-        <text>stop(</text>
+        <text encoding="base64">XDxjcmVhdGVGZWF0dXJlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmaW5pbmcgZHVwbGljYXRlIGZlYXR1cmUgc2hvdWxkIGZhaWwKICAgICogZGVmIGNyZWF0aW9uID0gY2FsbCBjcmVhdGVGZWF0dXJlIHsgYXBwTmFtZTogIyhuZXdBcHBOYW1lKSwgZmVhdHVyZU5hbWU6ICModGVzdEZlYXR1cmUpIH0KICAgIFRoZW4gYXNzZXJ0IGNyZWF0aW9uLnN0YXR1cyA9PSA0MDkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuZ2V0Q29ubmVjdG9ycygpWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFRlc3RDb250YWluZXJGYWN0b3J5IGdldFRlc3RDb250YWluZXJGYWN0b3J5KCkgdGhyb3dzIFRlc3RDb250YWluZXJFeGNlcHRpb24gewogICAgICAgIHJldHVybiBuZXcgR3JpenpseVdlYlRlc3RDb250YWluZXJGYWN0b3J5KCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgRGVwbG95bWVudENvbnRleHQgY29uZmlndXJlRGVwbG95bWVudCgpIHsKICAgICAgICBSZXNvdXJjZUNvbmZpZyByZXNvdXJjZUNvbmZpZyA9IG5ldyBBcHBDb25maWcoRGFnZ2VyRmVhdHVyZUZsYWdzQ29tcG9uZW50LmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmF1dGhTZXJ2aWNlKG5ldyBUZXN0QXV0aFNlcnZpY2UoKSkKICAgICAgICAgICAgICAgIC5kYXRhU291cmNlKERiQ29udGFpbmVyLmdldERhdGFTb3VyY2UoKSkKICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKCiAgICAgICAgcmV0dXJuIFNlcnZsZXREZXBsb3ltZW50Q29udGV4dAogICAgICAgICAgICAgICAgLmZvclNlcnZsZXQobmV3IFNlcnZsZXRDb250YWluZXIocmVzb3VyY2VDb25maWcpKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICB9CgogICAgQEJlZm9yZUVhY2gKICAgIHB1YmxpYyB2b2lkIHNldHVwQmVmb3JlRWFjaCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHRoaXMuc2V0VXAoKTsKICAgICAgICBSZXN0QXNzdXJlZC5wb3J0ID0gdGhpcy5nZXRQb3J0KCk7CiAgICAgICAgUmVzdEFzc3VyZWQuYmFzZVVSSSA9IHRoaXMuZ2V0QmFzZVVyaSgpLnRvU3RyaW5nKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuZ2V0Q29ubmVjdG9ycygpWzBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFRlc3RDb250YWluZXJGYWN0b3J5IGdldFRlc3RDb250YWluZXJGYWN0b3J5KCkgdGhyb3dzIFRlc3RDb250YWluZXJFeGNlcHRpb24gewogICAgICAgIHJldHVybiBuZXcgR3JpenpseVdlYlRlc3RDb250YWluZXJGYWN0b3J5KCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgRGVwbG95bWVudENvbnRleHQgY29uZmlndXJlRGVwbG95bWVudCgpIHsKICAgICAgICBSZXNvdXJjZUNvbmZpZyByZXNvdXJjZUNvbmZpZyA9IG5ldyBBcHBDb25maWcoRGFnZ2VyRmVhdHVyZUZsYWdzQ29tcG9uZW50LmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmF1dGhTZXJ2aWNlKG5ldyBUZXN0QXV0aFNlcnZpY2UoKSkKICAgICAgICAgICAgICAgIC5kYXRhU291cmNlKERiQ29udGFpbmVyLmdldERhdGFTb3VyY2UoKSkKICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKCiAgICAgICAgcmV0dXJuIFNlcnZsZXREZXBsb3ltZW50Q29udGV4dAogICAgICAgICAgICAgICAgLmZvclNlcnZsZXQobmV3IFNlcnZsZXRDb250YWluZXIocmVzb3VyY2VDb25maWcpKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICB9CgogICAgQEJlZm9yZUVhY2gKICAgIHB1YmxpYyB2b2lkIHNldHVwQmVmb3JlRWFjaCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHRoaXMuc2V0VXAoKTsKICAgICAgICBSZXN0QXNzdXJlZC5wb3J0ID0gdGhpcy5nZXRQb3J0KCk7CiAgICAgICAgUmVzdEFzc3VyZWQuYmFzZVVSSSA9IHRoaXMuZ2V0QmFzZVVyaSgpLnRvU3RyaW5nKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuam9pbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuam9pbigpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2994,10 +2994,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3006,9 +3006,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>stop(</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVGZWF0dXJlXD4=</last-search>
       <last-offset />
-      <last-pattern>stop(</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVGZWF0dXJlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
