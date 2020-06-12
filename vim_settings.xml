@@ -126,11 +126,11 @@
         <mark key="^" line="45" column="49" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f66e0642-e5fc-47a8-9b41-65eae6b6815b/console.sql" timestamp="1591992206409">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="18" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f66e0642-e5fc-47a8-9b41-65eae6b6815b/console.sql" timestamp="1591995595638">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/dev/chat-stack/athena/athena-ws/src/main/java/com/ca/athena/ws/resources/JobsResource.java" timestamp="1591988198280">
         <mark key="'" line="54" column="13" />
@@ -302,13 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>use reportingLM;
-select *
-from clients</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0CiAgICBldGxUeXBlSWQKICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjgwKSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IG1iTWVtb3J5KSBvdmVyIChwYXJ0aXRpb24gYnkgZXRsVHlwZUlkKSBwODAKICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjkwKSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IG1iTWVtb3J5KSBvdmVyIChwYXJ0aXRpb24gYnkgZXRsVHlwZUlkKSBwOTAKICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjk1KSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IG1iTWVtb3J5KSBvdmVyIChwYXJ0aXRpb24gYnkgZXRsVHlwZUlkKSBwOTUKZnJvbSBhdGhlbmEuZGJvLkFjY291bnRFdGxQYXJhbWV0ZXJzIHBhcm1zCndoZXJlIDE9MQogIGFuZCBqb2JUeXBlSWQgPSAxCiAgYW5kIHRzTGFzdFVwZGF0ZWQgPiAnMjAyMC0wMS0wMScK</text>
+        <text encoding="base64">dXNlIEhlcm1lc19sb2NhbDsKCgpzZWxlY3QgKgpmcm9tIGRiby5FdGxTZXJ2ZXJBbGxvY2F0aW9ucwp3aGVyZSAxPTEKYW5kIGhvc3RuYW1lIExJS0UgJ3N0YWdpbmctZXRsLWRpc3BhdGNoZXItMSUnCmFuZCB0c0FsbG9jYXRlZCBCRVRXRUVOICcyMDIwLTA2LTEyJyBBTkQgJzIwMjAtMDYtMTMnCm9yZGVyIGJ5IHRzQWxsb2NhdGVkIGRlc2MK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -320,27 +318,27 @@ from clients</text>
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICoK</text>
+      </register>
+      <register name="2" type="2">
         <text>use reportingLM;
 select *
 from clients</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBhbmQgZXRsVHlwZUlkID0gMQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjgwKSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IG1iTWVtb3J5KSBvdmVyICgpIHA4MAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcGVyY2VudGlsZV9kaXNjKDAuNTApIHdpdGhpbiBncm91cCAob3JkZXIgYnkgcnVudGltZV9zKSBvdmVyICgpIHA1MF9zCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">O3dpdGggKAogICAgc2VsZWN0ICoKICAgIGZyb20gZGJvLkFjY291bnRFdGxQYXJhbWV0ZXJzCikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">b3JkZXIgYnkgbWJNZW1vcnkgZGVzYwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgYWNjb3VudElkID0gMjA1MTMwCg==</text>
+        <text encoding="base64">b3JkZXIgYnkgbWJNZW1vcnkgZGVzYwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2988,11 +2986,10 @@ from clients</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgbWJNZW1vcnkgPCA0MDAwCg==</text>
+        <text encoding="base64">ICBhbmQgYWNjb3VudElkID0gMjA1MTMwCg==</text>
       </register>
       <register name="9" type="2">
-        <text>select top(100) *
-from dbo.</text>
+        <text encoding="base64">ICBhbmQgbWJNZW1vcnkgPCA0MDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
