@@ -177,12 +177,12 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1591972098071">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1591980912227">
         <mark key="'" line="344" column="0" />
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="19" />
-        <mark key="." line="358" column="0" />
-        <mark key="^" line="348" column="19" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="0" />
+        <mark key="." line="357" column="0" />
+        <mark key="^" line="356" column="73" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/FeatureResource.java" timestamp="1591932617757">
         <mark key="[" line="61" column="0" />
@@ -308,13 +308,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbmQgam9iVHlwZUlkID0gMQo=</text>
+        <text encoding="base64">ICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjgwKSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IG1iTWVtb3J5KSBvdmVyICgpIHA4MAo=</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICBhbmQgam9iVHlwZUlkID0gMQo=</text>
+        <text encoding="base64">ICAgICAgIHBlcmNlbnRpbGVfZGlzYygwLjgwKSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IG1iTWVtb3J5KSBvdmVyICgpIHA4MAo=</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
         <text>disc</text>
@@ -323,30 +323,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcGVyY2VudGlsZV9kaXNjKDAuNTApIHdpdGhpbiBncm91cCAob3JkZXIgYnkgcnVudGltZV9zKSBvdmVyICgpIHA1MF9zCg==</text>
+        <text encoding="base64">ICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjgwKSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IG1iTWVtb3J5KSBvdmVyICgpIHA4MAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">O3dpdGggKAogICAgc2VsZWN0ICoKICAgIGZyb20gZGJvLkFjY291bnRFdGxQYXJhbWV0ZXJzCikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcGVyY2VudGlsZV9kaXNjKDAuNTApIHdpdGhpbiBncm91cCAob3JkZXIgYnkgcnVudGltZV9zKSBvdmVyICgpIHA1MF9zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JkZXIgYnkgbWJNZW1vcnkgZGVzYwo=</text>
+        <text encoding="base64">O3dpdGggKAogICAgc2VsZWN0ICoKICAgIGZyb20gZGJvLkFjY291bnRFdGxQYXJhbWV0ZXJzCikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbmQgYWNjb3VudElkID0gMjA1MTMwCg==</text>
+        <text encoding="base64">b3JkZXIgYnkgbWJNZW1vcnkgZGVzYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbmQgbWJNZW1vcnkgPCA0MDAwCg==</text>
+        <text encoding="base64">ICBhbmQgYWNjb3VudElkID0gMjA1MTMwCg==</text>
       </register>
       <register name="6" type="2">
-        <text>select top(100) *
-from dbo.</text>
+        <text encoding="base64">ICBhbmQgbWJNZW1vcnkgPCA0MDAwCg==</text>
       </register>
       <register name="7" type="2">
         <text>select top(100) *
-from dbo.EtlStateUpdates
-order by id desc
-
-select top(20) *
 from dbo.</text>
       </register>
       <register name="w" type="4">
@@ -2995,10 +2990,15 @@ from dbo.</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGVmaW5pbmcgZHVwbGljYXRlIGZlYXR1cmUgc2hvdWxkIGZhaWwKICAgICogZGVmIGNyZWF0aW9uID0gY2FsbCBjcmVhdGVGZWF0dXJlIHsgYXBwTmFtZTogIyhuZXdBcHBOYW1lKSwgZmVhdHVyZU5hbWU6ICModGVzdEZlYXR1cmUpIH0KICAgIFRoZW4gYXNzZXJ0IGNyZWF0aW9uLnN0YXR1cyA9PSA0MDkK</text>
+        <text>select top(100) *
+from dbo.EtlStateUpdates
+order by id desc
+
+select top(20) *
+from dbo.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmaW5pbmcgZHVwbGljYXRlIGZlYXR1cmUgc2hvdWxkIGZhaWwKICAgICogZGVmIGNyZWF0aW9uID0gY2FsbCBjcmVhdGVGZWF0dXJlIHsgYXBwTmFtZTogIyhuZXdBcHBOYW1lKSwgZmVhdHVyZU5hbWU6ICModGVzdEZlYXR1cmUpIH0KICAgIFRoZW4gYXNzZXJ0IGNyZWF0aW9uLnN0YXR1cyA9PSA0MDkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
