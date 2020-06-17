@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXJ2ZXJcPg==</entry>
         <entry>stop(</entry>
         <entry encoding="base64">XDxjcmVhdGVGZWF0dXJlXD4=</entry>
         <entry>disc</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx3aXRoVGltZW91dFw+</entry>
         <entry encoding="base64">XDxlbmFibGVkRmVhdHVyZXNSZXNvdXJjZVw+</entry>
         <entry>withtimeout</entry>
+        <entry>checkfeatureglobal</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -96,6 +96,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" timestamp="1592431068282">
         <mark key="'" line="432" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AccessResource.java" timestamp="1592431976984">
+        <mark key="'" line="13" column="13" />
+      </file>
       <file name="/console" timestamp="1592279010861">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,13 +131,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" timestamp="1592431096130">
         <mark key="'" line="388" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" timestamp="1591935544045">
-        <mark key="'" line="3" column="38" />
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="83" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="54" />
       </file>
       <file name="/dumpDataPreview" timestamp="1592001183267">
         <mark key="[" line="0" column="0" />
@@ -177,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="10" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/feature-flags.feature" />
       <jump line="18" column="30" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
       <jump line="3" column="38" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/test/java/com/ca/feature/flags/karate/authentication.feature" />
@@ -277,6 +272,7 @@
       <jump line="234" column="61" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
       <jump line="39" column="27" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
       <jump line="80" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AccessResource.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,7 +287,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>withtimeout</text>
+        <text>checkfeatureglobal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -2975,9 +2971,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>withtimeout</last-search>
+      <last-search>checkfeatureglobal</last-search>
       <last-offset />
-      <last-pattern>withtimeout</last-pattern>
+      <last-pattern>checkfeatureglobal</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
