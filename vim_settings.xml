@@ -110,7 +110,7 @@
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="41" />
         <mark key="." line="48" column="41" />
-        <mark key="^" line="51" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f66e0642-e5fc-47a8-9b41-65eae6b6815b/console.sql" timestamp="1592338379432">
         <mark key="'" line="120" column="0" />
