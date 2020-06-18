@@ -72,5 +72,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://st-reportdb;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="boi-recondb" uuid="13aa4549-fa87-4bf3-958b-d2ed7c1a6431">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://boi-recondb;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
   </component>
 </application>
