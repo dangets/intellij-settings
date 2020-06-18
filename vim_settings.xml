@@ -112,11 +112,11 @@
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f66e0642-e5fc-47a8-9b41-65eae6b6815b/console.sql" timestamp="1592338379432">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f66e0642-e5fc-47a8-9b41-65eae6b6815b/console.sql" timestamp="1592487379369">
         <mark key="'" line="120" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="127" column="37" />
-        <mark key="." line="121" column="41" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="66" column="89" />
         <mark key="^" line="121" column="42" />
       </file>
       <file name="/a.sql" timestamp="1592445612178">
@@ -284,11 +284,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlICMjYXdzX2FjY291bnRfaWRzIChhY2NvdW50SWQgSU5UIE5PVCBOVUxMIFBSSU1BUlkgS0VZKQoKaW5zZXJ0IGludG8gIyNhd3NfYWNjb3VudF9pZHMgKGFjY291bnRJZCkKc2VsZWN0IGRpc3RpbmN0IGFjY291bnRJZApmcm9tIEV0bFNlcnZlckFsbG9jYXRpb25zCndoZXJlIDE9MQogIGFuZCBldGxUeXBlSWQgPSAxCiAgYW5kIGV0bERvbmVTdGF0ZUlkID0gMQogIGFuZCBqb2JUeXBlSWQgPSAxCiAgYW5kIGhvc3RuYW1lIExJS0UgJ3N0YWdpbmctZXRsLWRpc3BhdGNoZXItMSUnCiAgYW5kIHRzQWxsb2NhdGVkIEJFVFdFRU4gJzIwMjAtMDYtMTInIEFORCAnMjAyMC0wNi0xMycKCg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBmZi5GZWF0dXJlcwo=</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlICMjYXdzX2FjY291bnRfaWRzIChhY2NvdW50SWQgSU5UIE5PVCBOVUxMIFBSSU1BUlkgS0VZKQoKaW5zZXJ0IGludG8gIyNhd3NfYWNjb3VudF9pZHMgKGFjY291bnRJZCkKc2VsZWN0IGRpc3RpbmN0IGFjY291bnRJZApmcm9tIEV0bFNlcnZlckFsbG9jYXRpb25zCndoZXJlIDE9MQogIGFuZCBldGxUeXBlSWQgPSAxCiAgYW5kIGV0bERvbmVTdGF0ZUlkID0gMQogIGFuZCBqb2JUeXBlSWQgPSAxCiAgYW5kIGhvc3RuYW1lIExJS0UgJ3N0YWdpbmctZXRsLWRpc3BhdGNoZXItMSUnCiAgYW5kIHRzQWxsb2NhdGVkIEJFVFdFRU4gJzIwMjAtMDYtMTInIEFORCAnMjAyMC0wNi0xMycKCg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
