@@ -96,7 +96,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/13aa4549-fa87-4bf3-958b-d2ed7c1a6431/console.sql" timestamp="1592445555352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592445612190">
+      <file name="/Dummy.txt" timestamp="1593032351042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="0" />
@@ -104,9 +104,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" timestamp="1592431068282">
         <mark key="'" line="432" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/runners/DefaultAccountRunner.java" timestamp="1592405880784">
-        <mark key="'" line="812" column="93" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-ws/src/main/java/com/ca/feature/flags/ws/resources/AccessResource.java" timestamp="1592431976984">
         <mark key="'" line="13" column="13" />
@@ -117,15 +114,17 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="/console" timestamp="1593028639441">
+      <file name="/console" timestamp="1593032893580">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" timestamp="1593033082416">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" timestamp="1593029260287">
         <mark key="'" line="59" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592243808403">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureLoader.java" timestamp="1592408280627">
         <mark key="[" line="48" column="41" />
@@ -140,7 +139,7 @@
         <mark key="." line="61" column="15" />
         <mark key="^" line="61" column="15" />
       </file>
-      <file name="/a.sql" timestamp="1592445612178">
+      <file name="/a.sql" timestamp="1593032351028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1593017655489">
@@ -169,12 +168,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="108" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593032065487">
-        <mark key="'" line="188" column="14" />
-        <mark key="[" line="197" column="7" />
-        <mark key="]" line="197" column="7" />
-        <mark key="." line="197" column="7" />
-        <mark key="^" line="189" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593035438558">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="219" column="88" />
+        <mark key="]" line="219" column="89" />
+        <mark key="." line="219" column="89" />
+        <mark key="^" line="215" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" timestamp="1592431096130">
         <mark key="'" line="388" column="42" />
@@ -184,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="49" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
-      <jump line="236" column="39" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
       <jump line="98" column="32" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" />
       <jump line="112" column="13" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" />
       <jump line="199" column="27" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" />
@@ -284,18 +281,20 @@
       <jump line="59" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" />
       <jump line="186" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
       <jump line="188" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
+      <jump line="132" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dG9wKDEwKSA=</text>
+        <text>tsAllocated</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">YW5kIGFjY291bnRUeXBlID0gMQo=</text>
+      <register name="+" type="4">
+        <text>v161p95</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9wKDEwKSA=</text>
+        <text>tsAllocated</text>
       </register>
       <register name="/" type="4">
         <text>blah</text>
@@ -304,32 +303,37 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9yZGVyIGJ5IHRzQWxsb2NhdGVkIGRlc2MK</text>
+        <text encoding="base64">ICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjk1KSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IGR1ckxhcykgb3ZlciAocGFydGl0aW9uIGJ5IDEpIGxhc1A5NQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS1mcm9tIGpvYnMgd2hlcmUgZHVyTWluID4gMTAK</text>
+        <text encoding="base64">ICAgICAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5kCg==</text>
+        <text encoding="base64">ICAgICAsIGR1clNlYzE2MQo=</text>
       </register>
-      <register name="4" type="2">
-        <text>select *
-from EtlStateUpdates
-where jobUuid = '7897E8EC-9246-4145-96BB-CA8E602BF4AB'
-
-
-select *
-from JobConfigs jc
-where accountId = 129024 and accountType = 1</text>
+      <register name="4" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">O3dpdGggam9icyBhcyAoCiAgICBzZWxlY3QgdG9wKDEwMDApIGRhdGVkaWZmKG1pbnV0ZSwgZXNhLnRzQWxsb2NhdGVkLCBlc2EudHNEb25lKSBkdXJNaW4sIGVzYS4qCiAgICBmcm9tIEV0bFNlcnZlckFsbG9jYXRpb25zIGVzYQogICAgd2hlcmUgMSA9IDEKICAgICAgYW5kIGVzYS5ldGxUeXBlSWQgPSAxCiAgICAgIGFuZCBlc2Euam9iVHlwZUlkID0gMQogICAgICBhbmQgZXNhLmV0bERvbmVTdGF0ZUlkID0gMQogICAgICBhbmQgZXNhLnZlcnNpb24gPSAnMi4xNjIuMScKKQpzZWxlY3QgKgpmcm9tIGpvYnMKd2hlcmUgZHVyTWluID4gMTAKb3JkZXIgYnkgZHVyTWluIGRlc2MKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kIGV0bFR5cGVJZCA9IDEK</text>
+        <text encoding="base64">ICAgICAgYW5kIGVzYS50c0FsbG9jYXRlZCA+ICcyMDIwLTA2LTI0IDE2OjAwOjAwJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5kCg==</text>
+        <text encoding="base64">ICAgIAogICAgKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2976,11 +2980,11 @@ where accountId = 129024 and accountType = 1</text>
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBFdGxTZXJ2ZXJBbGxvY2F0aW9ucyBlc2EKd2hlcmUgMT0xCmFuZCBlc2EuCgo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">LS0gCi0tIAotLSAKLS0gCi0tIAotLSAKLS0gCi0tIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlICMjYWlnQWNjb3VudHMgKGFjY291bnRJZCBpbnQgbm90IG51bGwgcHJpbWFyeSBrZXkpCgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
