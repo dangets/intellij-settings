@@ -162,12 +162,12 @@
       <file name="$USER_HOME$/dev/chat-stack/athena/athena-ws/src/main/java/com/ca/athena/ws/resources/JobsResource.java" timestamp="1591988198280">
         <mark key="'" line="54" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593008994871">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593017590175">
         <mark key="'" line="165" column="0" />
-        <mark key="[" line="176" column="6" />
-        <mark key="]" line="176" column="8" />
-        <mark key="." line="176" column="7" />
-        <mark key="^" line="176" column="8" />
+        <mark key="[" line="192" column="18" />
+        <mark key="]" line="192" column="18" />
+        <mark key="." line="192" column="17" />
+        <mark key="^" line="192" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" timestamp="1592431096130">
         <mark key="'" line="388" column="42" />
