@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aW1lb3V0TVNcPg==</entry>
         <entry encoding="base64">XDx3aXRoVGltZW91dFw+</entry>
         <entry encoding="base64">XDxlbmFibGVkRmVhdHVyZXNSZXNvdXJjZVw+</entry>
         <entry>withtimeout</entry>
@@ -22,9 +21,10 @@
         <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxnZXRSYXdMb3RBY3Rpb25Sb3dzQnlBY2NvdW50SWRcPg==</entry>
         <entry>building pp</entry>
-        <entry>blah</entry>
         <entry encoding="base64">XDxzaG91bGRSdW5Mb3RcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzRGF0ZVJhbmdlXD4=</entry>
+        <entry encoding="base64">XDxydW5uYWJsZU9ubHlPbmNlXD4=</entry>
+        <entry>blah</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -120,6 +120,9 @@
       <file name="/console" timestamp="1593028639441">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" timestamp="1593029260287">
+        <mark key="'" line="59" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592243808403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -181,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="756" column="97" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/runners/DefaultAccountRunner.java" />
-      <jump line="812" column="93" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/runners/DefaultAccountRunner.java" />
       <jump line="77" column="127" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
       <jump line="106" column="37" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
       <jump line="110" column="49" filename="$USER_HOME$/dev/feature-flags/feature-flags-client/src/main/java/com/ca/feature/flags/client/FeatureFlagsClient.java" />
@@ -281,6 +282,8 @@
       <jump line="386" column="17" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
       <jump line="253" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
       <jump line="370" column="8" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/DefaultBookkeeper.java" />
+      <jump line="48" column="33" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" />
+      <jump line="59" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,7 +298,7 @@
         <text>accountType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzRGF0ZVJhbmdlXD4=</text>
+        <text>blah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -2979,13 +2982,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzRGF0ZVJhbmdlXD4=</last-search>
+      <last-search>blah</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzRGF0ZVJhbmdlXD4=</last-pattern>
+      <last-pattern>blah</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
