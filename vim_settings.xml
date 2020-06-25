@@ -165,12 +165,12 @@
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/fip/fip-lib/3.19/fip-lib-3.19-sources.jar!/com/ca/fip/price/MbsCashFlowDiscounter.java" timestamp="1593035802605">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593059006731">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="261" column="9" />
-        <mark key="]" line="261" column="15" />
-        <mark key="." line="261" column="9" />
-        <mark key="^" line="261" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593092333395">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="39" />
+        <mark key="." line="279" column="0" />
+        <mark key="^" line="275" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" timestamp="1592431096130">
         <mark key="'" line="388" column="42" />
@@ -180,16 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="82" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" />
-      <jump line="69" column="108" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-wsclient-util3/3.31/ca-wsclient-util3-3.31-sources.jar!/com/ca/wsclient3/request/RequestMethod.java" />
-      <jump line="318" column="14" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="367" column="71" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="395" column="61" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="417" column="30" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="430" column="27" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="502" column="71" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="503" column="54" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="551" column="30" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
       <jump line="58" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
       <jump line="84" column="32" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
       <jump line="102" column="50" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
@@ -273,25 +263,35 @@
       <jump line="48" column="33" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" />
       <jump line="59" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" />
       <jump line="186" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
-      <jump line="188" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
       <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
       <jump line="132" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/fip/fip-lib/3.19/fip-lib-3.19-sources.jar!/com/ca/fip/price/MbsCashFlowDiscounter.java" />
       <jump line="487" column="19" filename="$USER_HOME$/dev/gl-lib/src/main/java/com/ca/gl/multibasis/dao/GetGlConfigurationDao.java" />
       <jump line="192" column="19" filename="$USER_HOME$/dev/gl-lib/src/main/java/com/ca/gl/multibasis/dao/GetGlConfigurationDao.java" />
       <jump line="370" column="30" filename="$USER_HOME$/dev/gl-lib/src/main/java/com/ca/gl/multibasis/dao/GetGlConfigurationDao.java" />
+      <jump line="246" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="247" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="188" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="253" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="268" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="226" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="278" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="280" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="272" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="229" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="231" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBUaW1lbG9yZHMuR2xDb25maWd1cmF0aW9uSGlzdG9yeSBnbAp3aGVyZSBnbC5hY2NvdW50SWQgPSAxMzI3MzkK</text>
+        <text encoding="base64">ICAgICAgYW5kIGVzYS5ob3N0bmFtZSBsaWtlICdwcm9kLWJvaSUnCg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBUaW1lbG9yZHMuR2xDb25maWd1cmF0aW9uSGlzdG9yeSBnbAp3aGVyZSBnbC5hY2NvdW50SWQgPSAxMzI3MzkK</text>
+        <text encoding="base64">ICAgICAgYW5kIGVzYS5ob3N0bmFtZSBsaWtlICdwcm9kLWJvaSUnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>tablesample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZENhbGxhYmxlU3RhdGVtZW50Rm9yR2xTZXR0aW5nc1w+</text>
@@ -300,26 +300,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhdWRpdC4K</text>
+        <text encoding="base64">am9pbiAjYWlnQWNjb3VudHMyIGEgb24gZXNhLmFjY291bnRJZCA9IGEuYWNjb3VudElkCndoZXJlIDE9MQogIGFuZCBlc2EuZXRsVHlwZUlkID0gMSBhbmQgZXNhLmpvYlR5cGVJZCA9IDEgYW5kIGVzYS5ldGxEb25lU3RhdGVJZCA9IDEgYW5kIGVzYS52ZXJzaW9uID0gJzIuMTYyLjEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text>select *
-from Timelords_audit.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>;sp_script ''</text>
+        <text encoding="base64">ICAgICAgIGRhdGVkaWZmKHNlY29uZCwgdHNBbGxvY2F0ZWQsIHRzRG9uZSkgZHVyU2VjMTYyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIAo=</text>
+        <text encoding="base64">ICBhbmQgZXNhLnRzQWxsb2NhdGVkIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAsIGR1clNlYzE2Mgo=</text>
+        <text encoding="base64">KQpzZWxlY3QgKgpmcm9tIHRhc2tzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGVzYS4K</text>
+        <text encoding="base64">O3dpdGggdGFza3MgYXMgKAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2967,10 +2966,10 @@ from Timelords_audit.</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjk1KSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IGR1ckxhcykgb3ZlciAocGFydGl0aW9uIGJ5IDEpIGxhc1A5NQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
