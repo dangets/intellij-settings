@@ -78,5 +78,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://boi-recondb;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@boi-mssql-db3" uuid="ee32250e-a7e5-40fd-8f4f-2e0286f51fc3">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://boi-mssql-db3;integratedSecurity=true;authenticationScheme=JavaKerberos</jdbc-url>
+    </data-source>
   </component>
 </application>
