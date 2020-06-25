@@ -179,20 +179,18 @@
       <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/fip/fip-lib/3.19/fip-lib-3.19-sources.jar!/com/ca/fip/price/MbsCashFlowDiscounter.java" timestamp="1593035802605">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593117024894">
-        <mark key="'" line="217" column="5" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="205" column="42" />
-        <mark key="^" line="205" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593121028036">
+        <mark key="'" line="288" column="0" />
+        <mark key="[" line="356" column="25" />
+        <mark key="]" line="356" column="45" />
+        <mark key="." line="356" column="44" />
+        <mark key="^" line="356" column="45" />
       </file>
       <file name="/dumpDataPreview" timestamp="1593102529675">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="553" column="20" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
-      <jump line="60" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
       <jump line="86" column="22" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
       <jump line="104" column="29" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
       <jump line="305" column="18" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.11/httpclient-4.5.11-sources.jar!/org/apache/http/client/config/RequestConfig.java" />
@@ -291,18 +289,20 @@
       <jump line="239" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
       <jump line="6" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6fda72a8-e2c6-46fe-8a69-2c78b598e96e/console.sql" />
       <jump line="217" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="203" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
+      <jump line="288" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0CiAgICAgICBhLmFjY291bnRJZAogICAgICwgZXNhMTYxLnZlcnNpb24sIGVzYTE2MS50c0RvbmUKICAgICAsIGR1clNlYzE2MQogICAgICwgZHVyU2VjMTYyCiAgICAgLCAoY2FzdChkdXJTZWMxNjIgYXMgZmxvYXQpIC8gZHVyU2VjMTYxKSBkaWZmCiAgICAgLCBwZXJjZW50aWxlX2Rpc2MoMC45NSkgd2l0aGluIGdyb3VwIChvcmRlciBieSBkdXJTZWMxNjEpIG92ZXIgKHBhcnRpdGlvbiBieSAxKSB2MTYxcDk1CiAgICAgLCBwZXJjZW50aWxlX2Rpc2MoMC45NSkgd2l0aGluIGdyb3VwIChvcmRlciBieSBkdXJTZWMxNjIpIG92ZXIgKHBhcnRpdGlvbiBieSAxKSB2MTYycDk1CiAgICAgLCBhdmcoY2FzdChkdXJTZWMxNjIgYXMgZmxvYXQpIC8gZHVyU2VjMTYxKSBvdmVyIChwYXJ0aXRpb24gYnkgMSkgYXZnRGlmZgpmcm9tICNhaWdBY2NvdW50cyBhCmNyb3NzIGFwcGx5ICgKICAgIHNlbGVjdCB0b3AoMSkgZGF0ZWRpZmYoc2Vjb25kLCB0c0FsbG9jYXRlZCwgdHNEb25lKSBkdXJTZWMxNjIKICAgIGZyb20gRXRsU2VydmVyQWxsb2NhdGlvbnMgKE5PTE9DSykgZXNhCiAgICB3aGVyZSBlc2EuYWNjb3VudElkID0gYS5hY2NvdW50SWQKICAgICAgYW5kIGVzYS5ldGxUeXBlSWQgPSAxIGFuZCBlc2Euam9iVHlwZUlkID0gMSBhbmQgZXNhLmV0bERvbmVTdGF0ZUlkID0gMSBhbmQgZXNhLnZlcnNpb24gPSAnMi4xNjIuMScKICAgICAgYW5kIGVzYS50c0FsbG9jYXRlZCA+ICcyMDIwLTA2LTI0IDE2OjAwOjAwJwogICAgICBhbmQgZXNhLmhvc3RuYW1lIGxpa2UgJ3Byb2QtYm9pJScKICAgIG9yZGVyIGJ5IGVzYS50c0FsbG9jYXRlZCBkZXNjCikgZXNhMTYyCmNyb3NzIGFwcGx5ICgKICAgIHNlbGVjdCB0b3AoMSkgZGF0ZWRpZmYoc2Vjb25kLCB0c0FsbG9jYXRlZCwgdHNEb25lKSBkdXJTZWMxNjEsIHZlcnNpb24sIHRzRG9uZQogICAgZnJvbSBFdGxTZXJ2ZXJBbGxvY2F0aW9ucyAoTk9MT0NLKSBlc2EKICAgIHdoZXJlIGVzYS5hY2NvdW50SWQgPSBhLmFjY291bnRJZAogICAgICBhbmQgZXNhLmV0bFR5cGVJZCA9IDEgYW5kIGVzYS5qb2JUeXBlSWQgPSAxIGFuZCBlc2EuZXRsRG9uZVN0YXRlSWQgPSAxIGFuZCBlc2EudmVyc2lvbiAhPSAnMi4xNjIuMScKICAgICAgYW5kIGVzYS50c0FsbG9jYXRlZCA8ICcyMDIwLTA2LTI0IDE2OjAwOjAwJwogICAgICBhbmQgZXNhLmhvc3RuYW1lIGxpa2UgJ3Byb2QtYm9pJScKICAgIG9yZGVyIGJ5IGVzYS50c0FsbG9jYXRlZCBkZXNjCikgZXNhMTYxCgo=</text>
+      <register name="&quot;" type="4">
+        <text>Diff</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">c2VsZWN0CiAgICAgICBhLmFjY291bnRJZAogICAgICwgZXNhMTYxLnZlcnNpb24sIGVzYTE2MS50c0RvbmUKICAgICAsIGR1clNlYzE2MQogICAgICwgZHVyU2VjMTYyCiAgICAgLCAoY2FzdChkdXJTZWMxNjIgYXMgZmxvYXQpIC8gZHVyU2VjMTYxKSBkaWZmCiAgICAgLCBwZXJjZW50aWxlX2Rpc2MoMC45NSkgd2l0aGluIGdyb3VwIChvcmRlciBieSBkdXJTZWMxNjEpIG92ZXIgKHBhcnRpdGlvbiBieSAxKSB2MTYxcDk1CiAgICAgLCBwZXJjZW50aWxlX2Rpc2MoMC45NSkgd2l0aGluIGdyb3VwIChvcmRlciBieSBkdXJTZWMxNjIpIG92ZXIgKHBhcnRpdGlvbiBieSAxKSB2MTYycDk1CiAgICAgLCBhdmcoY2FzdChkdXJTZWMxNjIgYXMgZmxvYXQpIC8gZHVyU2VjMTYxKSBvdmVyIChwYXJ0aXRpb24gYnkgMSkgYXZnRGlmZgpmcm9tICNhaWdBY2NvdW50cyBhCmNyb3NzIGFwcGx5ICgKICAgIHNlbGVjdCB0b3AoMSkgZGF0ZWRpZmYoc2Vjb25kLCB0c0FsbG9jYXRlZCwgdHNEb25lKSBkdXJTZWMxNjIKICAgIGZyb20gRXRsU2VydmVyQWxsb2NhdGlvbnMgKE5PTE9DSykgZXNhCiAgICB3aGVyZSBlc2EuYWNjb3VudElkID0gYS5hY2NvdW50SWQKICAgICAgYW5kIGVzYS5ldGxUeXBlSWQgPSAxIGFuZCBlc2Euam9iVHlwZUlkID0gMSBhbmQgZXNhLmV0bERvbmVTdGF0ZUlkID0gMSBhbmQgZXNhLnZlcnNpb24gPSAnMi4xNjIuMScKICAgICAgYW5kIGVzYS50c0FsbG9jYXRlZCA+ICcyMDIwLTA2LTI0IDE2OjAwOjAwJwogICAgICBhbmQgZXNhLmhvc3RuYW1lIGxpa2UgJ3Byb2QtYm9pJScKICAgIG9yZGVyIGJ5IGVzYS50c0FsbG9jYXRlZCBkZXNjCikgZXNhMTYyCmNyb3NzIGFwcGx5ICgKICAgIHNlbGVjdCB0b3AoMSkgZGF0ZWRpZmYoc2Vjb25kLCB0c0FsbG9jYXRlZCwgdHNEb25lKSBkdXJTZWMxNjEsIHZlcnNpb24sIHRzRG9uZQogICAgZnJvbSBFdGxTZXJ2ZXJBbGxvY2F0aW9ucyAoTk9MT0NLKSBlc2EKICAgIHdoZXJlIGVzYS5hY2NvdW50SWQgPSBhLmFjY291bnRJZAogICAgICBhbmQgZXNhLmV0bFR5cGVJZCA9IDEgYW5kIGVzYS5qb2JUeXBlSWQgPSAxIGFuZCBlc2EuZXRsRG9uZVN0YXRlSWQgPSAxIGFuZCBlc2EudmVyc2lvbiAhPSAnMi4xNjIuMScKICAgICAgYW5kIGVzYS50c0FsbG9jYXRlZCA8ICcyMDIwLTA2LTI0IDE2OjAwOjAwJwogICAgICBhbmQgZXNhLmhvc3RuYW1lIGxpa2UgJ3Byb2QtYm9pJScKICAgIG9yZGVyIGJ5IGVzYS50c0FsbG9jYXRlZCBkZXNjCikgZXNhMTYxCgo=</text>
+        <text encoding="base64">ICAgICAgICwgYXZnKGR1ck0pIG92ZXIgKHBhcnRpdGlvbiBieSBhY2NvdW50SWQsIHZlcnNpb24pIGF2Zwo=</text>
       </register>
       <register name="-" type="4">
-        <text>athena</text>
+        <text>Diff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZENhbGxhYmxlU3RhdGVtZW50Rm9yR2xTZXR0aW5nc1w+</text>
@@ -311,25 +311,25 @@
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lKHRzQWxsb2NhdGVkKSBkdEFsCg==</text>
+        <text encoding="base64">ICAsIGNhc3QodjIuYXZnIGFzIGZsb2F0KSBkaWZmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgZXNhCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5kIAo=</text>
+        <text encoding="base64">cGl2b3QgKAogICAgCiAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLS0gKgo=</text>
       </register>
       <register name="6" type="2">
-        <text>s</text>
+        <text encoding="base64">ICBzZWxlY3QgZGlzdGluY3QKICAgICAgIC0tICoKICAgICAgYWNjb3VudElkCiAgICAgICAsIHZlcnNpb24KICAgICAgICwgY291bnQoMSkgb3ZlciAocGFydGl0aW9uIGJ5IGFjY291bnRJZCwgdmVyc2lvbikgbgogICAgICAgLCBhdmcoZHVyTSkgb3ZlciAocGFydGl0aW9uIGJ5IGFjY291bnRJZCwgdmVyc2lvbikgYXZnCiAgICAgICAsIHBlcmNlbnRpbGVfZGlzYygwLjk1KSB3aXRoaW4gZ3JvdXAgKG9yZGVyIGJ5IGR1ck0pIG92ZXIgKHBhcnRpdGlvbiBieSBhY2NvdW50SWQsIHZlcnNpb24pIHA5NQpmcm9tIEVUTF9BTExPQ1MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICwgYXZnKGR1ck0pIG92ZXIgKHBhcnRpdGlvbiBieSBhY2NvdW50SWQsIHZlcnNpb24pIGF2Zwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2977,10 +2977,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIGFjY291bnRJZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
