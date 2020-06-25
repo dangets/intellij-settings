@@ -140,12 +140,12 @@
       <file name="/a.sql" timestamp="1593104043593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1593017655489">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c175ea6f-63ad-474d-89cd-3add48f7929e/console.sql" timestamp="1593115632015">
         <mark key="'" line="375" column="0" />
-        <mark key="[" line="391" column="6" />
-        <mark key="]" line="391" column="24" />
-        <mark key="." line="391" column="23" />
-        <mark key="^" line="391" column="24" />
+        <mark key="[" line="394" column="4" />
+        <mark key="]" line="394" column="18" />
+        <mark key="." line="394" column="17" />
+        <mark key="^" line="394" column="18" />
       </file>
       <file name="$USER_HOME$/dev/feature-flags/feature-flags-client/src/test/java/com/ca/feature/flags/client/FeatureFlagsClientIT.java" timestamp="1592455596098">
         <mark key="'" line="59" column="12" />
@@ -296,13 +296,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'x'</text>
+        <text>athena</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgYW5kIGVzYS5ldGxUeXBlSWQgPSAxIGFuZCBlc2Euam9iVHlwZUlkID0gMSBhbmQgZXNhLmV0bERvbmVTdGF0ZUlkID0gMSBhbmQgZXNhLnZlcnNpb24gIT0gJzIuMTYyLjEnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'x'</text>
+        <text>athena</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZENhbGxhYmxlU3RhdGVtZW50Rm9yR2xTZXR0aW5nc1w+</text>
