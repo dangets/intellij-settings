@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQYWlyc1w+</entry>
         <entry encoding="base64">XDxmZWF0dXJlQ2FjaGVcPg==</entry>
         <entry>hermes</entry>
         <entry encoding="base64">XDxlc2FfYW16blw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxCbG9ja0R1bXBlclw+</entry>
         <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
         <entry encoding="base64">XDxldGxQYXJhbVw+</entry>
+        <entry>fip</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -298,7 +298,7 @@
         <text encoding="base64">YmUgc3VyZSB0byBjb21tZW50IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldGxQYXJhbVw+</text>
+        <text>fip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
@@ -2982,13 +2982,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxldGxQYXJhbVw+</last-search>
+      <last-search>fip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldGxQYXJhbVw+</last-pattern>
+      <last-pattern>fip</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
