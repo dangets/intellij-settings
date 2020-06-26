@@ -5,13 +5,8 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>loadinventoryconfig</entry>
-        <entry encoding="base64">XDxnZXRJbnZlbnRvcnlDb25maWdzQ2FsbFw+</entry>
-        <entry>mapmethodconfig</entry>
-        <entry encoding="base64">XDxiYXNpc1Byb3ZpZGVyXD4=</entry>
         <entry>pricedelegate</entry>
         <entry encoding="base64">XDxJbnZlbnRvcnlDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxsb3RBY2Nlc3NvcnlEYXRhRGFvXD4=</entry>
         <entry encoding="base64">XDxsb3RMb25nVGVybURlbGVnYXRlXD4=</entry>
         <entry encoding="base64">XDx1bml0Q2hhbmdlQnVpbGRpbmdQaGFzZVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxVbml0Q2hhbmdlQnVpbGRpbmdQaGFzZVByb3ZpZGVyXD4=</entry>
@@ -25,6 +20,11 @@
         <entry>blah</entry>
         <entry encoding="base64">XDxGdW5jdGlvblw+</entry>
         <entry encoding="base64">XDxpbnZlbnRvcnlDb25maWdQcm92aWRlclw+</entry>
+        <entry encoding="base64">XDxsb3RBY2Nlc3NvcnlEYXRhRGFvXD4=</entry>
+        <entry encoding="base64">XDxsb2FkTG90XD4=</entry>
+        <entry encoding="base64">XDxiYXNpc1Byb3ZpZGVyXD4=</entry>
+        <entry encoding="base64">XDxJbnZlbnRvcnlCYXNpc1Byb3ZpZGVyXD4=</entry>
+        <entry>getlotinventorybasis</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -112,13 +112,15 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/accounting/aws-calc-service/src/main/java/com/ca/aws/calc/dao/WriteDownDao.java" timestamp="1593205208853">
-        <mark key="a" line="271" column="51" />
-        <mark key="'" line="266" column="8" />
-        <mark key="[" line="76" column="56" />
-        <mark key="]" line="77" column="32" />
-        <mark key="." line="77" column="28" />
-        <mark key="^" line="77" column="32" />
+      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-account-lib/16.12.2/ca-account-lib-16.12.2-sources.jar!/com/ca/account/data/BasisClientImpl.java" timestamp="1593210552178">
+        <mark key="'" line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/accounting/aws-calc-service/src/main/java/com/ca/aws/calc/dao/WriteDownDao.java" timestamp="1593209992154">
+        <mark key="a" line="270" column="51" />
+        <mark key="'" line="264" column="15" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="0" />
+        <mark key="." line="270" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ca-lot-lib/src/main/java/com/ca/lot/inventory/LotFactoryImpl.java" timestamp="1593209156058">
         <mark key="'" line="527" column="20" />
@@ -139,9 +141,6 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1593104043593">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593189403844">
         <mark key="'" line="385" column="43" />
         <mark key="[" line="401" column="15" />
@@ -155,7 +154,7 @@
       <file name="$USER_HOME$/dev/etl-dispatcher/src/main/java/com/clearwateranalytics/etl/dao/UsedResourcesDao.java" timestamp="1593124391024">
         <mark key="'" line="132" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-lot-lib/17.2/ca-lot-lib-17.2-sources.jar!/com/ca/lot/dao/InventoryConfigDao.java" timestamp="1593191738888">
+      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-lot-lib/17.2/ca-lot-lib-17.2-sources.jar!/com/ca/lot/dao/InventoryConfigDao.java" timestamp="1593209844177">
         <mark key="'" line="156" column="36" />
         <mark key="[" line="79" column="53" />
         <mark key="]" line="79" column="53" />
@@ -189,23 +188,16 @@
         <mark key="." line="394" column="17" />
         <mark key="^" line="394" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.11.5/ca-calculator-lib-21.11.5-sources.jar!/com/ca/calculator/lotinventory/LotFactories.java" timestamp="1593205666455">
-        <mark key="'" line="76" column="28" />
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="112" />
+      <file name="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.11.5/ca-calculator-lib-21.11.5-sources.jar!/com/ca/calculator/lotinventory/LotFactories.java" timestamp="1593210238545">
+        <mark key="'" line="13" column="22" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="78" column="159" />
       </file>
       <file name="/fragment.java" timestamp="1593193172886">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="28" filename="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" />
-      <jump line="186" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
-      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3ba74229-954b-41c4-aac4-4a3d0dee3bf8/console.sql" />
-      <jump line="132" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/fip/fip-lib/3.19/fip-lib-3.19-sources.jar!/com/ca/fip/price/MbsCashFlowDiscounter.java" />
-      <jump line="487" column="19" filename="$USER_HOME$/dev/gl-lib/src/main/java/com/ca/gl/multibasis/dao/GetGlConfigurationDao.java" />
-      <jump line="192" column="19" filename="$USER_HOME$/dev/gl-lib/src/main/java/com/ca/gl/multibasis/dao/GetGlConfigurationDao.java" />
       <jump line="370" column="30" filename="$USER_HOME$/dev/gl-lib/src/main/java/com/ca/gl/multibasis/dao/GetGlConfigurationDao.java" />
       <jump line="246" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
       <jump line="247" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" />
@@ -299,45 +291,52 @@
       <jump line="364" column="51" filename="$USER_HOME$/dev/ca-lot-lib/src/main/java/com/ca/lot/inventory/LotFactoryImpl.java" />
       <jump line="519" column="20" filename="$USER_HOME$/dev/ca-lot-lib/src/main/java/com/ca/lot/inventory/LotFactoryImpl.java" />
       <jump line="527" column="20" filename="$USER_HOME$/dev/ca-lot-lib/src/main/java/com/ca/lot/inventory/LotFactoryImpl.java" />
+      <jump line="301" column="54" filename="$USER_HOME$/dev/accounting/aws-calc-service/src/main/java/com/ca/aws/calc/dao/WriteDownDao.java" />
+      <jump line="38" column="22" filename="$USER_HOME$/dev/accounting/aws-calc-service/src/main/java/com/ca/aws/calc/dao/WriteDownDao.java" />
+      <jump line="264" column="15" filename="$USER_HOME$/dev/accounting/aws-calc-service/src/main/java/com/ca/aws/calc/dao/WriteDownDao.java" />
+      <jump line="75" column="76" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.11.5/ca-calculator-lib-21.11.5-sources.jar!/com/ca/calculator/lotinventory/LotFactories.java" />
+      <jump line="74" column="8" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.11.5/ca-calculator-lib-21.11.5-sources.jar!/com/ca/calculator/lotinventory/LotFactories.java" />
+      <jump line="13" column="22" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-calculator-lib/21.11.5/ca-calculator-lib-21.11.5-sources.jar!/com/ca/calculator/lotinventory/LotFactories.java" />
+      <jump line="23" column="44" filename="$MAVEN_REPOSITORY$/com/clearwateranalytics/ca-account-lib/16.12.2/ca-account-lib-16.12.2-sources.jar!/com/ca/account/data/BasisClientImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">CQlVbml0Q2hhbmdlQnVpbGRpbmdQaGFzZVByb3ZpZGVyIHVuaXRDaGFuZ2VCdWlsZGluZ1BoYXNlUHJvdmlkZXIgPSBuZXcgRGVmYXVsdFVuaXRDaGFuZ2VCdWlsZGluZ1BoYXNlUHJvdmlkZXIoYWNjb3VudC5nZXRJZCgpLCBpbnZlbnRvcnlDb25maWdQcm92aWRlcik7Cg==</text>
+        <text encoding="base64">CQlMb3RMb25nVGVybURlbGVnYXRlIGxvdExvbmdUZXJtRGVsZWdhdGUgPSBuZXcgVGF4TG90TG9uZ1Rlcm1EZWxlZ2F0ZShhY2NvdW50LCBvcHRpb25NYXAsIGFtb3J0T3ZlcnJpZGVzKTsKCQlCYXNpc0NsaWVudCBiYXNpc0NsaWVudCA9IG5ldyBCYXNpc0NsaWVudEltcGwoKTsKCQlJbnZlbnRvcnlCYXNpc1Byb3ZpZGVyIGJhc2lzUHJvdmlkZXIgPSBiYXNpc0NsaWVudDo6Z2V0TG90SW52ZW50b3J5QmFzaXNJZDsKCQlJbnZlbnRvcnlDb25maWdEYW8gbWV0aG9kRGFvID0gbmV3IEludmVudG9yeUNvbmZpZ0RhbyhqZGJjVGVtcGxhdGUsIGJhc2lzUHJvdmlkZXIpOwoJCUxvdEFjY2Vzc29yeURhdGFEYW8gbG90QWNjZXNzb3J5RGF0YURhbyA9IG5ldyBMb3RBY2Nlc3NvcnlEYXRhRGFvKGpkYmNUZW1wbGF0ZSk7CgkJSW52ZW50b3J5Q29uZmlnUHJvdmlkZXIgaW52ZW50b3J5Q29uZmlnUHJvdmlkZXIgPSBuZXcgSW52ZW50b3J5Q29uZmlnQ2FjaGUobWV0aG9kRGFvOjpnZXRJbnZlbnRvcnlDb25maWcpOwoJCVVuaXRDaGFuZ2VCdWlsZGluZ1BoYXNlUHJvdmlkZXIgdW5pdENoYW5nZUJ1aWxkaW5nUGhhc2VQcm92aWRlciA9IG5ldyBEZWZhdWx0VW5pdENoYW5nZUJ1aWxkaW5nUGhhc2VQcm92aWRlcihhY2NvdW50LmdldElkKCksIGludmVudG9yeUNvbmZpZ1Byb3ZpZGVyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>InventoryBasisProvider</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnZlbnRvcnlDb25maWdQcm92aWRlclw+</text>
+        <text>getlotinventorybasis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMVUVTICgnZGctdGVzdCcsICdvd25lcicsICdkZycsICdtYW51YWwnKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkuZm9yRWFjaChmdXQgLT4gcmVzdWx0aW5nTG90cy5hZGRBbGwoZnV0LmdldCgpKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUGFpcnMub2YobG90c1JlbW92ZWQsIGxvdHNBZGRlZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXByaXZhdGUgTG90RmFjdG9yeSBjcmVhdGVMb3RGYWN0b3J5KEFjY291bnQgYWNjb3VudCwgT3B0aW9uTWFwIG9wdGlvbk1hcCwgQW1vcnRPdmVycmlkZXMgYW1vcnRPdmVycmlkZXMpCgl7CgkJdmFyIGpkYmNUZW1wbGF0ZSA9IG5ldyBKZGJjVGVtcGxhdGUobG1EYXRhU291cmNlKTsKCQl2YXIgcHJpY2VEZWxlZ2F0ZSA9IG5ldyBEZWZhdWx0TG90UHJpY2VEZWxlZ2F0ZShhY2NvdW50LCBvcHRpb25NYXAsIGFtb3J0T3ZlcnJpZGVzKTsKCQl2YXIgbG90TG9uZ1Rlcm1EZWxlZ2F0ZSA9IG5ldyBUYXhMb3RMb25nVGVybURlbGVnYXRlKGFjY291bnQsIG9wdGlvbk1hcCwgYW1vcnRPdmVycmlkZXMpOwoJCXZhciBiYXNpc0NsaWVudCA9IG5ldyBCYXNpc0NsaWVudEltcGwoKTsKCQlJbnZlbnRvcnlCYXNpc1Byb3ZpZGVyIGJhc2lzUHJvdmlkZXIgPSBiYXNpc0NsaWVudDo6Z2V0TG90SW52ZW50b3J5QmFzaXNJZDsKCQlJbnZlbnRvcnlDb25maWdEYW8gbWV0aG9kRGFvID0gbmV3IEludmVudG9yeUNvbmZpZ0RhbyhqZGJjVGVtcGxhdGUsIGJhc2lzUHJvdmlkZXIpOwoJCUxvdEFjY2Vzc29yeURhdGFEYW8gbG90QWNjZXNzb3J5RGF0YURhbyA9IG5ldyBMb3RBY2Nlc3NvcnlEYXRhRGFvKGpkYmNUZW1wbGF0ZSk7CgkJSW52ZW50b3J5Q29uZmlnUHJvdmlkZXIgaW52ZW50b3J5Q29uZmlnUHJvdmlkZXIgPSBuZXcgSW52ZW50b3J5Q29uZmlnQ2FjaGUobWV0aG9kRGFvOjpnZXRJbnZlbnRvcnlDb25maWcpOwoJCVVuaXRDaGFuZ2VCdWlsZGluZ1BoYXNlUHJvdmlkZXIgdW5pdENoYW5nZUJ1aWxkaW5nUGhhc2VQcm92aWRlciA9IG5ldyBEZWZhdWx0VW5pdENoYW5nZUJ1aWxkaW5nUGhhc2VQcm92aWRlcihhY2NvdW50LmdldElkKCksIGludmVudG9yeUNvbmZpZ1Byb3ZpZGVyKTsKCgkJdmFyIGxvdEZhY3RvcnkgPQoJfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwdWJsaWMgTGlzdDxMb3Q+IGdldExvdHNSZW1vdmVkKCkgewoJCQlyZXR1cm4gbG90c1JlbW92ZWQ7CgkJfQoKCQlwdWJsaWMgTGlzdDxMb3Q+IGdldExvdHNBZGRlZCgpIHsKCQkJcmV0dXJuIGxvdHNBZGRlZDsKCQl9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlNYXA8SW52ZW50b3J5R3JvdXBLZXksIExpc3Q8TG90Pj4gZXhpc3RpbmdMb3RzQnlQb3MgPSB0YXhMb3RzLnN0cmVhbSgpCgo=</text>
+        <text encoding="base64">CQlCYXNpc0NsaWVudCBiYXNpc0NsaWVudCA9IG5ldyBCYXNpc0NsaWVudEltcGwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2985,10 +2984,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gY3JlYXRlKGpkYmNUZW1wbGF0ZSwgYWNjb3VudCwgb3B0aW9uTWFwLCBhbW9ydE92ZXJyaWRlcywgcHJpY2VEZWxlZ2F0ZSk7Cg==</text>
+        <text encoding="base64">CQl2YXIgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gY3JlYXRlKGpkYmNUZW1wbGF0ZSwgYWNjb3VudCwgb3B0aW9uTWFwLCBhbW9ydE92ZXJyaWRlcywgcHJpY2VEZWxlZ2F0ZSk7Cg==</text>
+        <text encoding="base64">CQl2YXIgbG90RmFjdG9yeSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2997,9 +2996,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbnZlbnRvcnlDb25maWdQcm92aWRlclw+</last-search>
+      <last-search>getlotinventorybasis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnZlbnRvcnlDb25maWdQcm92aWRlclw+</last-pattern>
+      <last-pattern>getlotinventorybasis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmZXRjaEFsbEFjY291bnRzXD4=</last-substitute>
       <last-dir>1</last-dir>
