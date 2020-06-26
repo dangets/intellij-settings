@@ -103,7 +103,7 @@
         <mark key="^" line="79" column="53" />
         <mark key="." line="79" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593104043604">
+      <file name="/Dummy.txt" timestamp="1593192518453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="0" />
@@ -126,9 +126,6 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/accounting/aws-etl-lib/src/main/java/com/ca/aws/etl/dao/readonly/LazyPricingProvider.java" timestamp="1593029260287">
-        <mark key="'" line="59" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6fda72a8-e2c6-46fe-8a69-2c78b598e96e/console.sql" timestamp="1593104605878">
         <mark key="'" line="7" column="55" />
@@ -185,6 +182,9 @@
       </file>
       <file name="$USER_HOME$/dev/etl-dispatcher/src/main/java/com/clearwateranalytics/etl/dao/UsedResourcesDao.java" timestamp="1593124391024">
         <mark key="'" line="132" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1593192518467">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
