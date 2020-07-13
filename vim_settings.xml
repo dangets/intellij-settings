@@ -178,12 +178,12 @@
         <mark key="^" line="74" column="47" />
         <mark key="." line="74" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593189403844">
-        <mark key="'" line="385" column="43" />
-        <mark key="[" line="401" column="15" />
-        <mark key="]" line="401" column="20" />
-        <mark key="." line="401" column="19" />
-        <mark key="^" line="401" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a3e76253-cde1-46ac-95c4-9fcf259d623d/console.sql" timestamp="1593545684995">
+        <mark key="'" line="386" column="43" />
+        <mark key="[" line="381" column="64" />
+        <mark key="]" line="381" column="68" />
+        <mark key="." line="381" column="67" />
+        <mark key="^" line="381" column="68" />
       </file>
       <file name="$USER_HOME$/dev/etl-dispatcher/src/main/java/com/clearwateranalytics/etl/dispatcher/SystemProperties.java" timestamp="1593122795970">
         <mark key="'" line="141" column="0" />
@@ -301,13 +301,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>7381</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQlMb3RMb25nVGVybURlbGVnYXRlIGxvdExvbmdUZXJtRGVsZWdhdGUgPSBuZXcgVGF4TG90TG9uZ1Rlcm1EZWxlZ2F0ZShhY2NvdW50LCBvcHRpb25NYXAsIGFtb3J0T3ZlcnJpZGVzKTsKCQlCYXNpc0NsaWVudCBiYXNpc0NsaWVudCA9IG5ldyBCYXNpc0NsaWVudEltcGwoKTsKCQlJbnZlbnRvcnlCYXNpc1Byb3ZpZGVyIGJhc2lzUHJvdmlkZXIgPSBiYXNpc0NsaWVudDo6Z2V0TG90SW52ZW50b3J5QmFzaXNJZDsKCQlJbnZlbnRvcnlDb25maWdEYW8gbWV0aG9kRGFvID0gbmV3IEludmVudG9yeUNvbmZpZ0RhbyhqZGJjVGVtcGxhdGUsIGJhc2lzUHJvdmlkZXIpOwoJCUxvdEFjY2Vzc29yeURhdGFEYW8gbG90QWNjZXNzb3J5RGF0YURhbyA9IG5ldyBMb3RBY2Nlc3NvcnlEYXRhRGFvKGpkYmNUZW1wbGF0ZSk7CgkJSW52ZW50b3J5Q29uZmlnUHJvdmlkZXIgaW52ZW50b3J5Q29uZmlnUHJvdmlkZXIgPSBuZXcgSW52ZW50b3J5Q29uZmlnQ2FjaGUobWV0aG9kRGFvOjpnZXRJbnZlbnRvcnlDb25maWcpOwoJCVVuaXRDaGFuZ2VCdWlsZGluZ1BoYXNlUHJvdmlkZXIgdW5pdENoYW5nZUJ1aWxkaW5nUGhhc2VQcm92aWRlciA9IG5ldyBEZWZhdWx0VW5pdENoYW5nZUJ1aWxkaW5nUGhhc2VQcm92aWRlcihhY2NvdW50LmdldElkKCksIGludmVudG9yeUNvbmZpZ1Byb3ZpZGVyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>7381</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZlbnRvcnlDb25maWdEYW9cPg==</text>
